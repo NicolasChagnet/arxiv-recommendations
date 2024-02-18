@@ -1,0 +1,1452 @@
+Ind,authors,title,year,is_cited_own_paper,is_of_interest
+1,Sergio E. Aguilar-Gutierrez; Ben Craps; Juan Hernandez; Mikhail Khramtsov; Maria Knysh; Ashish Shukla,Holographic complexity: braneworld gravity versus the Lloyd bound,2023,False,True
+2,Sergio E. Aguilar-Gutierrez; Andrew Rolph,Krylov complexity is not a measure of distance between states or operators,2023,False,True
+3,Eugenio Megias; Miguel A. Vazquez-Mozo,Anomalous Strangeness Transport,2024,False,True
+4,Vijay Balasubramanian; Javier M. Magan; Qingyue Wu,"Quantum chaos, integrability, and late times in the Krylov basis",2023,False,True
+5,Ben Craps; Marine De Clerck; Oleg Evnin; Philip Hacker,Integrability and complexity in quantum spin chains,2023,False,True
+6,Ben Craps; Marine De Clerck; Oleg Evnin; Philip Hacker; Maxim Pavlov,Bounds on quantum evolution complexity via lattice cryptography,2022,False,True
+7,Vijay Balasubramanian; Pawel Caputa; Javier M. Magan; Qingyue Wu,Quantum chaos and the complexity of spread of states,2022,False,True
+8,Ben Craps; Surbhi Khetrapal; Charles Rabideau,Chaos in CFT dual to rotating BTZ,2021,False,True
+9,Shira Chapman; Giuseppe Policastro,Quantum computational complexity from quantum information to black holes and back,2022,False,True
+10,E. Rabinovici; A. Sánchez-Garrido; R. Shir; J. Sonner,Krylov complexity from integrability to chaos,2022,False,True
+11,Ben Craps; Oleg Evnin; Gabriele Pascuzzi,A relation between Krylov and Nielsen complexity,2023,False,True
+12,Kiran Adhikari; Sayantan Choudhury; Abhishek Roy,Krylov Complexity in Quantum Field Theory,2023,False,True
+13,Pawel Caputa; Javier M. Magan; Dimitrios Patramanis,Geometry of Krylov complexity,2022,False,True
+14,Anatoly Dymarsky; Michael Smolkin,Krylov complexity in conformal field theory,2021,False,True
+15,Daniel E. Parker; Xiangyu Cao; Alexander Avdoshkin; Thomas Scaffidi; Ehud Altman,A Universal Operator Growth Hypothesis,2019,False,True
+16,Johanna Erdmenger; Anna-Lena Weigel; Marius Gerbershagen; Michal P. Heller,From complexity geometry to holographic spacetime,2023,False,True
+17,Michele Caraglio; Ferdinando Gliozzi,Entanglement Entropy and Twist Fields,2008,False,True
+18,Matthew Headrick,Entanglement Renyi entropies in holographic theories,2010,False,True
+19,Ben Craps; Juan Hernandez; Mikhail Khramtsov; Maria Knysh,Delicate windows into evaporating black holes,2023,False,True
+20,Ben Craps; Marine De Clerck; Oleg Evnin,Time-periodicities in holographic CFTs,2021,False,True
+21,Vijay Balasubramanian; Arjun Kar; Cathy Li; Onkar Parrikar; Harshit Rajgadia,Quantum error correction from complexity in Brownian SYK,2023,False,True
+22,Lorenzo Gavassino; Nick Abboud; Enrico Speranza; Jorge Noronha,First-order relativistic hydrodynamics with an information current,2024,False,True
+23,David Pérez-García; Leonardo Santilli; Miguel Tierz,Hawking-Page transition on a spin chain,2024,False,True
+24,Luca V. Delacretaz; Ruchira Mishra,Nonlinear Response in Diffusive Systems,2024,False,True
+25,Rahul Sahay; Mikhail D. Lukin; Jordan Cotler,Emergent Holographic Forces from Tensor Networks and Criticality,2024,False,True
+26,Yanyan Bu; Xin Gao; Zhiwei Li,Nearly critical superfluid: effective field theory and holography,2024,False,True
+27,Kasper Poulsen,Transport and information in open quantum systems,2024,False,True
+28,Duarte Feiteira; José P. S. Lemos; Oleg B. Zaslavskii,"Penrose process in Reissner-Nordstr\""om-AdS black hole spacetimes: Black hole energy factories and black hole bombs",2024,False,True
+29,Nilakash Sorokhaibam,A measure of chaos from eigenstate thermalization hypothesis,2024,False,True
+30,Iain Davies,The 0th and 2nd Laws of Black Hole Mechanics in Einstein-Maxwell-Scalar Effective Field Theory,2024,False,True
+31,Hossein Ghaffarnejad; Elham Ghasemi,"Thermodynamic phase transition of modified Anti-de Sitter Reissner-Nordstr\""{o}m black holes with generalized gauge invariant Einstein-Maxwell gravity",2024,False,True
+32,D. C. Moreira; A. S. Lemos; F. A. Brito,Charged Lifshitz black holes from general covariance breaking,2024,False,True
+33,Sven Gnutzmann; Uzy Smilansky,How Chaotic is the Dynamics Induced by a Hermitian Matrix?,2024,False,True
+34,Nicolas Chagnet; Koenraad Schalm,Hydrodynamics of a relativistic charged fluid in the presence of a periodically modulated chemical potential,2024,True,True
+35,Luca Delacrétaz; Andrew Liam Fitzpatrick; Emanuel Katz; Matthew Walters,Thermalization and hydrodynamics of two-dimensional quantum field theories,2022,False,True
+36,Luca V. Delacretaz; A. Liam Fitzpatrick; Emanuel Katz; Matthew T. Walters,Thermalization and chaos in a 1+1d QFT,2023,False,True
+37,Aavishkar A. Patel; John McGreevy; Daniel P. Arovas; Subir Sachdev,Magnetotransport in a Model of a Disordered Strange Metal,2018,False,True
+38,Taewon Yuk; Sang-Jin Sin,Encoding the lattice in the Holography,2024,False,True
+39,Luca Ciambelli; Luis Lehner,Fluid-gravity correspondence and causal first-order relativistic viscous hydrodynamics,2023,False,True
+40,Kai Lin,Quasinormal Modes by Improved Matrix Method and Weighted Residual Method,2024,False,True
+41,Adrián del Río; Evelyn-Andreea Ester,Electrically charged black hole solutions in semiclassical gravity and dynamics of linear perturbations,2024,False,True
+42,Jorge Pinochet,General relativity in a nutshell I,2023,False,True
+43,Zhiyang Wei; Chengming Tan; Ren Zhang,Generalized Spectral Form Factor in Random Matrix Theory,2024,False,True
+44,Adway Kumar Das; Patrick Pinney; David A. Zarate-Herrada; Saúl Pilatowsky-Cameo; Apollonas S. Matsoukas-Roubeas; Delmar G. A. Cabral; Cameron Cianci; Victor S. Batista; Adolfo del Campo; E. Jonathan Torres-Herrera; Lea F. Santos,Proposal for many-body quantum chaos detection,2024,False,True
+45,Zsolt Gyongyosi; Timothy J. Hollowood; S. Prem Kumar; Andrea Legramandi; Neil Talwar,The Holographic Map of an Evaporating Black Hole,2023,False,True
+46,Kshitij Sharma; Himanshu Sahu; Subroto Mukerjee,Quantum chaos in PT symmetric quantum systems,2024,False,True
+47,Zhuo-Fan Gu; Yu-Kun Yan; Shao-Feng Wu,Neural ODEs for holographic transport models without translation symmetry,2024,False,True
+48,Salvatore Capozziello; Carmen Ferrara,The Equivalence Principle as a Noether Symmetry,2024,False,True
+49,Jonathan J. Heckman; Max Hübner; Chitraang Murdia,On the Holographic Dual of a Topological Symmetry Operator,2024,False,True
+50,Tian-Gang Zhou; Yingfei Gu; Pengfei Zhang,Size Winding Mechanism beyond Maximum Chaos,2024,False,True
+51,Felix Fritzsch; Tomaž Prosen,Boundary chaos,2022,False,True
+52,Lucas Sá; Pedro Ribeiro; Tomaž Prosen,Lindbladian dissipation of strongly-correlated quantum matter,2022,False,True
+53,Felix Fritzsch; Roopayan Ghosh; Tomaž Prosen,Boundary chaos: Exact entanglement dynamics,2023,False,True
+54,Miha Srdinsek; Tomaz Prosen; Spyros Sotiriadis,Ergodicity Breaking and Deviation from Eigenstate Thermalization in Relativistic Quantum Field Theory,2024,False,True
+55,Apollonas S. Matsoukas-Roubeas; Tomaž Prosen; Adolfo del Campo,Quantum Chaos and Coherence: Random Parametric Quantum Channels,2023,False,True
+56,Žiga Krajnik; Johannes Schmidt; Enej Ilievski; Tomaž Prosen,Dynamical Criticality of Magnetization Transfer in Integrable Spin Chains,2024,False,True
+57,Alexios Christopoulos; Andrea De Luca; D. L. Kovrizhin; Tomaž Prosen,Dual symplectic classical circuits: An exactly solvable model of many-body chaos,2023,False,True
+58,Felix Fritzsch; Tomaž Prosen,Boundary Chaos: Spectral Form Factor,2023,False,True
+59,Eren Firat; Alexander Monin; Riccardo Rattazzi; Matthew T. Walters,Flux Correlators and Semiclassics,2023,False,True
+60,Brian Henning; Hitoshi Murayama; Francesco Riva; Jedidiah O. Thompson; Matthew T. Walters,Towards a nonperturbative construction of the S-matrix,2023,False,True
+61,Nikhil Anand; Vincent X. Genest; Emanuel Katz; Zuhair U. Khandker; Matthew T. Walters,RG flow from \phi^4 theory to the 2D Ising model,2017,False,True
+62,Nikodem Popławski,Classical Physics: Spacetime and Fields,2024,False,True
+63,Nicola Pranzini,A formula for the overlap between Generalized Coherent States of any rank one simple Lie algebra,2024,False,True
+64,Akram Touil; Sebastian Deffner,Information scrambling -- a quantum thermodynamic perspective,2024,False,True
+65,A. Naveena Kumara; Shreyas Punacha; Md Sabir Ali,Lyapunov Exponents and Phase Structure of Lifshitz and Hyperscaling Violating Black Holes,2024,False,True
+66,Horatiu Nastase; Jacob Sonnenschein,"Euler fluid in 2+1 dimensions as a gauge theory, and an action for the Euler fluid in any dimension",2024,False,True
+67,Ali Fatemiabhari; Carlos Nunez,From conformal to confining field theories using holography,2024,False,True
+68,Xiao-Yu Zhang; Li-Zhao; Yong-Qiang Wang,Dirac stars in Anti-de Sitter Spacetime,2024,False,True
+69,Ashis Saha; Sunandan Gangopadhyay,Quantum chaos in presence of non-conformality,2024,False,True
+70,T. Daniel Brennan; Zhengdi Sun,A SymTFT for Continuous Symmetries,2024,False,True
+71,Numa Karolinski; Valerio Faraoni,Einstein gravity as the thermal equilibrium state of a nonminimally coupled scalar field geometry,2024,False,True
+72,Andrey Gromov; Leo Radzihovsky,Colloquium: Fracton matter,2024,False,True
+73,Tolga Birkandan,Symbolic analysis of second-order ordinary differential equations with polynomial coefficients,2022,False,True
+74,Tolga Birkandan; Ceren Güzelgün; Elif Şirin; Mustafa Can Uslu,Symbolic and Numerical Analysis in General Relativity with Open Source Computer Algebra Systems,2018,False,True
+75,Eric Gourgoulhon; Marco Mancini,Symbolic tensor calculus on manifolds: a SageMath implementation,2018,False,True
+76,Alexia Auffèves,A short story of quantum and information thermodynamics,2021,False,True
+77,Jingbo Wang,The topological order of the space,2021,False,True
+78,Daniel Elander; Maurizio Piai; John Roughley,Dilatonic states near holographic phase transitions,2021,False,True
+79,Yong Xiao,The holographic state of matter and its implications for quantum gravity,2021,False,True
+80,Loïc Marsot,Geometric studies of the interplay between spin and gravity,2020,False,True
+81,Sebastian De Haro,Noether's Theorems and Energy in General Relativity,2021,False,True
+82,Sebastian Murk; Daniel R. Terno,Universal properties of the near-horizon geometry,2021,False,True
+83,José P. S. Lemos; Paulo Luz,All fundamental electrically charged thin shells in general relativity: From star shells to tension shell black holes and regular black holes and beyond,2021,False,True
+84,Sharmila Gunasekaran; Ivan Booth,Horizons as boundary conditions in spherical symmetry,2019,False,True
+85,Nishad Maskara; Michael Buchhold; Manuel Endres; Evert van Nieuwenburg,A learning algorithm with emergent scaling behavior for classifying phase transitions,2022,False,True
+86,Amr Ahmadain; Israel Klich,Emergent geometry and path integral optimization for a Lifshitz action,2021,False,True
+87,M. Hamed Mohammady,Quantum measurements produce classical heat,2021,False,True
+88,Latévi Mohamed Lawson,Thermodynamics of ideal gas at Planck scale with strong quantum gravity measurement,2021,False,True
+89,Rodrigo de León Ardón,Conformal quantum mechanics as a Floquet-Dirac system,2021,False,True
+90,Ki-Seok Kim; Shinsei Ryu,Entanglement transfer from quantum matter to classical geometry in an emergent holographic dual description of a scalar field theory,2021,False,True
+91,Ilya Esterlis; Haoyu Guo; Aavishkar A. Patel; Subir Sachdev,Large $N$ theory of critical Fermi surfaces,2021,False,True
+92,Soichiro Hashiba; Yusuke Yamada,Stokes phenomenon and gravitational particle production -- How to evaluate it in practice,2021,False,True
+93,Hiroki Asami; Chul-Moon Yoo,Thermal equilibrium states and instability of self-gravitating particles in an asymptotically AdS spacetime,2021,False,True
+94,Tomoki Ozawa; Bruno Mera,Relations between topology and the quantum metric for Chern insulators,2021,False,True
+95,Dominic V. Else; Sheng-Jie Huang; Abhinav Prem; Andrey Gromov,Quantum many-body topology of quasicrystals,2021,False,True
+96,P. I. C. Caneda; G. Menezes,Reduced quantum electrodynamics in curved space,2021,False,True
+97,Harald Reiss,An Attempt to Improve Understanding of the Physics behind Superconductor Phase Transitions and Stability,2021,False,True
+98,Bruno Mera; Tomoki Ozawa,"K\""ahler geometry and Chern insulators -- relations between topology and the quantum metric",2021,False,True
+99,Lucas Daguerre; Raimel Medina; Mario Solis; Gonzalo Torroba,Aspects of quantum information in finite density field theory,2021,False,True
+100,Marco Bardoscia; Paolo Barucca; Stefano Battiston; Fabio Caccioli; Giulio Cimini; Diego Garlaschelli; Fabio Saracco; Tiziano Squartini; Guido Caldarelli,The Physics of Financial Networks,2021,False,True
+101,Ashkan Shekaari; Mahmoud Jafari,Temperature as perturbation in quantum mechanics,2021,False,True
+102,Nirmalya Kajuri,Lectures on bulk reconstruction,2021,False,True
+103,Neven Bilić; Julio C. Fabris,Analog dual to a 2+1-dimensional holographic superconductor,2021,False,True
+104,Jason Bennett,A pedagogical review of gravity as a gauge theory,2021,False,True
+105,Jacopo De Nardis; Benjamin Doyon; Marko Medenjak; Miłosz Panfil,Correlation functions and transport coefficients in generalised hydrodynamics,2022,False,True
+106,Abhay Ashtekar; Eugenio Bianchi,A Short Review of Loop Quantum Gravity,2021,False,True
+107,Silvia Pappalardi; Jorge Kurchan,Low temperature quantum bounds on simple models,2022,False,True
+108,M. Mitrano; A. A. Husain; S. Vig; A. Kogar; M. S. Rak; S. I. Rubeck; J. Schmalian; B. Uchoa; J. Schneeloch; R. Zhong; G. D. Gu; P. Abbamonte,Anomalous density fluctuations in a strange metal,2018,True,True
+109,Benoît Douçot; Ayan Mukhopadhyay; Giuseppe Policastro; Sutapa Samanta,Linear-in-$T$ resistivity from semiholographic non-Fermi liquid models,2021,False,True
+110,Ashley Milsted; Guifre Vidal,Extraction of conformal data in critical quantum spin chains using the Koo-Saleur formula,2017,False,True
+111,J. Ayres; M. Berben; M. Culo; Y.-T. Hsu; E. van Heumen; Y. Huang; J. Zaanen; T. Kondo; T. Takeuchi; J. R. Cooper; C. Putzke; S. Friedemann; A. Carrington; N. E. Hussey,Incoherent transport across the strange metal regime of highly overdoped cuprates,2021,False,True
+112,C. W. J. Beenakker,Random-matrix theory of Majorana fermions and topological superconductors,2015,False,True
+113,Robin Karlsson; Andrei Parnachev; Valentina Prilepina; Samuel Valach,"Thermal Stress Tensor Correlators, OPE and Holography",2022,False,True
+114,Wen-Kun Luo; Cheng-Yong Zhang; Peng Liu; Chao Niu; Bin Wang,Dynamical spontaneous scalarization in Einstein-Maxwell-scalar models in anti-de Sitter spacetime,2022,False,True
+115,Arnab Kundu,Wormholes & Holography: An Introduction,2022,False,True
+116,Youka Kaku; Keiju Murata; Jun Tsujimura,Creating stars orbiting in AdS,2022,False,True
+117,Horacio Casini; Marina Huerta,Lectures on entanglement in quantum field theory,2022,False,True
+118,Yoshimasa Hidaka; Shi Pu; Qun Wang; Di-Lun Yang,Foundations and Applications of Quantum Kinetic Theory,2022,False,True
+119,Jay Armas; Filippo Camilloni,A stable and causal model of magnetohydrodynamics,2022,False,True
+120,Tsuneya Yoshida; Tomonari Mizoguchi; Yasuhiro Hatsugai,Non-Hermitian topology in rock-paper-scissors games,2022,False,True
+121,Sidney Coleman,"Sidney Coleman's Dirac Lecture ""Quantum Mechanics in Your Face""",2022,False,True
+122,Jan Zaanen,Lectures on quantum supreme matter,2021,True,True
+123,Patrik Novosad,Lagrangians for non-relativistic gravity,2022,False,True
+124,Lorenzo Gavassino,Can we make sense of dissipation without causality?,2022,False,True
+125,Saurya Das; Sourav Sur,On the quantum origin of potentials,2021,False,True
+126,Debanjan Chowdhury; Antoine Georges; Olivier Parcollet; Subir Sachdev,Sachdev-Ye-Kitaev Models and Beyond: A Window into Non-Fermi Liquids,2022,False,True
+127,Badis Ydri,On the AdS/CFT correspondence and quantum entanglement,2021,False,True
+128,Lucas Hackl; Eugenio Bianchi,"Bosonic and fermionic Gaussian states from K\""ahler structures",2021,False,True
+129,Alexander Jahn; Jens Eisert,Holographic tensor network models and quantum error correction: A topical review,2021,False,True
+130,Aristomenis Donos; Polydoros Kailidis; Christiana Pantelidou,Dissipation in Holographic Superfluids,2021,False,True
+131,Ghanashyam Date,Lectures on Introduction to Quantum Field Theory,2022,False,True
+132,Ryan Requist,Quantum covariant derivative,2022,False,True
+133,Bowen Chen; Bartlomiej Czech; Zi-zhi Wang,Quantum Information in Holographic Duality,2022,False,True
+134,Ali H. Chamseddine; Alain Connes; Walter D. van Suijlekom,Noncommutativity and Physics: A non-technical review,2022,False,True
+135,Pavel Kovtun,Thermodynamics of polarized relativistic matter,2016,False,True
+136,Rodrigo Arouca; Andrea Cappelli; Hans Hansson,Quantum Field Theory Anomalies in Condensed Matter Physics,2022,False,True
+137,M. Le Delliou,Advanced General Relativity Notes,2022,False,True
+138,Dmitry Ponomarev,Basic introduction to higher-spin theories,2023,False,True
+139,L. F. Cugliandolo; M. Mueller,Quantum Glasses -- a review,2022,False,True
+140,John Preskill,The Physics of Quantum Information,2022,False,True
+141,G. E. Volovik,Particle creation: Schwinger + Unruh + Hawking,2022,False,True
+142,Luca D'Alessio; Yariv Kafri; Anatoli Polkovnikov; Marcos Rigol,From quantum chaos and eigenstate thermalization to statistical mechanics and thermodynamics,2016,True,True
+143,Matthew Headrick; Sam Kitchen; Toby Wiseman,A new approach to static numerical relativity and its application to Kaluza–Klein black holes,2010,True,True
+144,John F. Donoghue,Quantum General Relativity and Effective Field Theory,2023,False,True
+145,Joshua M Deutsch,Eigenstate thermalization hypothesis,2018,False,True
+146,Ignacio García-Mata; Rodolfo A. Jalabert; Diego A. Wisniacki,Out-of-time-order correlators and quantum chaos,2023,False,True
+147,Xinyi Chen-Lin; Luca V. Delacrétaz; Sean A. Hartnoll,Theory of Diffusive Fluctuations,2019,False,True
+148,Matteo Broccoli,Aspects of Conformal Field Theory,2022,False,True
+149,Gary T. Horowitz; Maciej Kolanowski; Jorge E. Santos,Almost all extremal black holes in AdS are singular,2023,False,True
+150,Roberto Emparan; Raimon Luna; Ryotaku Suzuki; Marija Tomašević; Benson Way,Holographic duals of evaporating black holes,2023,False,True
+151,Kakeru Sugiura; Daichi Takeda,Bulk reconstruction of AdS$_{d+1}$ metrics and developing kinematic space,2023,False,True
+152,Emile Pangburn; Anurag Banerjee; Herman Freire; Catherine Pépin,Incoherent transport in a model for the strange metal phase: Memory-matrix formalism,2023,False,True
+153,Federica Devoto; Simone Devoto; Luca Di Luzio; Giovanni Ridolfi,False vacuum decay: an introductory review,2022,False,True
+154,Laurin J. Felder,Quasi-Coherent States on Deformed Quantum Geometries,2023,False,True
+155,Alexander Frenkel; Sean A. Hartnoll,Emergent Area Laws from Entangled Matrices,2023,False,True
+156,Lee C. Loveridge,"Physical and Geometric Interpretations of the Riemann Tensor, Ricci Tensor, and Scalar Curvature",2004,False,True
+157,Sergio B. Juárez,Quantum Information Geometry and its classical aspect,2023,False,True
+158,Pedro R. S. Gomes,An Introduction to Higher-Form Symmetries,2023,False,True
+159,Diego Liska; Vladimir Gritsev; Ward Vleeshouwers; Jiří Minář,Holographic Quantum Scars,2023,False,True
+160,Giampaolo Co',Introducing the Random Phase Approximation Theory,2023,False,True
+161,Chi-Fang Chen; Andrew Lucas; Chao Yin,Speed limits and locality in many-body quantum dynamics,2023,False,True
+162,Daniel Harlow; Ben Heidenreich; Matthew Reece; Tom Rudelius,The Weak Gravity Conjecture: A Review,2023,False,True
+163,Lars Fritz; Thomas Scaffidi,Hydrodynamic electronic transport,2023,True,True
+164,Jürg Fröhlich,Gauge Invariance and Anomalies in Condensed Matter Physics,2023,False,True
+165,D. K. Watson,"The Pauli principle in collective motion: Reimagining and reinterpreting Cooper pairs, the Fermi sea, Pauli blocking and superfluidity",2023,False,True
+166,David Tong,A gauge theory for shallow water,2023,False,True
+167,Aritra Ghosh; Malay Bandyopadhyay; Sushanta Dattagupta; Shamik Gupta,Quantum Brownian Motion: A Review,2023,False,True
+168,Konstantin Wernli,Six lectures on Geometric Quantization,2023,False,True
+169,Michael F. Wondrak; Walter D. Van Suijlekom; Heino Falcke,Gravitational Pair Production and Black Hole Evaporation,2023,False,True
+170,Alexander Krikun,Numerical Solution of the Boundary Value Problems for Partial Differential Equations. Crash course for holographer,2018,True,True
+171,Alexander Adam; Sam Kitchen; Toby Wiseman,A numerical approach to finding general stationary vacuum black holes,2012,True,True
+172,Elliot Banks; Aristomenis Donos; Jerome P. Gauntlett,Thermoelectric DC conductivities and Stokes flows on black hole horizons,2015,True,True
+173,Aristomenis Donos; Jerome P. Gauntlett; Tom Griffin; Nakarin Lohitsiri; Luis Melgar,Holographic DC conductivity and Onsager relations,2017,True,True
+174,Andrew Lucas; Subir Sachdev; Koenraad Schalm,Scale-invariant hyperscaling-violating holographic theories and the resistivity of strange metals with random-field disorder,2014,True,True
+175,Andrew Lucas,Conductivity of a strange metal: from holography to memory functions,2015,True,True
+176,Johanna Erdmenger; Benedikt Herwerth; Steffen Klug; René Meyer; Koenraad Schalm,S-wave superconductivity in anisotropic holographic insulators,2015,True,True
+177,Andrea Amoretti; Daniel Areán; Blaise Goutéraux; Daniele Musso,"dc Resistivity of Quantum Critical, Charge Density Wave States from Gauge-Gravity Duality",2018,True,True
+178,Luca V. Delacrétaz; Blaise Goutéraux; Sean A. Hartnoll; Anna Karlsson,Theory of hydrodynamic transport in fluctuating electronic charge density wave states,2017,True,True
+179,Andrew Lucas; Jesse Crossno; Kin Chung Fong; Philip Kim; Subir Sachdev,Transport in inhomogeneous quantum critical fluids and in the Dirac fluid in graphene,2016,True,True
+180,Blaise Goutéraux; Eric Mefford,Non-vanishing zero-temperature normal density in holographic superfluids,2020,True,True
+181,Andrea Amoretti; Daniel Areán; Blaise Goutéraux; Daniele Musso,Universal Relaxation in a Holographic Metallic Density Wave Phase,2019,True,True
+182,Jay Armas; Akash Jain,Hydrodynamics for charge density waves and their holographic duals,2020,True,True
+183,Michal P. Heller; Alexandre Serantes; Michal Spalinski; Viktor Svensson; Benjamin Withers,Convergence of hydrodynamic modes: insights from kinetic theory and holography,2021,True,True
+184,Paul Chesler; Andrew Lucas; Subir Sachdev,Conformal field theories in a periodic potential: Results from holography and field theory,2014,True,True
+185,Dmitry S. Ageev; Irina Ya. Aref’eva,"When things stop falling, chaos is suppressed",2019,True,True
+186,P. Colangelo; F. De Fazio; N. Losacco,Chaos in a $Q\overline{Q}$ system at finite temperature and baryon density,2020,True,True
+187,Xiao Chen; Yingfei Gu; Andrew Lucas,Many-body quantum dynamics slows down at low density,2020,True,True
+188,Nilakash Sorokhaibam,Phase transition and chaos in charged SYK model,2020,True,True
+189,Matteo Baggioli; Wei-Jia Li,Universal bounds on transport in holographic systems with broken translations,2020,True,True
+190,Blaise Goutéraux; Eric Mefford,Normal Charge Densities in Quantum Critical Superfluids,2020,True,True
+191,Martin Ammon; Daniel Arean; Matteo Baggioli; Seán Gray; Sebastian Grieninger,Pseudo-spontaneous U(1) Symmetry Breaking in Hydrodynamics and Holography,2022,True,True
+192,Raghu Mahajan; Maissam Barkeshli; Sean A. Hartnoll,Non-Fermi liquids and the Wiedemann-Franz law,2013,True,True
+193,Maine Christos; Darshan G. Joshi; Subir Sachdev; Maria Tikhanovskaya,Critical metallic phase in the overdoped random t-J model,2022,True,True
+194,R. Mondaini; S. Tarat; R. T. Scalettar,Quantum critical points and the sign problem,2022,True,True
+195,Ali A. Husain; Matteo Mitrano; Melinda S. Rak; Samantha Rubeck; Bruno Uchoa; Katia March; Christian Dwyer; John Schneeloch; Ruidan Zhong; G. D. Gu; Peter Abbamonte,Crossover of Charge Fluctuations across the Strange Metal Phase Diagram,2019,True,True
+196,A A Abrikosov; I M Khalatnikov,The theory of a fermi liquid (the properties of liquid 3He at low temperatures),1959,True,True
+197,A. Gourgout; G. Grissonnanche; F. Laliberté; A. Ataei; L. Chen; S. Verret; J.-S. Zhou; J. Mravlje; A. Georges; N. Doiron-Leyraud; Louis Taillefer,Seebeck Coefficient in a Cuprate Superconductor: Particle-Hole Asymmetry in the Strange Metal Phase and Fermi Surface Transformation in the Pseudogap Phase,2022,True,True
+198,Chandra M. Varma,Colloquium: Linear in temperature resistivity and associated mysteries including high temperature superconductivity,2020,True,True
+199,Aristomenis Donos; Jerome P. Gauntlett,Minimally packed phases in holography,2016,True,True
+200,D. van der Marel; H. J. A. Molegraaf; J. Zaanen; Z. Nussinov; F. Carbone; A. Damascelli; H. Eisaki; M. Greven; P. H. Kes; M. Li,Quantum critical behaviour in a high-Tc superconductor,2003,True,True
+201,Erik van Heumen; Xuanbo Feng; Silvia Cassanelli; Linda Neubrand; Lennart de Jager; Maarten Berben; Yingkai Huang; Takeshi Kondo; Tsunehiro Takeuchi; Jan Zaanen,Strange metal electrodynamics across the phase diagram of Bi 2 − x Pb x Sr 2 − y La y CuO 6 + δ cuprates,2022,True,True
+202,Jan Zaanen,Why the temperature is high,2004,True,True
+203,Richard A. Davison; Simon A. Gentle; Blaise Goutéraux,Slow relaxation and diffusion in holographic quantum critical phases,2019,True,True
+204,J. W. Loram; K. A. Mirza; J. M. Wade; J. R. Cooper; W. Y. Liang,The electronic specific heat of cuprate superconductors,1994,True,True
+205,Thomas Faulkner; Nabil Iqbal; Hong Liu; John McGreevy; David Vegh,Strange Metal Transport Realized by Gauge/Gravity Duality,2010,True,True
+206,Aurelio Romero-Bermúdez; Alexander Krikun; Koenraad Schalm; Jan Zaanen,Anomalous attenuation of plasmons in strange metals and holography,2019,True,True
+207,Joseph A. Sulpizio; Lior Ella; Asaf Rozen; John Birkbeck; David J. Perello; Debarghya Dutta; Moshe Ben-Shalom; Takashi Taniguchi; Kenji Watanabe; Tobias Holder; Raquel Queiroz; Alessandro Principi; Ady Stern; Thomas Scaffidi; Andre K. Geim; Shahal Ilani,Visualizing Poiseuille flow of hydrodynamic electrons,2019,True,True
+208,Aristomenis Donos; Jerome P. Gauntlett,Holographic Q-lattices,2014,True,True
+209,J. A. N. Bruin; H. Sakai; R. S. Perry; A. P. Mackenzie,Similarity of Scattering Rates in Metals Showing T-Linear Resistivity,2013,True,True
+210,Yi Ling; Peng Liu; Jian-Pin Wu,Holographic butterfly effect at quantum critical points,2017,False,True
+211,Yongjun Ahn; Viktor Jahnke; Hyun-Sik Jeong; Keun-Young Kim,Scrambling in hyperbolic black holes: shock waves and pole-skipping,2019,False,True
+212,Makoto Natsuume; Takashi Okamura,Pole-skipping in a non-black hole geometry,2023,False,True
+213,Koji Hashimoto; Keiju Murata; Norihiro Tanahashi; Ryota Watanabe,Krylov complexity and chaos in quantum mechanics,2023,False,True
+214,Tomohiro Harada; Takaaki Ishii; Takuya Katagiri; Norihiro Tanahashi,Hairy black holes in AdS with Robin boundary conditions,2023,False,True
+215,Bastien Michon; Christophe Berthod; Carl Willem Rischau; Amirreza Ataei; Lu Chen; Seiki Komiya; Shimpei Ono; Louis Taillefer; Dirk Van Der Marel; Antoine Georges,Reconciling scaling of the optical conductivity of cuprate superconductors with Planckian resistivity and specific heat,2023,False,True
+216,S. L. Sondhi; S. M. Girvin; J. P. Carini; D. Shahar,Continuous Quantum Phase Transitions,1997,False,True
+217,Aavishkar A. Patel; Haoyu Guo; Ilya Esterlis; Subir Sachdev,Universal theory of strange metals from spatially random interactions,2023,False,True
+218,J. Rammer; H. Smith,Quantum field-theoretical methods in transport theory of metals,1986,False,True
+219,Sašo Grozdanov; Timotej Lemut; Juan F. Pedraza,Reconstruction of the quasinormal spectrum from pole-skipping,2023,False,True
+220,Navid Abbasi; Karl Landsteiner,Pole-skipping as order parameter to probe a quantum critical point,2023,False,True
+221,Mike Blake,Universal Charge Diffusion and the Butterfly Effect in Holographic Theories,2016,True,True
+222,P.  K. Kovtun; D. T. Son; A. O. Starinets,Viscosity in Strongly Interacting Quantum Field Theories from Black Hole Physics,2005,True,True
+223,Sašo Grozdanov,Bounds on transport from univalence and pole-skipping,2021,False,True
+224,Arnab Kundu; Vinay Malvimat; Ritam Sinha,State Dependence of Krylov Complexity in $2d$ CFTs,2023,False,True
+225,Michal P. Heller; Alexandre Serantes; Michał Spaliński; Benjamin Withers,The Hydrohedron: Bootstrapping Relativistic Hydrodynamics,2023,False,True
+226,Michal P. Heller; Alexandre Serantes; Michał Spaliński; Benjamin Withers,Rigorous Bounds on Transport from Causality,2023,False,True
+227,Matthew Stephenson; Sašo Grozdanov; Andrei O. Starinets; Petar Tadić,Hydrodynamic dispersion relations at finite coupling,2021,False,True
+228,Mauricio Martinez; Thomas Schäfer,Hydrodynamic tails and a fluctuation bound on the bulk viscosity,2017,False,True
+229,Pavel Kovtun; Guy D. Moore; Paul Romatschke,Stickiness of sound: An absolute lower limit on viscosity and the breakdown of second-order relativistic hydrodynamics,2011,False,True
+230,Matteo Baggioli; Bikash Padhi; Philip W. Phillips; Chandan Setty,Conjecture on the butterfly velocity across a quantum phase transition,2018,False,True
+231,Yi Ling; Zhuo-Yu Xian,Holographic butterfly effect and diffusion in quantum critical region,2017,True,True
+232,Huitao Shen; Pengfei Zhang; Ruihua Fan; Hui Zhai,Out-of-time-order correlation at a quantum phase transition,2017,False,True
+233,Zhenhua Zhou; Yi Ling; Jian-Pin Wu,Holographic incoherent transport in Einstein-Maxwell-dilaton gravity,2016,False,True
+234,Yi Ling; Peng Liu; Jian-Pin Wu,Note on the butterfly effect in holographic superconductor models,2017,False,True
+235,Matteo Baggioli; Yanyan Bu; Vaios Ziogas,U(1) quasi-hydrodynamics: Schwinger-Keldysh effective field theory and holography,2023,False,True
+236,Jan De Boer; Jelle Hartong; Emil Have; Niels Obers; Watse Sybesma,Non-boost invariant fluid dynamics,2020,True,True
+237,Mike Blake; Richard A. Davison; Subir Sachdev,Thermal diffusivity and chaos in metals without quasiparticles,2017,True,True
+238,Hyun-Sik Jeong; Keun-Young Kim; Chao Niu,Linear-$T$ resistivity at high temperature,2018,True,True
+239,Andrea Amoretti; Matteo Baggioli; Nicodemo Magnoli; Daniele Musso,Chasing the cuprates with dilatonic dyons,2016,True,True
+240,Yochai Werman; Steven A. Kivelson; Erez Berg,Quantum chaos in an electron-phonon bad metal,2017,True,True
+241,Aavishkar A. Patel; Subir Sachdev,Quantum chaos on a critical Fermi surface,2017,True,True
+242,Aavishkar A. Patel; Debanjan Chowdhury; Subir Sachdev; Brian Swingle,Quantum butterfly effect in weakly interacting diffusive metals,2017,True,True
+243,Yingfei Gu; Andrew Lucas; Xiao-Liang Qi,Energy diffusion and the butterfly effect in inhomogeneous Sachdev-Ye-Kitaev chains,2017,True,True
+244,Christos Charmousis; Blaise Goutéraux; Bom Soo Kim; Elias Kiritsis; Rene Meyer,Effective holographic theories for low-temperature condensed matter systems,2010,True,True
+245,Wei Li; Shu Lin; Jiajie Mei,Thermal Diffusion and Quantum Chaos in Neutral Magnetized Plasma,2019,True,True
+246,Dujin Ahn; Yongjun Ahn; Hyun-Sik Jeong; Keun-Young Kim; Wei-Jia Li; Chao Niu,Thermal diffusivity and butterfly velocity in anisotropic Q-Lattice models,2018,True,True
+247,Luca Delacrétaz; Blaise Goutéraux; Sean Hartnoll; Anna Karlsson,Bad Metals from Fluctuating Density Waves,2017,True,True
+248,Richard A. Davison; Wenbo Fu; Antoine Georges; Yingfei Gu; Kristan Jensen; Subir Sachdev,Thermoelectric transport in disordered metals without quasiparticles: The Sachdev-Ye-Kitaev models and holography,2017,True,True
+249,Shenglong Xu; Brian Swingle,Scrambling dynamics and out-of-time ordered correlators in quantum many-body systems: a tutorial,2022,True,True
+250,Steven S. Gubser; Fabio D. Rocha,Peculiar properties of a charged dilatonic black hole in AdS5,2010,True,True
+251,Y. Aharonov; D. Bohm,Time in the Quantum Theory and the Uncertainty Relation for Time and Energy,1961,True,True
+252,Hyun-Sik Jeong; Keun-Young Kim; Ya-Wen Sun,Quasi-normal modes of dyonic black holes and magneto-hydrodynamics,2022,True,True
+253,Aristomenis Donos; Sean A. Hartnoll,Interaction-driven localization in holography,2013,True,True
+254,Sayantani Bhattacharyya; Veronika E Hubeny; Shiraz Minwalla; Mukund Rangamani,Nonlinear fluid dynamics from gravity,2008,True,True
+255,Andrew Lucas; Sankar Das Sarma,Electronic hydrodynamics and the breakdown of the Wiedemann-Franz and Mott laws in interacting metals,2018,True,True
+256,Hyun-Sik Jeong; Keun-Young Kim; Ya-Wen Sun,Bound of diffusion constants from pole-skipping points: Spontaneous symmetry breaking and magnetic field,2021,True,True
+257,Arpan Bhattacharyya; Arvind Shekar; Aninda Sinha,Circuit complexity in interacting QFTs and RG flows,2018,True,True
+258,J. Anandan; Y. Aharonov,Geometry of quantum evolution,1990,True,True
+259,Adam R. Brown; Daniel A. Roberts; Leonard Susskind; Brian Swingle; Ying Zhao,"Complexity, action, and black holes",2016,True,True
+260,Lucas Hackl; Robert C. Myers,Circuit complexity for free fermions,2018,True,True
+261,Rifath Khan; Chethan Krishnan; Sanchita Sharma,Circuit complexity in fermionic field theory,2018,True,True
+262,Mark R Dowling; Michael A Nielsen,The geometry of quantum computation,2008,True,True
+263,Dean Carmi; Shira Chapman; Hugo Marrochio; Robert C. Myers; Sotaro Sugishita,On the time dependence of holographic complexity,2017,True,True
+264,Ofer Aharony; Steven S. Gubser; Juan Martin Maldacena; Hirosi Ooguri; Yaron Oz,"Large N field theories, string theory and gravity",2000,True,True
+265,Leonard Susskind,Entanglement is not enough,2016,True,True
+266,Ro Jefferson; Robert C. Myers,Circuit complexity in quantum field theory,2017,True,True
+267,Kevin Goldstein; Shamit Kachru; Shiroman Prakash; Sandip P. Trivedi,Holography of charged dilaton black holes,2010,True,True
+268,Edward Witten,"Multitrace operators, boundary conditions, and AdS / CFT correspondence",2001,True,True
+269,Christopher P. Herzog,A holographic prediction of the deconfinement temperature,2007,True,True
+270,Liza Huijse; Subir Sachdev; Brian Swingle,Hidden Fermi surfaces in compressible states of gauge-gravity duality,2012,True,True
+271,Mario Flory; Michal P. Heller,Geometry of complexity in conformal field theory,2020,True,True
+272,Umut Gürsoy; Juan F. Pedraza; Guim Planella Planas,Holographic entanglement as nonlocal magnetism,2023,False,True
+273,Tomas Andrade; Alexander Krikun,Commensurate lock-in in holographic non-homogeneous lattices,2017,True,True
+274,Kristan Jensen; Matthias Kaminski; Pavel Kovtun; Rene Meyer; Adam Ritz; Amos Yarom,Parity-violating hydrodynamics in 2+1 dimensions,2012,True,True
+275,Andrew Lucas; Subir Sachdev,Memory matrix theory of magnetotransport in strange metals,2015,True,True
+276,Kitinan Pongsangangan; T. Ludwig; H. T. C. Stoof; Lars Fritz,Hydrodynamics of charged two-dimensional Dirac systems I: Thermo-electric transport,2022,True,True
+277,Hilbert v. Lohneysen; Achim Rosch; Matthias Vojta; Peter Wolfle,Fermi-liquid instabilities at magnetic quantum phase transitions,2007,True,True
+278,Richard C. Tolman,Static solutions of Einstein's field equations for spheres of fluid,1939,True,True
+279,Chen-Hao Hao; Shi-Xian Sun; Long-Xing Huang; Rong Zhang; Xin Su; Yong-Qiang Wang,Emergency of black holes from wormholes,2023,False,True
+280,C. Elachi,Waves in active and passive periodic structures: A review,1976,True,True
+281,Leo P Kadanoff; Paul C Martin,Hydrodynamic equations and correlation functions,1963,True,True
+282,Vijay Balasubramanian; Per Kraus,A Stress Tensor for Anti-de Sitter Gravity,1999,True,True
+283,Qimiao Si; Silvio Rabello; Kevin Ingersent; J. Lleweilun Smith,Locally critical quantum phase transitions in strongly correlated metals,2001,True,True
+284,Pavel K. Kovtun; Andrei O. Starinets,Quasinormal modes and holography,2005,True,True
+285,J Hwang; T Timusk; GD Gu,"Doping dependent optical properties of Bi2Sr2CaCu2O8+ <span class=""nocase"">δ</span>",2007,True,True
+286,Mohammad Edalati; Juan I. Jottar; Robert G. Leigh,"Shear modes, criticality and extremal black holes",2010,True,True
+287,Mike Blake,Universal diffusion in incoherent black holes,2016,True,True
+288,Jan Zaanen,"Planckian dissipation, minimal viscosity and the transport in cuprate strange metals",2019,True,True
+289,J. Zaanen; G. A. Sawatzky; J. W. Allen,Band gaps and electronic structure of transition-metal compounds,1985,True,True
+290,Patrick A. Lee; Naoto Nagaosa; Xiao-Gang Wen,Doping a Mott insulator: Physics of high-temperature superconductivity,2006,True,True
+291,A. Legros; S. Benhabib; W. Tabis; F. Laliberté; M. Dion; M. Lizaire; B. Vignolle; D. Vignolles; H. Raffy; Z. Z. Li; P. Auban-Senzier; N. Doiron-Leyraud; P. Fournier; D. Colson; L. Taillefer; C. Proust,Universal T-linear resistivity and Planckian dissipation in overdoped cuprates,2019,True,True
+292,Sudip Chakravarty; Bertrand I. Halperin; David R. Nelson,Two-dimensional quantum Heisenberg antiferromagnet at low temperatures,1989,True,True
+293,David Vegh,Holography without translational symmetry,2013,True,True
+294,Sean A. Hartnoll; Christopher P. Herzog,Impure AdS/CFT,2008,True,True
+295,Shi-Fa Guo; Hai-Shan Liu; H. Lu; Yi Pang,Large-Charge Limit of AdS Boson Stars with Mixed Boundary Conditions,2021,True,True
+296,Gian Andrea Inkof; Joachim M. C. Kuppers; Julia M. Link; Blaise Goutéraux; Jörg Schmalian,Quantum critical scaling and holographic bound for transport coefficients near Lifshitz points,2020,True,True
+297,Andrew Lucas,Operator size at finite temperature and Planckian bounds on quantum dynamics,2019,True,True
+298,Brandon W. Langley; Philip W. Phillips,Quantum Critical Diffusion and Thermodynamics in Lifshitz Holography,2021,True,True
+299,Aristomenis Donos; Jerome P. Gauntlett,On the thermodynamics of periodic AdS black branes,2013,True,True
+300,Huan-Kuang Wu; Jay Sau,A classical model for sub-Planckian thermal diffusivity in complex crystals,2021,True,True
+301,Naoto Tsuji; Philipp Werner,Out-of-time-ordered correlators of the Hubbard model: Sachdev-Ye-Kitaev strange metal in the spin-freezing crossover region,2019,True,True
+302,Tomas Andrade; Alexander Krikun; Aurelio Romero-Bermúdez,Charge density response and fake plasmons in holographic models with strong translation symmetry breaking,2019,True,True
+303,Enea Mauri; Henk T. C. Stoof,Screening of coulomb interactions in holography,2019,True,True
+304,Ulf Gran; Marcus Tornsö; Tobias Zingg,Holographic plasmons,2018,True,True
+305,Kohei Kawabata; Anish Kulkarni; Jiachen Li; Tokiro Numasawa; Shinsei Ryu,Symmetry of Open Quantum Systems: Classification of Dissipative Quantum Chaos,2023,False,True
+306,A. -M. S. Tremblay; M. Arai; E. D. Siggia,Fluctuations about simple nonequilibrium steady states,1981,True,True
+307,Thanasis Giannakopoulos,Characteristic formulations of general relativity and applications,2023,False,True
+308,Andrea Amoretti; Alessandro Braggio; Nicodemo Magnoli; Daniele Musso,Bounds on charge and heat diffusivities in momentum dissipating holography,2015,False,True
+309,Guoyang Fu; Xi-Jing Wang; Peng Liu; Dan Zhang; Xiao-Mei Kuang; Jian-Pin Wu,A novel holographic quantum phase transition and butterfly velocity,2022,False,True
+310,Pavel Kovtun,Fluctuation bounds on charge and heat diffusion,2015,False,True
+311,Clifford Chafin; Thomas Schäfer,Hydrodynamic fluctuations and the minimum shear viscosity of the dilute Fermi gas at unitarity,2013,False,True
+312,Tilman Enss; Joseph H. Thywissen,Universal Spin Transport and Quantum Bounds for Unitary Fermions,2018,False,True
+313,Boris A. Gelman; Edward V. Shuryak; Ismail Zahed,Cold Strongly Coupled Atoms Make a Near-perfect Liquid,2005,False,True
+314,Asato Tsuchiya; Kazushi Yamashiro,Information geometry encoded in bulk geometry,2020,False,True
+315,Sourav Karar; Sunandan Gangopadhyay,Holographic information theoretic quantities for Lifshitz black hole,2020,False,True
+316,Jason Pollack; Moshe Rozali; James Sully; David Wakeham,Eigenstate Thermalization and Disorder Averaging in Gravity,2020,False,True
+317,Aron Jansen; Christiana Pantelidou,Quasinormal modes in charged fluids at complex momentum,2020,False,True
+318,Yong Zhong; Zhuoyu Chen; Su-Di Chen; Ke-Jun Xu; Makoto Hashimoto; Yu He; Shin-ichi Uchida; Donghui Lu; Sung-Kwan Mo; Zhi-Xun Shen,Differentiated roles of Lifshitz transition on thermodynamics and superconductivity in La2-xSrxCuO4,2022,False,True
+319,Mohammad Edalati; Juan I. Jottar; Robert G. Leigh,Holography and the sound of criticality,2010,True,True
+320,Daniel K. Brattan; Simon A. Gentle,Shear channel correlators from hot charged black holes,2011,True,True
+321,Thomas Faulkner; Hong Liu; John McGreevy; David Vegh,"Emergent quantum criticality, Fermi surfaces, and AdS2",2011,True,True
+322,B. Goutéraux; E. Kiritsis,Generalized holographic quantum criticality at finite density,2011,True,True
+323,Sean A. Hartnoll,Theory of universal incoherent metallic transport,2015,True,True
+324,Richard A. Davison; Blaise Goutéraux; Sean A. Hartnoll,Incoherent transport in clean quantum critical metals,2015,True,True
+325,Bom Soo Kim,Holographic Renormalization of Einstein-Maxwell-Dilaton Theories,2016,True,True
+326,Marco M. Caldarelli; Ariana Christodoulou; Ioannis Papadimitriou; Kostas Skenderis,Phases of planar AdS black holes with axionic charge,2017,True,True
+327,Vincenzo Scopelliti; Koenraad Schalm; Andrew Lucas,Hydrodynamic charge and heat transport on inhomogeneous curved spaces,2017,True,True
+328,Andrew Lucas; Kin Chung Fong,Hydrodynamics of electrons in graphene,2018,True,True
+329,P. Giraldo-Gallo; J. A. Galvis; Z. Stegen; K. A. Modic; F. F. Balakirev; J. B. Betts; X. Lian; C. Moir; S. C. Riggs; J. Wu; A. T. Bollinger; X. He; I. Božović; B. J. Ramshaw; R. D. McDonald; G. S. Boebinger; A. Shekhter,Scale-invariant magnetoresistance in a cuprate superconductor,2018,True,True
+330,Navid Abbasi; Sara Tahery,Complexified quasinormal modes and the pole-skipping in a holographic system at finite chemical potential,2020,True,True
+331,Li Li,On thermodynamics of AdS black holes with scalar hair,2021,True,True
+332,Daniel Areán; Richard A. Davison; Blaise Goutéraux; Kenta Suzuki,Hydrodynamic Diffusion and Its Breakdown near ${\mathrm{AdS}}_{2}$ Quantum Critical Points,2021,True,True
+333,Kitinan Pongsangangan; T. Ludwig; H. T. C. Stoof; Lars Fritz,Hydrodynamics of charged two-dimensional Dirac systems II: The role of collective modes,2022,True,True
+334,Amit Aharon-Steinberg; Tobias Völkl; Arkady Kaplan; Arnab K. Pariari; Indranil Roy; Tobias Holder; Yotam Wolf; Alexander Y. Meltzer; Yuri Myasoedov; Martin E. Huber; Binghai Yan; Gregory Falkovich; Leonid S. Levitov; Markus Hücker; Eli Zeldov,Direct observation of vortices in an electron fluid,2022,True,True
+335,Navid Abbasi; Matthias Kaminski; Omid Tavakol,Ultraviolet-regulated theory of non-linear diffusion,2022,True,True
+336,Aaron Hui; Calvin Pozderac; Brian Skinner,2D hydrodynamic electron flow through periodic and random potentials,2023,False,True
+337,Ziyi Zhao; Wenhe Cai; Shuta Ishigaki,Doped Holographic Superconductors in Gubser-Rocha model,2023,False,True
+338,Luis Fernando Alday,Conformal Field Theory,2016,True,True
+339,Kiran Adhikari; Adwait Rijal; Ashok Kumar Aryal; Mausam Ghimire; Rajeev Singh; Christian Deppe,Krylov Complexity of Fermionic and Bosonic Gaussian States,2023,False,True
+340,Bartlomiej Czech; Jan De Boer; Dongsheng Ge; Lampros Lamprou,A modular sewing kit for entanglement wedges,2019,True,True
+341,Bartlomiej Czech; Lampros Lamprou; Samuel McCandlish; Benjamin Mosk; James Sully,A stereoscopic look into the bulk,2016,True,True
+342,Leonard Susskind,Addendum to Computational Complexity and Black Hole Horizons,2016,True,True
+343,Blagoje Oblak,Berry phases on virasoro orbits,2017,True,True
+344,Michael Kolodrubetz; Vladimir Gritsev; Anatoli Polkovnikov,Classifying and measuring the geometry of the quantum ground state manifold,2013,True,True
+345,Masahito Yamazaki,Comments on determinant formulas for general CFTs,2016,True,True
+346,Anton Alekseev; Samson L. Shatashvili,"Coadjoint Orbits, Cocycles and Gravitational Wess-Zumino",2018,True,True
+347,Shira Chapman; Jens Eisert; Lucas Hackl; Michal P. Heller; Ro Jefferson; Hugo Marrochio; Robert C. Myers,Complexity and entanglement for thermofield double states,2019,True,True
+348,Douglas Stanford; Leonard Susskind,Complexity and Shock Wave Geometries,2014,True,True
+349,Alexandre Belin; Aitor Lewkowycz; Gabor Sarosi,"Complexity and the bulk volume, a new York time story",2019,True,True
+350,Mario Flory; Nina Miekley,Complexity change under conformal transformations in AdS$_{3}$/CFT$_{2}$,2019,True,True
+351,Pablo Bueno; Javier M. Magan; C. S. Shahbazi,Complexity measures in QFT and constrained geometric actions,2021,True,True
+352,Johanna Erdmenger; Marius Gerbershagen; Anna-Lena Weigel,Complexity measures from geometric actions on Virasoro and Kac-Moody orbits,2020,True,True
+353,Shira Chapman; Hong Zhe Chen,Complexity for charged thermofield double states,2021,True,True
+354,Mario Flory; Michal P. Heller,Conformal field theory complexity from Euler-Arnold equations,2020,True,True
+355,Elena Caceres; Shira Chapman; Josiah D. Couch; Juan P. Hernandez; Robert C. Myers; Shan-Ming Ruan,Complexity of Mixed States in QFT and Holography,2020,True,True
+356,Adam R. Brown; Daniel A. Roberts; Leonard Susskind; Brian Swingle; Ying Zhao,Complexity Equals Action,2016,True,True
+357,Shira Chapman; Hugo Marrochio; Robert C. Myers,Complexity of Formation in Holography,2017,True,True
+358,Ashley Milsted; Guifre Vidal,Geometric interpretation of the multi-scale entanglement renormalization ansatz,2018,True,True
+359,Bartlomiej Czech,Einstein equations from varying complexity,2018,True,True
+360,Donald Marolf; Onkar Parrikar; Charles Rabideau; Ali Izadi Rad; Mark Van Raamsdonk,From Euclidean Sources to Lorentzian Spacetimes in Holographic Conformal Field Theories,2018,True,True
+361,Jan de Boer; Felix M. Haehl; Michal P. Heller; Robert C. Myers,"Entanglement, Holography and Causal Diamonds",2016,True,True
+362,Raimond Abt; Johanna Erdmenger; Marius Gerbershagen; Charles M. Melby-Thompson; Christian Northe,Holographic subregion complexity from kinematic space,2019,True,True
+363,Jan de Boer; Michal P. Heller; Robert C. Myers; Yasha Neiman,Holographic de sitter geometry from entanglement in conformal field theory,2016,True,True
+364,Shira Chapman; Hugo Marrochio; Robert C. Myers,Holographic complexity in vaidya spacetimes. Part I,2018,True,True
+365,Shira Chapman; Hugo Marrochio; Robert C. Myers,Holographic complexity in vaidya spacetimes. Part II,2018,True,True
+366,Zicao Fu; Alexander Maloney; Donald Marolf; Henry Maxfield; Zhencheng Wang,Holographic complexity is nonlocal,2018,True,True
+367,Vladimir Gritsev; Anatoli Polkovnikov,Integrable Floquet dynamics,2017,True,True
+368,G. W. Gibbons,Holography and the Future Tube,2000,True,True
+369,L. Andrianopoli; S. Ferrara; M. A. Lledo; O. Macia,Integration of massive states as contractions of non linear sigma-models,2005,True,True
+370,Bartlomiej Czech; Lampros Lamprou; Samuel McCandlish; James Sully,Integral geometry and holography,2015,True,True
+371,Pawel Caputa; Nilay Kundu; Masamichi Miyaji; Tadashi Takayanagi; Kento Watanabe,Liouville action as path-integral complexity: from continuous tensor networks to AdS/CFT,2017,True,True
+372,Robert F. Penna; Claire Zukowski,Kinematic space and the orbit method,2019,True,True
+373,Joshua D. Qualls,Lectures on Conformal Field Theory,2016,True,True
+374,Bartlomiej Czech; Lampros Lamprou; Samuel McCandlish; James Sully,Modular berry connection for entangled subregions in AdS/CFT,2018,True,True
+375,Tom Levy; Yaron Oz,Liouville Conformal Field Theories in Higher Dimensions,2018,True,True
+376,Hugo A. Camargo; Michal P. Heller; Ro Jefferson; Johannes Knaute,Path integral optimization as circuit complexity,2019,True,True
+377,Ibrahim Akal,Reflections on Virasoro circuit complexity and Berry phase,2022,True,True
+378,Ashley Milsted; Guifre Vidal,Tensor networks as path integral geometry,2018,True,True
+379,João Penedones; Emilio Trevisani; Masahito Yamazaki,Recursion relations for conformal blocks,2016,True,True
+380,J. P. Provost; G. Vallee,Riemannian structure on manifolds of quantum states,1980,True,True
+381,Cesar A. Agón; Matthew Headrick; Brian Swingle,Subsystem complexity and holography,2019,True,True
+382,Pawel Caputa; Javier M. Magan,Quantum Computation as Gravity,2019,True,True
+383,David Simmons-Duffin,TASI Lectures on the Conformal Bootstrap,2017,True,True
+384,D. J. Rowe,Vector coherent state representations and their inner products,2012,True,True
+385,Shouvik Datta; Per Kraus; Ben Michel,Typicality and thermality in 2d CFT,2019,True,True
+386,Shira Chapman; Michal P. Heller; Hugo Marrochio; Fernando Pastawski,Towards Complexity for Quantum Field Theory States,2018,True,True
+387,Alexandre Belin; Aitor Lewkowycz; Gábor Sárosi,The boundary dual of the bulk symplectic form,2019,True,True
+388,John Watrous,Quantum Computational Complexity,2008,True,True
+389,Michael A. Nielsen; Mark R. Dowling; Mile Gu; Andrew C. Doherty,Quantum Computation as Geometry,2006,True,True
+390,D. J. Rowe; G. Rosensteel; R. Gilmore,Vector coherent state representation theory,1985,True,True
+391,S D Bartlett; D J Rowe; J Repka,"Vector coherent state representations, induced representations and geometric quantization: I. Scalar coherent state representations",2002,True,True
+392,S. D. Bartlett; D. J. Rowe; J. Repka,"Vector coherent state representations, induced representations and geometric quantization: II. Vector coherent state representations",2002,True,True
+393,D. J. Rowe; R. Le Blanc; K. T. Hecht,Vector coherent state theory and its application to the orthogonal groups,1988,True,True
+394,Seth Lloyd,Ultimate physical limits to computation,2000,True,True
+395,Lorenzo Campos Venuti; Paolo Zanardi,Quantum critical scaling of the geometric tensors,2007,True,True
+396,Shiraz Minwalla,Restrictions Imposed by Superconformal Invariance on Quantum Field Theories,1998,True,True
+397,Robert Gilmore,On the properties of coherent states,1974,True,True
+398,A. Alekseev; S. Shatashvili,Path integral quantization of the coadjoint orbits of the virasoro group and 2-d gravity,1989,True,True
+399,Pawel Caputa; Shouvik Datta,Operator growth in 2d CFT,2021,False,True
+400,Zhong-Ying Fan,A universal relation for operator complexity,2022,False,True
+401,Arpan Bhattacharyya; Tanvir Hanif; S. Shajidul Haque; Md Khaledur Rahman,Complexity for Open Quantum System,2022,False,True
+402,Budhaditya Bhattacharjee; Xiangyu Cao; Pratik Nandy; Tanay Pathak,Krylov complexity in saddle-dominated scrambling,2022,False,True
+403,Wolfgang Mück; Yi Yang,Krylov complexity and orthogonal polynomials,2022,False,True
+404,Pawel Caputa; Sinong Liu,Quantum complexity and topological phases of matter,2022,False,True
+405,Bowen Chen; Bartlomiej Czech; Jan de Boer; Lampros Lamprou; Zi-zhi Wang,Boundary and bulk notions of transport in the AdS$_3$/CFT$_2$ correspondence,2022,False,True
+406,Temple He; R. Loganayagam; Mukund Rangamani; Julio Virrueta,An effective description of charge diffusion and energy transport in a charged plasma from holography,2023,False,True
+407,Nilakash Sorokhaibam,Quantum chaos and the arrow of time,2023,False,True
+408,Adriaan M. J. Schakel,Boulevard of Broken Symmetries,1998,False,True
+409,W. K. Huang; S. Hosoi; M. Čulo; S. Kasahara; Y. Sato; K. Matsuura; Y. Mizukami; M. Berben; N. E. Hussey; H. Kontani; T. Shibauchi; Y. Matsuda,Non-Fermi liquid transport in the vicinity of nematic quantum critical point of FeSe$_{1-x}$S$_x$ superconductor,2020,False,True
+410,V. A. Khodel; J. W. Clark; M. V. Zverev,Onset of topological quantum chaos in strongly correlated electron systems,2020,False,True
+411,G. Grissonnanche; S. Thériault; A. Gourgout; M.-E. Boulanger; E. Lefrançois; A. Ataei; F. Laliberté; M. Dion; J.-S. Zhou; S. Pyon; T. Takayama; H. Takagi; N. Doiron-Leyraud; L. Taillefer,Phonons become chiral in the pseudogap phase of cuprates,2020,False,True
+412,Michele Fabrizio,Landau-Fermi liquids without quasiparticles,2020,False,True
+413,Grigory Tarnopolsky; Chenyuan Li; Darshan G. Joshi; Subir Sachdev,Metal-insulator transition in a random Hubbard model,2020,False,True
+414,Wontae Kim; Mungon Nam,Temperatures of AdS$_2$ black holes and holography revisited,2023,False,True
+415,Umang Mehta,Postmodern Fermi Liquids,2023,False,True
+416,Satyaki Chowdhury; Martin Bojowald; Jakub Mielczarek,Geometric quantum complexity of bosonic oscillator systems,2023,False,True
+417,Jose Luis Blázquez-Salcedo; Christian Knoll; Eugen Radu,Traversable wormholes in Einstein-Dirac-Maxwell theory,2021,False,True
+418,M. Lavagna,Quantum Phase Transitions,2001,True,True
+419,C.O. Loustó; N. Sánchez,"Gravitational shock waves generated by extended sources: ultrarelativistic cosmic strings, monopoles and domain walls",1991,False,True
+420,Yan-Gang Miao; Long Zhao,Complexity-action duality of the shock wave geometry in a massive gravity theory,2018,False,True
+421,Aristomenis Donos; Jerome P. Gauntlett,Novel metals and insulators from holography,2014,False,True
+422,Paolo Zanardi; Lorenzo Campos Venuti; Paolo Giorda,Bures metric over thermal state manifolds and quantum criticality,2007,True,True
+423,Laurence G. Yaffe,Large $N$ limits as classical mechanics,1982,True,True
+424,M. Luscher; G. Mack,Global conformal invariance in quantum field theory,1975,True,True
+425,Edward Witten,Coadjoint orbits of the Virasoro group,1988,True,True
+426,M. I. Monastyrsky; A. M. Perelomov,Coherent states and symmetric spaces. 2.,1975,True,True
+427,A. M. Perelomov,Coherent states for arbitrary Lie group,1972,True,True
+428,Wei-Min Zhang; Da Hsuan Feng; Robert Gilmore,Coherent states: Theory and some applications,1990,True,True
+429,Alonso Botero,Geometric phase and modulus relations for SU(n) matrix elements in the defining representation,2003,True,True
+430,Michael Kolodrubetz; Dries Sels; Pankaj Mehta; Anatoli Polkovnikov,Geometry and non-adiabatic response in quantum and classical systems,2017,True,True
+431,M. Nielsen,A geometric approach to quantum circuit lower bounds,2006,True,True
+432,Andreas Karch; Emanuel Katz; Dam T. Son; Mikhail A. Stephanov,Linear confinement and AdS/QCD,2006,True,True
+433,Mihailo Cubrovic; Jan Zaanen; Koenraad Schalm,"String Theory, Quantum Phase Transitions and the Emergent Fermi-Liquid",2009,True,True
+434,Steven S. Gubser; Abhinav Nellore,Ground states of holographic superconductors,2009,True,True
+435,Frederik Denef; Sean A. Hartnoll; Subir Sachdev,Quantum oscillations and black hole ringing,2009,True,True
+436,U. Gursoy; E. Kiritsis,Exploring improved holographic theories for QCD: Part I,2008,True,True
+437,U. Gursoy; E. Kiritsis; F. Nitti,Exploring improved holographic theories for QCD: Part II,2008,True,True
+438,Steven S. Gubser; Fabio D. Rocha,The gravity dual to a quantum critical point with spontaneous symmetry breaking,2009,True,True
+439,Gary Horowitz; Albion Lawrence; Eva Silverstein,Insightful D-branes,2009,True,True
+440,Nabil Iqbal; Hong Liu,Real-time response in AdS/CFT with application to spinors,2009,True,True
+441,Gary T. Horowitz; Matthew M. Roberts,Zero Temperature Limit of Holographic Superconductors,2009,True,True
+442,Steven S. Gubser; Fabio D. Rocha; Pedro Talavera,Normalizable fermion modes in a holographic superconductor,2010,True,True
+443,Sean A. Hartnoll; Joseph Polchinski; Eva Silverstein; David Tong,Towards strange metallic holography,2010,True,True
+444,Nabil Iqbal; Hong Liu; Márk Mezei; Qimiao Si,Quantum phase transitions in holographic models of magnetism and superconductors,2010,True,True
+445,Mihailo Čubrović; Yan Liu; Koenraad Schalm; Ya-Wen Sun; Jan Zaanen,Spectral probes of the holographic Fermi groundstate: dialing between the electron star and AdS Dirac hair,2011,True,True
+446,Mihailo Čubrović; Jan Zaanen; Koenraad Schalm,Constructing the AdS dual of a Fermi liquid: AdS Black holes with Dirac hair,2011,True,True
+447,John McGreevy,Holographic duality with a view toward many-body physics,2010,True,True
+448,V. Giangreco M. Puletti; S. Nowling; L. Thorlacius; T. Zingg,Holographic metals at finite temperature,2011,True,True
+449,Liza Huijse; Subir Sachdev,Fermi surfaces and gauge-gravity duality,2011,True,True
+450,Sean A. Hartnoll; Pavel Petrov,Electron star birth: A continuous phase transition at nonzero density,2011,True,True
+451,Sean A. Hartnoll; Alireza Tavanfar,Electron stars for holographic metallic criticality,2011,True,True
+452,Hong Liu; John McGreevy; David Vegh,Non-Fermi liquids from holography,2011,True,True
+453,Sean A. Hartnoll; Diego M. Hofman; David Vegh,Stellar spectroscopy: Fermions and holographic Lifshitz criticality,2011,True,True
+454,Thomas Faulkner; Joseph Polchinski,Semi-holographic Fermi liquids,2011,True,True
+455,Nabil Iqbal; Hong Liu; Márk Mezei,Semi-local quantum liquids,2012,True,True
+456,Sean A. Hartnoll; Liza Huijse,Fractionalization of holographic Fermi surfaces,2012,True,True
+457,Koji Hashimoto; Norihiro Iizuka,A Comment on Holographic Luttinger Theorem,2012,True,True
+458,Andrea Allais; John McGreevy; S. Josephine Suh,A quantum electron star,2012,True,True
+459,Norihiro Iizuka; Nilay Kundu; Prithvi Narayan; Sandip P. Trivedi,Holographic Fermi and Non-Fermi Liquids with Transitions in Dilaton Gravity,2012,True,True
+460,Subir Sachdev,A model of a Fermi liquid using gauge-gravity duality,2011,True,True
+461,Nabil Iqbal; Hong Liu,"Luttinger's theorem, superfluid vortices, and holography",2012,True,True
+462,Guy F. de Teramond; Stanley J. Brodsky,Excited baryons in holographic QCD,2012,True,True
+463,Zhen Fang; Danning Li; Yue-Liang Wu,IR-improved soft-wall AdS/QCD model for baryons,2016,True,True
+464,Mariya V. Medvedyeva; Elena Gubankova; Mihailo Čubrović; Koenraad Schalm; Jan Zaanen,Quantum corrected phase diagram of holographic fermions,2013,True,True
+465,Andrea Allais; John McGreevy,How to construct a gravitating quantum electron star,2013,True,True
+466,M. Gurvitch; A. T. Fiory,Resistivity of ${\mathrm{La}}_{1.825}$${\mathrm{Sr}}_{0.175}$${\mathrm{CuO}}_{4}$ and ${\mathrm{YBa}}_{2}$${\mathrm{Cu}}_{3}$${\mathrm{O}}_{7}$ to 1100 K: Absence of saturation and its implications,1987,True,True
+467,Jian-Pin Wu,Dynamical gap driven by Yukawa coupling in holography,2019,True,True
+468,David B. Kaplan; Jong-Wan Lee; Dam T. Son; Mikhail A. Stephanov,Conformality lost,2009,True,True
+469,Oliver DeWolfe; Steven S. Gubser; Christopher Rosen,Fermi surfaces in maximal gauged supergravity,2012,True,True
+470,Sergio Ciuchi; Simone Fratini,Strange metal behavior from incoherent carriers scattered by local moments,2023,False,True
+471,Kamran Behnia; Kostya Trachenko,How heat propagates in `non-Fermi liquid' $^3$He,2023,False,True
+472,Zhi-Han Li; Chen-Qi Li; Long-Gang Pang,Solving Einstein equations using deep learning,2023,False,True
+473,Laura Batini; Eduardo Grossi; Nicolas Wink,Dissipation dynamics of a scalar field,2023,False,True
+474,Blaise Goutéraux; Ashish Shukla,Beyond Drude transport in hydrodynamic metals,2023,False,True
+475,R. T. Collins; Z. Schlesinger; F. Holtzberg; P. Chaudhari; C. Feild,Reflectivity and conductivity of ${\mathrm{YBa}}_{2}$${\mathrm{Cu}}_{3}$${\mathrm{O}}_{7}$,1989,True,True
+476,Joseph Orenstein; G. A. Thomas; A. J. Millis; S. L. Cooper; D. H. Rapkine; T. Timusk; L. F. Schneemeyer; J. V. Waszczak,Frequency- and temperature-dependent conductivity in ${\mathrm{YBa}}_{2}$${\mathrm{Cu}}_{3}$${\mathrm{O}}_{6+\mathit{x}}$ crystals,1990,True,True
+477,C. Collignon; A. Ataei; A. Gourgout; S. Badoux; M. Lizaire; A. Legros; S. Licciardello; S. Wiedmann; J.-Q. Yan; J.-S. Zhou; Q. Ma; B. D. Gaulin; Nicolas Doiron-Leyraud; Louis Taillefer,Thermopower across the phase diagram of the cuprate ${\mathrm{La}}_{1.6\ensuremath{-}x}{\mathrm{Nd}}_{0.4}{\mathrm{Sr}}_{x}{\mathrm{CuO}}_{4}$: Signatures of the pseudogap and charge density wave phases,2021,True,True
+478,Chaitanya Murthy; Akshat Pandey; Ilya Esterlis; Steven A. Kivelson,A stability bound on the T-linear resistivity of conventional metals,2023,True,True
+479,Philip W. Phillips; Nigel E. Hussey; Peter Abbamonte,Stranger than metals,2022,True,True
+480,N. E. Hussey ‖; K. Takenaka; H. Takagi,Universality of the Mott–Ioffe–Regel limit in metals,2004,True,True
+481,Benjamin Withers,Holographic checkerboards,2014,True,True
+482,Jerome P. Gauntlett; Julian Sonner; Toby Wiseman,Quantum criticality and holographic superconductors in M-theory,2010,True,True
+483,Tom Faulkner; Nabil Iqbal; Hong Liu; John McGreevy; David Vegh,Holographic non-Fermi-liquid fixed points,2011,True,True
+484,Andrey Gromov; Andrew Lucas; Rahul M. Nandkishore,Fracton hydrodynamics,2020,False,True
+485,Kevin T. Grosvenor; Carlos Hoyos; Francisco Peña-Benitez; Piotr Surówka,Hydrodynamics of ideal fracton fluids,2021,False,True
+486,Aleksander Głódkowski; Francisco Peña-Benítez; Piotr Surówka,Hydrodynamics of dipole-conserving fluids,2023,False,True
+487,Evangelos Afxonidis; Alessio Caddeo; Carlos Hoyos; Daniele Musso,Fracton gravity from spacetime dipole symmetry,2023,False,True
+488,James Mangan,FiniteFieldSolve: Exactly Solving Large Linear Systems in High-Energy Theory,2023,False,True
+489,Saulo M. Diles; Alex S. Miranda; Luis A. H. Mamani; Alex M. Echemendia; Vilson T. Zanchin,Third-order relativistic fluid dynamics at finite density in a general hydrodynamic frame,2023,False,True
+490,Tuna Demircik; Domingo Gallegos; Umut Gürsoy; Matti Järvinen; Ruben Lier,A Novel Method for Holographic Transport,2023,False,True
+491,Filipe Moura; João Rodrigues,WKB method and quasinormal modes of string-theoretical d-dimensional black holes,2023,False,True
+492,Stefano Baiguera,Aspects of Non-Relativistic Quantum Field Theories,2023,False,True
+493,Jiaozi Wang; Jonas Richter; Mats H. Lamann; Robin Steinigeweg; Jochen Gemmer; Anatoly Dymarsky,Emergence of unitary symmetry of microcanonically truncated operators in chaotic quantum systems,2023,False,True
+494,Joseph Smith,"Fermions with $SU(1,n)$ Spacetime Symmetry",2023,False,True
+495,Isaac Layton; Jonathan Oppenheim,The classical-quantum limit,2023,False,True
+496,Alexios A. Michailidis; Dmitry A. Abanin; Luca V. Delacrétaz,Corrections to diffusion in interacting quantum systems,2023,False,True
+497,Andreas Dechant; Jérôme Garnier-Brun; Shin-ichi Sasa,Thermodynamic Bounds on Correlation Times,2023,False,True
+498,Serhii Kryhin; Qiantan Hong; Leonid Levitov,$T$-linear conductance in electron hydrodynamics,2023,False,True
+499,Ben Kain,Einstein-Dirac-Maxwell wormholes in quantum field theory,2023,False,True
+500,Sabrina Pasterski; Monica Pate; Ana-Maria Raclariu,Celestial Holography,2021,False,True
+501,Chen-Te Ma,AdS$_3$ Einstein Gravity and Boundary Description: Pedagogical Review,2023,False,True
+502,Jukka P. Pekola; Bayan Karimi,Heat bath in a quantum circuit,2023,False,True
+503,Bernard S. Kay,Quantum Field Theory in Curved Spacetime (2nd Edition),2023,False,True
+504,Yucheng He; Zeqiang Wang; Deyou Chen,Report on chaos bound outside Taub-NUT black holes,2023,False,True
+505,Nahomi Kan; Kiyoshi Shiraishi,Electric and dilatonic fields of a charged massive particle at rest in the field of a charged dilaton black hole,2023,False,True
+506,Lam Hui; Alessandro Podo; Luca Santoni; Enrico Trincherini,An analytic approach to quasinormal modes for coupled linear systems,2023,False,True
+507,Andrew Osborne; Chao Yin; Andrew Lucas,Locality bounds for quantum dynamics at low energy,2023,False,True
+508,Satoshi Nawata; Runkai Tao; Daisuke Yokoyama,Fudan lectures on string theory,2023,False,True
+509,T. Senthil,Deconfined quantum critical points: a review,2023,False,True
+510,Yasuyuki Hatsuda; Masashi Kimura,Spectral Problems for Quasinormal Modes of Black Holes,2021,False,True
+511,Tomas S. Grigera,Everything you wish to know about correlations but are afraid to ask,2020,False,True
+512,James Dufty; Kai Luo; Jeffrey Wrighton,Generalized hydrodynamics revisited,2020,False,True
+513,Gustavo Cesar Valdivia Mera,A review on the Unruh Effect and the Thermofield-double state,2020,False,True
+514,Johanna Erdmenger; Kevin T. Grosvenor; Ro Jefferson,Information geometry in quantum field theory: lessons from simple examples,2020,False,True
+515,Christian Corda; Fabiano Feleppa,The quantum black hole as a gravitational hydrogen atom,2020,False,True
+516,Robert H. Jonsson; David Q. Aruquipa; Marc Casals; Achim Kempf; Eduardo Martín-Martínez,Communication through quantum fields near a black hole,2020,False,True
+517,Jesse C. Cresswell,Quantum Information Approaches to Quantum Gravity,2019,False,True
+518,Pablo Antonio Moreno Casares,A review on Loop Quantum Gravity,2018,False,True
+519,Giampiero Esposito,An introduction to quantum gravity,2011,False,True
+520,Maria Patmiou; V. G. Karpov,Qualitative methods in condensed matter physics,2019,False,True
+521,Benjamin Doyon,Lecture notes on Generalised Hydrodynamics,2020,False,True
+522,Jacob Biamonte,Lectures on Quantum Tensor Networks,2020,False,True
+523,Mathieu Lewin; Elliott H. Lieb; Robert Seiringer,Universal Functionals in Density Functional Theory,2019,False,True
+524,C. M. Varma; Z. Nussinov; W. van Saarloos,Singular Fermi Liquids,2002,False,True
+525,Daniel Tay,An introduction to Eigenvalue Thermalization Hypothesis (ETH) in Conformal Field Theory (CFT),2019,False,True
+526,Raul Aguero-Santacruz; David Bermudez,Hawking radiation in optics and beyond,2020,False,True
+527,Mark Van Raamsdonk,Building up spacetime with quantum entanglement,2010,False,True
+528,De-Chang Dai; Djordje Minic; Dejan Stojkovic; Changbo Fu,Testing ER=EPR,2020,False,True
+529,Pinaki Banerjee,ST4 Lectures on Assorted Topics in AdS3/CFT2,2018,False,True
+530,Lorenzo Piroli; Christoph Sünderhauf; Xiao-Liang Qi,A Random Unitary Circuit Model for Black Hole Evaporation,2020,False,True
+531,Hikaru Kawai; Yuki Yokokura,Black Hole as a Quantum Field Configuration,2020,False,True
+532,Elliot Christou; Fernado de Juan; Frank Krüger,Novel criticality of Dirac fermions in the presence of emergent gauge fields,2020,False,True
+533,Dmitrii A. Trunin,Pedagogical introduction to SYK model and 2D Dilaton Gravity,2021,False,True
+534,John McGreevy,TASI lectures on quantum matter (with a view toward holographic duality),2017,False,True
+535,Xiao-Gang Wen,Topological order: from long-range entangled quantum matter to an unification of light and electrons,2013,False,True
+536,Nabil Iqbal; Hong Liu; Márk Mezei,Lectures on holographic non-Fermi liquids and quantum phase transitions,2011,True,True
+537,Andrei Berceanu,Towards Understanding the Non-Fermi-Liquid Behaviour of MnSi,2008,False,True
+538,Thierry Giamarchi,Interactions in Quantum Fluids,2010,False,True
+539,Enrique Alvarez,Windows on Quantum Gravity,2021,False,True
+540,J. Zaanen; B. J. Overbosch,Mottness collapse and statistical quantum criticality,2011,False,True
+541,J. Zaanen; F. Krüger; J.-H. She; D. Sadri; S. I. Mukhin,Pacifying the Fermi-liquid: battling the devious fermion signs,2008,False,True
+542,N. Kaplis; F. Krüger; J. Zaanen,Entanglement entropies and fermion signs of critical metals,2017,False,True
+543,Edwin A. Bedolla-Montiel; Luis Carlos Padierna; Ramón Castañeda-Priego,Machine Learning for Condensed Matter Physics,2020,False,True
+544,Edwin W. Huang; Ryan Sheppard; Brian Moritz; Thomas P. Devereaux,Strange metallicity in the doped Hubbard model,2019,True,True
+545,Shuai Chen; Qing-Rui Wang; Yang Qi; D. N. Sheng; Zheng-Yu Weng,Single-hole wave function in two dimensions: A case study of the doped Mott insulator,2019,False,True
+546,Ronald de Wolf,Quantum Computing: Lecture Notes,2019,False,True
+547,Kostas Skenderis,Lecture Notes on Holographic Renormalization,2002,False,True
+548,Jacob C. Bridgeman; Christopher T. Chubb,Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks,2017,False,True
+549,Miron Amusia; Vasily Shaginyan,Strongly Correlated Fermi Systems: A New State of Matter,2020,False,True
+550,Ben J. Powell,Emergent particles and gauge fields in quantum matter,2020,False,True
+551,B. Keimer; S. A. Kivelson; M. R. Norman; S. Uchida; J. Zaanen,From quantum matter to high-temperature superconductivity in copper oxides,2015,True,True
+552,Gustav Uhre Jakobsen,General Relativity from Quantum Field Theory,2020,False,True
+553,Louk Rademaker,A Practical Introduction to Density Functional Theory,2020,False,True
+554,J. Cayssol; J.-N. Fuchs,Topological and geometrical aspects of band theory,2021,False,True
+555,Pinaki Banerjee; Bidisha Chakrabarty; Swapnamay Mondal,Phase Thermalization: from Heavy Fermi Liquid to Incoherent Metal,2020,False,True
+556,Geunho Song,Holographic Study on Quantum Criticality,2020,False,True
+557,Frank Göhmann,Introduction to Solid State Physics,2021,False,True
+558,Matteo Baggioli; Keun-Young Kim; Li Li; Wei-Jia Li,Holographic Axion Model: a simple gravitational tool for quantum matter,2021,True,True
+559,Sankar Das Sarma; Yunxiang Liao,Know the enemy: 2D Fermi liquids,2021,False,True
+560,Hiroyasu Tajima; Keiji Saito,Symmetry hinders quantum information recovery,2021,False,True
+561,Henry Maxﬁeld,Lectures on black hole information and spacetime wormholes,2021,False,True
+562,Götz Seibold; Riccardo Arpaia; Ying Ying Peng; Roberto Fumagalli; Lucio Braicovich; Carlo Di Castro; Marco Grilli; Giacomo Claudio Ghiringhelli; Sergio Caprara,Strange metal behaviour from charge density fluctuations in cuprates,2021,False,True
+563,E. C. Marino; R. Arouca,Magnetic Field Effects on the Transport Properties of High-Tc Cuprates,2021,False,True
+564,An Gong; Chong-Bin Chen; Fu-Wen Shu,Kinematic space for quantum extremal surface,2023,False,True
+565,Zi-Qing Xiao; Run-Qiu Yang,Holographic quantum distances and replica trick,2023,False,True
+566,Shi-Dong Liang; Matthew J. Lake,An Introduction to Noncommutative Physics,2023,False,True
+567,Luis Alvarez-Gaume; Miguel A. Vazquez-Mozo,Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach,2023,False,True
+568,Akihiro Ishibashi; Kengo Maeda; Takashi Okamura,Semiclassical Einstein equations from holography and boundary dynamics,2023,False,True
+569,Arpit Das; Ruth Gregory; Nabil Iqbal,"Higher-form symmetries, anomalous magnetohydrodynamics, and holography",2023,False,True
+570,Thomas G. Mertens; Gustavo J. Turiaci,Solvable Models of Quantum Black Holes: A Review on Jackiw-Teitelboim Gravity,2023,False,True
+571,Fabian H. L. Essler,A short introduction to Generalized Hydrodynamics,2022,False,True
+572,Sean A. Hartnoll; Andrew P. Mackenzie,Planckian Dissipation in Metals,2022,True,True
+573,Ran Luo; Qing-Rui Wang; Yi-Nan Wang,Lecture Notes on Generalized Symmetries and Applications,2023,False,True
+574,Lakshya Bhardwaj; Lea E. Bottini; Ludovic Fraser-Taliente; Liam Gladden; Dewi S. W. Gould; Arthur Platschorre; Hannah Tillim,Lectures on Generalized Symmetries,2023,False,True
+575,Iliya Esin; Étienne Lantagne-Hurtubise; Frederik Nathan; Gil Refael,Quantum geometry and bounds on dissipation in slowly driven quantum systems,2023,False,True
+576,G. E. Volovik,Views on gravity from condensed matter physics,2023,False,True
+577,João M. L. de Freitas; Iberê Kuntz,Massive graviton from diffeomorphism invariance,2023,False,True
+578,Yoichi Ando,Topological Insulators,2023,False,True
+579,A. P. Isaev,Lectures on Quantum Groups and Yang-Baxter Equations,2023,False,True
+580,John L. Friedman,Notes on Gravitational Physics,2023,False,True
+581,Marcelo M. Disconzi,Recent developments in mathematical aspects of relativistic fluids,2023,False,True
+582,Takato Mori,"Entanglement structure in quantum many-body systems, field theories, and holography",2023,False,True
+583,Ian Chaffey; Sylvain Fichet; Philip Tanedo,Holography of Broken U(1) Symmetry,2023,False,True
+584,B. Michon; C. Berthod; C. W. Rischau; A. Ataei; L. Chen; S. Komiya; S. Ono; L. Taillefer; D. van der Marel; A. Georges,Planckian behavior of cuprate superconductors: Reconciling the scaling of optical conductivity with resistivity and specific heat,2022,True,True
+585,Andrew M. Evans; Alexandra Miller; Aaron Russell,A Conformal Field Theory Primer in $D\geq3$,2023,False,True
+586,Matteo Baggioli; Blaise Goutéraux,Colloquium: Hydrodynamics and holography of charge density wave phases,2023,True,True
+587,Patrizia Vitale; Martina Adamo; Roukaya Dekhil; Diego Fernández-Silvestre,Introduction to noncommutative field and gauge theory,2023,False,True
+588,Adam Marsh,From quantum electrodynamics to a geometric gauge theory of classical electromagnetism,2023,False,True
+589,Manuel Tecchiolli,On the Mathematics of Coframe Formalism and Einstein-Cartan Theory -- A Brief Review,2019,False,True
+590,Song He; Yi Li,Holographic Euclidean thermal correlator,2023,False,True
+591,Christopher Eling,A gauge theory for the 2+1 dimensional incompressible Euler equations,2023,False,True
+592,Mahendra K. Verma,Insights into the Energy Transfers in Hydrodynamic Turbulence Using Field-theoretic Tools,2023,False,True
+593,Balázs Hetényi; Péter Lévay,"Fluctuations, uncertainty relations, and the geometry of quantum state manifolds",2023,False,True
+594,Xiaoyang Huang; Subir Sachdev; Andrew Lucas,Disordered quantum critical fixed points from holography,2023,False,True
+595,D. V. Khveshchenko,Diagnostic Tomography of Applied Holography,2023,False,True
+596,Hossein Hosseinabadi; Shane P. Kelly; Jörg Schmalian; Jamir Marino,Thermalization of non-Fermi-liquid electron-phonon systems: Hydrodynamic relaxation of the Yukawa-Sachdev-Ye-Kitaev model,2023,False,True
+597,Gary T. Horowitz; Jorge E. Santos; David Tong,Further evidence for lattice-induced scaling,2012,True,True
+598,Gary T. Horowitz; Jorge E. Santos; David Tong,Optical conductivity with holographic lattices,2012,True,True
+599,Sean A. Hartnoll; Diego M. Hofman,Locally Critical Resistivities from Umklapp Scattering,2012,True,True
+600,Aristomenis Donos; Jerome P. Gauntlett,The thermoelectric properties of inhomogeneous holographic lattices,2015,True,True
+601,Luca V. Delacrétaz; Blaise Goutéraux; Vaios Ziogas,Damping of Pseudo-Goldstone Fields,2022,True,True
+602,C. M. Varma; P. B. Littlewood; S. Schmitt-Rink; E. Abrahams; A. E. Ruckenstein,Phenomenology of the normal state of Cu-O high-temperature superconductors,1989,True,True
+603,Richard A. Davison; Blaise Goutéraux,Dissecting holographic conductivities,2015,True,True
+604,Sean A. Hartnoll; Raghu Mahajan; Matthias Punk; Subir Sachdev,Transport near the Ising-nematic quantum critical point of metals in two dimensions,2014,True,True
+605,Richard A. Davison; Koenraad Schalm; Jan Zaanen,Holographic duality and the resistivity of strange metals,2014,True,True
+606,Aristomenis Donos; Jerome P. Gauntlett; Tom Griffin; Luis Melgar,DC conductivity of magnetised holographic matter,2016,True,True
+607,Aristomenis Donos; Jerome P. Gauntlett,Thermoelectric DC conductivities from black hole horizons,2014,True,True
+608,Andrew Lucas,Hydrodynamic transport in strongly coupled disordered quantum field theories,2015,True,True
+609,Aristomenis Donos; Jerome P. Gauntlett; Vaios Ziogas,Diffusion in inhomogeneous media,2017,True,True
+610,Yi Ling; Chao Niu; Jian-Pin Wu; Zhuo-Yu Xian,Holographic lattice in Einstein-Maxwell-dilaton gravity,2013,True,True
+611,Richard J. Anantua; Sean A. Hartnoll; Victoria L. Martin; David M. Ramirez,The Pauli exclusion principle at strong coupling: holographic matter and momentum space,2013,True,True
+612,Hyun-Sik Jeong; Keun-Young Kim; Ya-Wen Sun,The breakdown of magneto-hydrodynamics near AdS2 fixed point and energy diffusion bound,2022,True,True
+613,Jay Armas; Akash Jain; Ruben Lier,"Approximate symmetries, pseudo-Goldstones, and the second law of thermodynamics",2022,True,True
+614,Ning Wu; Matteo Baggioli; Wei-Jia Li,On the universality of AdS2 diffusion bounds and the breakdown of linearized hydrodynamics,2021,True,True
+615,Juan Maldacena; Stephen H. Shenker; Douglas Stanford,A bound on chaos,2016,True,True
+616,Mike Blake; Aristomenis Donos,Diffusion and Chaos from near AdS$_2$ horizons,2017,True,True
+617,Richard A. Davison; Andrei Parnachev,Hydrodynamics of cold holographic matter,2013,True,True
+618,Sašo Grozdanov; Koenraad Schalm; Vincenzo Scopelliti,Black Hole Scrambling from Hydrodynamics,2018,True,True
+619,Chao Niu; Keun-Young Kim,Diffusion and butterfly velocity at finite density,2017,True,True
+620,Yan Liu; Xin-Meng Wu,Breakdown of hydrodynamics from holographic pole collision,2022,True,True
+621,Alice Bernamonti; Ben Craps,D-Brane Potentials from Multi-Trace Deformations in AdS/CFT,2009,True,True
+622,Luca Vecchi,"Multitrace deformations, Gamow states, and Stability of AdS/CFT",2011,True,True
+623,Koenraad Schalm; Gary Shiu; Jan Pieter van der Schaar,Decoupling in an expanding universe: boundary RG-flow affects initial conditions for inflation,2004,True,True
+624,Ioannis Papadimitriou,Multi-Trace Deformations in AdS/CFT: Exploring the Vacuum Structure of the Deformed CFT,2007,True,True
+625,Wolfgang Mück,An improved correspondence formula for AdS/CFT with multi-trace operators,2002,True,True
+626,Edward Witten,"Multi-Trace Operators, Boundary Conditions, And AdS/CFT Correspondence",2002,True,True
+627,Floris Balm; Nicolas Chagnet; Sam Arend; Joost Aretz; Kevin Grosvenor; Martijn Janse; Ole Moors; Jonah Post; Vladimir Ohanesjan; David Rodriguez-Fernandez; Koenraad Schalm; Jan Zaanen,"T-linear resistivity, optical conductivity and Planckian transport for a holographic local quantum critical metal in a periodic potential",2023,True,True
+628,Ethan Dyer; Kurt Hinterbichler,"Boundary terms, variational principles, and higher derivative modified gravity",2009,True,True
+629,Jie Ren,Analytic solutions of neutral hyperbolic black holes with scalar hair,2022,True,True
+630,Mohsen Alishahiha; Souvik Banerjee,A universal approach to Krylov State and Operator complexities,2023,False,True
+631,Pawel O. Mazur; Emil Mottola,Gravitational Condensate Stars: An Alternative to Black Holes,2023,False,True
+632,Pablo Basteiro; Johanna Erdmenger; Pascal Fries; Florian Goth; Ioannis Matthaiakakis; René Meyer,Quantum Complexity as Hydrodynamics,2022,False,True
+633,Nicolas Chagnet; Floris Balm; Koenraad Schalm,"Quantization and variational problem of the Gubser-Rocha Einstein-Maxwell-Dilaton model, conformal and non-conformal deformations, and its proper thermodynamics",2023,True,True
+634,Tomohiro Matsuda,Non-perturbative particle production and differential geometry,2023,False,True
+635,Juan Maldacena,A simple quantum system that describes a black hole,2023,False,True
+636,Jacopo De Nardis; Denis Bernard; Benjamin Doyon,Diffusion in generalized hydrodynamics and quasiparticle scattering,2019,False,True
+637,Stefano Longhi,Convective and absolute PT -symmetry breaking in tight-binding lattices,2013,False,True
+638,Jacopo De Nardis; Benjamin Doyon,Hydrodynamic gauge fixing and higher order hydrodynamic expansion,2023,False,True
+639,Ramy El-Ganainy; Konstantinos G. Makris; Mercedeh Khajavikhan; Ziad H. Musslimani; Stefan Rotter; Demetrios N. Christodoulides,Non-Hermitian physics and PT symmetry,2018,False,True
+640,Martino De Carlo; Francesco De Leonardis; Richard A. Soref; Luigi Colatorti; Vittorio M. N. Passaro,Non-Hermitian Sensing in Photonics and Electronics: A Review,2022,False,True
+641,Tomas Andrade; Benjamin Withers,A simple holographic model of momentum relaxation,2014,False,True
+642,B. Goutéraux,Charge transport in holography with momentum dissipation,2014,False,True
+643,Sašo Grozdanov; Pavel K. Kovtun; Andrei O. Starinets; Petar Tadić,The complex life of hydrodynamic modes,2019,False,True
+644,Mike Blake; Richard A. Davison; Sašo Grozdanov; Hong Liu,Many-body chaos and energy dynamics in holography,2018,False,True
+645,Sašo Grozdanov; Mile Vrbica,Pole-skipping of gravitational waves in the backgrounds of four-dimensional massive black holes,2023,False,True
+646,Jinchao Zhao; Gabrielle La Nave; Philip Phillips,Proof of a Stable Fixed Point for Strongly Correlated Electron Matter,2023,False,True
+647,C.O. Loustó; N. Sánchez,The curved shock wave space-time of ultrarelativistic charged particles and their scattering,1990,False,True
+648,Konstadinos Sfetsos,On Gravitational Shock Waves in Curved Spacetimes,1995,False,True
+649,Navid Abbasi; Javad Tabatabaei,"Quantum chaos, pole-skipping and hydrodynamics in a holographic system with chiral anomaly",2020,False,True
+650,Yong Jun Ahn; Viktor Jahnke; Hyun-Sik Jeong; Kyung-Sun Lee; Mitsuhiro Nishida; Keun-Young Kim,Classifying pole-skipping points,2021,False,True
+651,Kyoung-Bum Huh; Hyun-Sik Jeong; Keun-Young Kim; Ya-Wen Sun,Upper bound of the charge diffusion constant in holography,2022,False,True
+652,Andrew Lucas; Julia Steinberg,Charge diffusion and the butterfly effect in striped holographic matter,2016,True,True
+653,Sirui Ning; Diandian Wang; Zi-Yue Wang,Pole skipping in holographic theories with gauge and fermionic fields,2020,False,True
+654,Ting-Chun Lin; John McGreevy,Conformal Field Theory Ground States as Critical Points of an Entropy Function,2023,False,True
+655,Junsu Park; Bogeun Gwak,Bound on Lyapunov exponent in Kerr-Newman-de Sitter black holes by a charged particle,2023,False,True
+656,Rufus Boyack; Luca V. Delacrétaz; Éric Dupuis; William Witczak-Krempa,Conformal field theories in a magnetic field,2023,False,True
+657,Zechuan Zheng,Bootstrap Method in Theoretical Physics,2023,False,True
+658,Mike Blake; Richard A. Davison; David Vegh,Horizon constraints on holographic Green’s functions,2020,False,True
+659,Mike Blake; Hyunseok Lee; Hong Liu,A quantum hydrodynamical description for scrambling and many-body chaos,2018,False,True
+660,Mike Blake; Hong Liu,On systems of maximal quantum chaos,2021,True,True
+661,Mike Blake; Noah Linden,Quantum circuits with classically simulable operator scrambling,2020,False,True
+662,Mike Blake; Richard A. Davison,Chaos and pole-skipping in rotating black holes,2022,False,True
+663,Mike Blake; Yingfei Gu; Sean A. Hartnoll; Hong Liu; Andrew Lucas; Krishna Rajagopal; Brian Swingle; Beni Yoshida,Snowmass White Paper: New ideas for many-body quantum systems from string theory and black holes,2022,False,True
+664,Daniel Harlow; others,"TF1 Snowmass Report: Quantum gravity, string theory, and black holes",2022,False,True
+665,Markus A. G. Amano; Mike Blake; Casey Cartwright; Matthias Kaminski; Anthony P. Thompson,Chaos and pole-skipping in a simply spinning plasma,2023,False,True
+666,Mike Blake; Anthony P. Thompson,The Page curve from the entanglement membrane,2023,False,True
+667,Isaac H. Kim; Michael Levin; Ting-Chun Lin; Daniel Ranard; Bowen Shi,Universal Lower Bound on Topological Entanglement Entropy,2023,False,True
+668,Luca V. Delacretaz,Bound on Thermalization from Diffusive Fluctuations,2023,False,True
+669,Sheng-Jie Huang; Meng Cheng,"Topological holography, quantum criticality, and boundary states",2023,False,True
+670,Makoto Natsuume; Takashi Okamura,Pole-skipping as missing states,2023,False,True
+671,Christiana Pantelidou; Benjamin Withers,Black hole excited states from broken translations in Euclidean time,2023,False,True
+672,Kristian Tyn Kai Chung; Michel J. P. Gingras,2-Form U(1) Spin Liquids: Classical Model and Quantum Aspects,2023,False,True
+673,Marine De Clerck; Sean A. Hartnoll; Jorge E. Santos,Mixmaster chaos in an AdS black hole interior,2023,False,True
+674,V. Mastropietro,Renormalization: general theory,2023,False,True
+675,Tobias Canavesi,Holographic neutron stars at finite temperature,2023,False,True
+676,Edoardo Lauria; Michael N. Milam; Balt C. van Rees,Perturbative RG flows in AdS: an \'etude,2023,False,True
+677,Nicki Mullins; Mauricio Hippert; Lorenzo Gavassino; Jorge Noronha,A new approach to stochastic relativistic fluid dynamics from information flow,2023,False,True
+678,Diego J. Cirilo-Lombardo; Norma G. Sanchez,Coherent states of quantum spacetimes for black holes and de Sitter spacetime,2023,False,True
+679,Pavel Kovtun,Lectures on hydrodynamic fluctuations in relativistic theories,2012,True,True
+680,Sean A. Hartnoll,Lectures on holographic methods for condensed matter physics,2009,False,True
+681,Aavishkar A. Patel; Peter Lunts; Subir Sachdev,Strong disorder and transport in strange metals,2023,False,True
+682,Francois Gieres,Covariant canonical formulations of classical field theories,2023,False,True
+683,Zhong-Ying Fan,Generalised Krylov complexity,2023,False,True
+684,Fabiano Feleppa; Nava Gaddam; Nico Groenenboom,Charged particle scattering near the horizon,2023,False,True
+685,Navid Abbasi; Ali Davody; Sara Tahery,On the correlation functions in stable first-order relativistic hydrodynamics,2023,False,True
+686,Alex Buchel; Sera Cremonini; Laura Early,Holographic transport beyond the supergravity approximation,2023,False,True
+687,Yunseok Seo; Sejin Kim; Kyung Kiu Kim,Construction of Superconducting Dome and Emergence of Quantum Critical Region in Holography,2023,False,True
+688,Sergio Mendoza; Sarahi Silva,The matter Lagrangian of a non-perfect fluid,2023,False,True
+689,Xi Dong; Grant N. Remmen; Diandian Wang; Wayne W. Weng; Chih-Hung Wu,Holographic entanglement from the UV to the IR,2023,False,True
+690,C. Maccaferri; F. Marino; B. Valsesia,Introduction to String Theory,2023,False,True
+691,Yuji Hirono; Minyoung You; Stephen Angus; Gil Young Cho,A symmetry principle for gauge theories with fractons,2023,False,True
+692,Youssef Aziz Alaoui; Bruno Laburthe-Tolra,A method to discriminate between localized and chaotic quantum systems,2023,False,True
+693,Gabriel S. Rocha; David Wagner; Gabriel S. Denicol; Jorge Noronha; Dirk H. Rischke,Theories of Relativistic Dissipative Fluid Dynamics,2023,False,True
+694,Lorenzo Rossi,Numerical Cauchy evolution of asymptotically AdS spacetimes with no symmetries,2023,False,True
+695,Hao Geng,Open AdS/CFT via a Double Trace Deformation,2023,False,True
+696,Alexander Nikolaenko; Subir Sachdev; Aavishkar A. Patel,Theory of shot noise in strange metals,2023,False,True
+697,A. Ghodsi; J. K. Ghosh; E. Kiritsis; F. Nitti; V. Nourry,"Holographic QFTs on AdS$_d$, wormholes and holographic interfaces",2023,False,True
+698,Elena Cáceres; Ayan K. Patra; Juan F. Pedraza,"Shock waves, black hole interiors and holographic RG flows",2023,False,True
+699,Huajie Gong; Guoyang Fu; Peng Liu; Chongye Chen; Xiao-Mei Kuang; Jian-Pin Wu,Diagnosing quantum phase transition via holographic entanglement entropy at finite temperature,2023,False,True
+700,Thomas Vandermeulen,Gauge Defects,2023,False,True
+701,Thomas Schuster; Norman Y. Yao,Operator Growth in Open Quantum Systems,2023,False,True
+702,Liyang Chen; Dale T. Lowder; Emine Bakali; Aaron Maxwell Andrews; Werner Schrenk; Monika Waas; Robert Svagera; Gaku Eguchi; Lukas Prochaska; Yiming Wang; Chandan Setty; Shouvik Sur; Qimiao Si; Silke Paschen; Douglas Natelson,Shot noise in a strange metal,2023,False,True
+703,A. J. Schofield,Non-Fermi liquids,1999,False,True
+704,Uri Kol,Duality in Einstein's Gravity,2023,False,True
+705,Uri Kol; Shing-Tung Yau,"Duality in Gauge Theory, Gravity and String Theory",2023,False,True
+706,Dmitrii A. Trunin,Refined quantum Lyapunov exponents from replica out-of-time-order correlators,2023,False,True
+707,Dominic V. Else,Holographic models of non-Fermi liquid metals revisited: an effective field theory approach,2023,False,True
+708,Sebastián Roca-Jerat; Teresa Sancho-Lorente; Juan Román-Roche; David Zueco,Circuit Complexity through phase transitions: Consequences in quantum state preparation,2023,False,True
+709,Banashree Baishya; Sayan Chakrabarti; Debaprasad Maity,Effect of scalar condensation on fermionic Pole-Skipping,2023,False,True
+710,Panos Betzios; Olga Papadoulaki,Wilson Loops and Wormholes,2023,False,True
+711,Daniel Harlow; Tokiro Numasawa,Gauging spacetime inversions in quantum gravity,2023,False,True
+712,Ruth Shir; Pablo Martinez-Azcona; Aurélia Chenu,Full range spectral correlations and their spectral form factors in chaotic and integrable models,2023,False,True
+713,Dominic V. Else,Collisionless dynamics of general non-Fermi liquids from hydrodynamics of emergent conserved quantities,2023,False,True
+714,Dominic V. Else; Ryan Thorngren; T. Senthil,Non-Fermi liquids as ersatz Fermi liquids: general constraints on compressible metals,2021,False,True
+715,John McGreevy,Generalized Symmetries in Condensed Matter,2023,False,True
+716,Samuel Leutheusser; Hong Liu,Emergent times in holographic duality,2023,False,True
+717,William Cook; Boris Daszuta; Jacob Fields; Peter Hammond; Simone Albanesi; Francesco Zappa; Sebastiano Bernuzzi; David Radice,GR-Athena++: General-relativistic magnetohydrodynamics simulations of neutron star spacetimes,2023,False,True
+718,Mukund Rangamani; Julio Virrueta; Shuyan Zhou,Anomalous hydrodynamics effective actions from holography,2023,False,True
+719,Neil Dowling; Pavel Kos; Kavan Modi,Scrambling is Necessary but Not Sufficient for Chaos,2023,False,True
+720,Eugenio Megias; Miguel A. Vazquez-Mozo,Anomalous Strangeness Transport,2023,False,True
+721,Brian Swingle; Michael Winer,A Bosonic Model of Quantum Holography,2023,False,True
+722,Lucas Sá,Signatures of dissipative quantum chaos,2023,False,True
+723,Paolo M. Bonifacio,Spacetime Conformal Fluctuations and Quantum Dephasing,2009,False,False
+724,Slava G. Turyshev; Viktor T. Toth,The Pioneer Anomaly in the Light of New Data,2009,False,False
+725,Chul-moon Yoo; Hideki Ishihara; Masashi Kimura; Sugure Tanzawa,Hoop Conjecture and the Horizon Formation Cross-Section in Kaluza-Klein  Spacetimes,2009,False,False
+726,Kamal K. Nandi; Anwarul Islam,Brans wormholes,2009,False,False
+727,K. Giesel; J. Tambornino; T. Thiemann,LTB spacetimes in terms of Dirac observables,2009,False,False
+728,Valentino Lacquaniti; Giovanni Montani,Geometry and Matter Reduction in a 5D Kaluza-Klein Framework,2009,False,False
+729,Chad R. Galley; Bei-Lok Hu,New analytical methods for gravitational radiation and reaction in  binaries with arbitrary mass ratio and relative velocity,2009,False,False
+730,S. A. Pavluchenko,General features of Bianchi-I cosmological models in Lovelock gravity,2009,False,False
+731,Daniel Sudarsky,Shortcomings in the Understanding of Why Cosmological Perturbations Look  Classical,2009,False,False
+732,J. A. Gonzalez; F. S. Guzman; O. Sarbach,On the instability of charged wormholes supported by a ghost scalar  field,2009,False,False
+733,Ivan Zh. Stefanov; Daniela A. Georgieva; Stoytcho S. Yazadjiev; Michail D. Todorov,Born-Infeld black holes coupled to a massive scalar field,2009,False,False
+734,N. Bostani; N. Farhangkhah,Non-Abelian Lovelock-Born-Infeld Topological Black Holes,2009,False,False
+735,R. J. van den Hoogen,A Complete Cosmological Solution to the Averaged Einstein Field  Equations as found in Macroscopic Gravity,2009,False,False
+736,Ivan Agullo; Jose Navarro-Salas; Gonzalo J. Olmo; Leonard Parker,"Inflation, quantum fields, and CMB anisotropies",2009,False,False
+737,Azam Izadi; Ali Shojai,Speed of light in the extended gravity theories,2009,False,False
+738,Shahar Hod,Black-hole quasinormal resonances: Wave analysis versus a  geometric-optics approximation,2009,False,False
+739,Masahiro Shimano; Tomohiro Harada,Observational constraints of a power spectrum from super-inflation in  Loop Quantum Cosmology,2009,False,False
+740,Piotr Bizoń; Tadeusz Chmaj; Andrzej Rostworowski,Reply to the comment by Szpak on leading order asymptotics of late-time  tails for a self-gravitating massless scalar field,2009,False,False
+741,Yoelsy Leyva; Dania Gonzalez; Tame Gonzalez; Tonatiuh Matos; Israel Quiros,Dynamics of a Self-interacting Scalar Field Trapped in the Braneworld  for a Wide Variety of Self-interaction Potentials,2009,False,False
+742,Duncan A. Brown; Peter J. Zimmerman,The Effect of Eccentricity on Searches for Gravitational-Waves from  Coalescing Compact Binaries in Ground-based Detectors,2009,False,False
+743,Roberto Auzzi; Minoru Eto; Walter Vinci,Static Interactions of non-Abelian Vortices,2007,False,False
+744,Changhyun Ahn,Meta-Stable Brane Configurations with Multiple NS5-Branes,2007,False,False
+745,Philip C. Argyres; Nathan Seiberg,S-duality in N=2 supersymmetric gauge theories,2007,False,False
+746,Suvankar Dutta; Rajesh Gopakumar,Free Fermions and Thermal AdS/CFT,2007,False,False
+747,Sergei M. Kuzenko; Gabriele Tartaglino-Mazzucchelli,On 5D AdS SUSY and Harmonic Superspace,2007,False,False
+748,Takeshi Oota; Yukinori Yasui,Separability of Dirac equation in higher dimensional Kerr-NUT-de Sitter  spacetime,2007,False,False
+749,M. Grigoriev; A. A. Tseytlin,Pohlmeyer reduction of AdS_5 x S^5 superstring sigma model,2007,False,False
+750,Ingo Runkel,Perturbed Defects and T-Systems in Conformal Field Theory,2007,False,False
+751,Takehisa Fujita; Makoto Hiramoto; Hidenori Takahashi,Bosons after Symmetry Breaking in Quantum Field Theory,2007,False,True
+752,Zhe Chang; Xin Li,Lorentz Invariance Violation and Symmetry in Randers--Finsler Spaces,2007,False,False
+753,A. L. Tchougréeff; R. Dronskowski,On the Properties of the Longitudinal RVB State in the Anisotropic  Triangular Lattice. Mean-Field RVB Analytical Results,2010,False,False
+754,S. G. Chung; K. Ueda,Entanglement perturbation theory for the quantum ground states in two  dimensions,2010,False,False
+755,Kwan-yuet Ho; T. R. Kirkpatrick; Yan Sang; D. Belitz,Ordered Phases of Itinerant Dzyaloshinsky-Moriya Magnets and Their  Electronic Properties,2010,False,False
+756,Simone A. Hamerla; Sebastian Duffe; Götz S. Uhrig,Derivation of the t-J model for finite doping,2010,False,False
+757,Sung Gong Chung; Lihua Wang,Entanglement perturbation theory for the elementary excitation in one  dimension,2010,False,False
+758,Satoshi Yashiki; Shunsuke Kirino; Kazuo Ueda,Kondo Effect of a Vibrating Magnetic Impurity,2010,False,False
+759,J. Otsuki; H. Kusunose; Y. Kuramoto,Effect of Disorder on Fermi surface in Heavy Electron Systems,2010,False,False
+760,S. G. Chung,New method for the quantum ground states in one dimension,2010,False,True
+761,K. Ishii; S. Ishihara; Y. Murakami; K. Ikeuchi; K. Kuzushita; T. Inami; K. Ohwada; M. Yoshida; I. Jarrige; N. Tatami; S. Niioka; D. Bizen; Y. Ando; J. Mizuki; S. Maekawa; Y. Endoh,Polarization-analyzed resonant inelastic x-ray scattering of the orbital  excitations in KCuF3,2010,False,False
+762,R. Zinke; J. Richter; S. -L. Drechsler,Spiral correlations in frustrated one-dimensional spin-1/2 Heisenberg  J1-J2-J3 ferromagnets,2010,False,False
+763,Haining Pan; Ming Xie; Fengcheng Wu; Sankar Das Sarma,"Topological Phases in AB-Stacked MoTe$_2$/WSe$_2$: $\mathbb{Z}_2$  Topological Insulators, Chern Insulators, and Topological Charge Density  Waves",2021,False,False
+764,Mikolaj D. Uryszek; Frank Krüger,Interplay of interactions and disorder at the charge-density wave  transition of two-dimensional Dirac semimetals,2021,False,False
+765,Yaofeng Xie; Yongkai Li; Philippe Bourges; Alexandre Ivanov; Zijin Ye; Jia-Xin Yin; M Zahid Hasan; Aiyun Luo; Yugui Yao; Zhiwei Wang; Gang Xu; Pengcheng Dai,Electron-phonon coupling in the charge density wave state of  CsV$_3$Sb$_5$,2021,False,False
+766,Shu Kanno; Tomofumi Tada; Takeru Utsumi; Kazuma Nakamura; Hideo Hosono,Electronic correlation strength of inorganic electrides from first  principles,2021,False,False
+767,Yuchi He; Dante M. Kennes; Volker Meden,Conductance of correlated many-fermion systems from charge fluctuations,2021,False,False
+768,Abhijit Bhat Kademane; Churna Bhandari; Durga Paudyal; Stephen Cottrell; Pinaki Das; Yong Liu; Yuen Yiu; C. M. Naveen Kumar; Konrad Siemensmeyer; Andreas Hoser; Diana Lucia Quintero-Castro; David Vaknin; Rasmus Toft-Petersen,Localized-delocalized crossover of spin-carriers and magnetization  reversal in Co$_{2}$VO$_{4}$,2021,False,False
+769,Grigory A. Starkov; Konstantin B. Efetov,Slowly decaying real-time oscillations in instanton crystal,2021,False,False
+770,Umesh Kumar; Saikat Banerjee; Shi-Zeng Lin,Floquet engineering of Kitaev quantum magnets,2021,False,False
+771,Komal Kumari,Non-Drude behaviour of optical conductivity in Kondo-lattice systems,2021,False,False
+772,Abhisek Bandyopadhyay; A. Chakraborty; S. Bhowal; Vinod Kumar; M. M. Sala; A. Efimenko; C. Meneghini; I. Dasgupta; T. Saha Dasgupta; A. V. Mahajan; Sugata Ray,Sr$_3$LiIrO$_6$: a potential quantum spin liquid candidate in the one  dimensional $d^4$ iridate family,2021,False,False
+773,Wung-Hong Huang,Boundary String Field Theory Approach to High-Temperature Tachyon  Potential,2001,False,True
+774,Cedric Deffayet; Gia Dvali; Gregory Gabadadze; Arkady Vainshtein,Nonperturbative Continuity in Graviton Mass versus Perturbative  Discontinuity,2001,False,False
+775,Leonardo Rastelli; Ashoke Sen; Barton Zwiebach,Vacuum String Field Theory,2001,False,False
+776,A. Giveon; D. Kutasov; A. Schwimmer,Comments on D-branes in AdS_3,2001,False,False
+777,Itzhak Bars,"U*(1,1) Noncommutative Gauge Theory As The Foundation of 2T-Physics in  Field Theory",2001,False,False
+778,Mariana Graña; Joseph Polchinski,Gauge/Gravity Duals with Holomorphic Dilaton,2001,False,True
+779,A. Giveon; D. Kutasov,Notes on AdS_3,2001,False,True
+780,Sazzad Nasir; Antti J. Niemi,Field Theories from Bundles of Strings,2001,False,False
+781,Ciprian Acatrinei,Noncommutative radial waves,2001,False,False
+782,Roberto Emparan; David Mateos; Paul Townsend,Supergravity Supertubes,2001,False,False
+783,Y. H. Matsuda; T. Nakamura; J. L. Her; S. Michimura; T. Inami; K. Kindo; T. Ebihara,Suppression of f-Electron Itinerancy in CeRu2Si2 by a Strong Magnetic  Field,2012,False,False
+784,A. P. Petrovic; Y. Kato; S. S. Sunku; T. Ito; P. Sengupta; L. Spalek; M. Shimuta; T. Katsufuji; C. D. Batista; S. Saxena; C. Panagopoulos,Intrinsic Structural Disorder and the Magnetic Ground State in Bulk  EuTiO3,2012,False,False
+785,F. A. Garcia; R. Gumeniuk; W. Schnelle; J. Sichelschmidt; A. Leithe-Jasper; Yu. Grin; F. Steglich,"Spin dynamics of S-state ions in the filled skutterudites  La1-xRx$Pt4Ge12 (R= Gd, Eu)",2012,False,False
+786,K. Kaneko; S. Yoshiuchi; T. Takeuchi; F. Honda; R. Settai; Y. Ōnuki,Effect of magnetic field in heavy-fermion compound YbCo$_2$Zn$_{20}$,2012,False,False
+787,B. Mansart; M. J. G. Cottet; T. J. Penfold; S. B. Dugdale; R. Tediosi; M. Chergui; F. Carbone,Evidence for a Peierls phase-transition in a three-dimensional multiple  charge-density waves solid,2012,False,False
+788,Ganesh Adhikary; R. Bindu; Sudhir K. Pandey; Kalobaran Maiti,Electronic structure near quantum critical point,2012,False,False
+789,K. Totsuka; P. Lecheminant; S. Capponi,Semiclassical Approach to Competing Orders in Two-leg Spin Ladder with  Ring-Exchange,2012,False,False
+790,Frank Pollmann; Ari M. Turner,Detection of Symmetry Protected Topological Phases in 1D,2012,False,False
+791,Onofre Rojas; S. M. de Souza; N. S. Ananikian,Geometrical frustration of an extended Hubbard diamond chain in the  quasi-atomic limit,2012,False,False
+792,N. Hollmann; M. W. Haverkort; M. Benomar; M. Cwik; M. Braden; T. Lorenz,Evidence for a temperature-induced spin-state transition of Co3+ in  La2-xSrxCoO4,2012,False,False
+793,Valentin Reys,Quantum Black Hole Entropy and Localization in Supergravity,2016,False,False
+794,Ashoke Sen,Equivalence of Two Contour Prescriptions in Superstring Perturbation  Theory,2016,False,False
+795,Paul P. Cook; Sarben Sarkar,"The Two-Parameter Brane Sigma-Model: M*, M' solutions and M-theory  solutions dependent on exotic coordinates",2016,False,False
+796,Fabio Apruzzi; Falk Hassler; Jonathan J. Heckman; Ilarion V. Melnikov,From 6D SCFTs to Dynamic GLSMs,2016,False,False
+797,R. R. Metsaev,Continuous spin gauge field in (A)dS space,2016,False,False
+798,Roberto Auzzi; Stefano Baiguera; Francesco Filippini; Giuseppe Nardelli,On Newton-Cartan local renormalization group and anomalies,2016,False,False
+799,T. Daniel Brennan; Gregory W. Moore,A Note On The Semiclassical Formulation Of BPS States In  Four-Dimensional N=2 Theories,2016,False,False
+800,Sarah M. Harrison; Shamit Kachru; Natalie M. Paquette; Roberto Volpato; Max Zimet,Heterotic sigma models on $T^8$ and the Borcherds automorphic form  $Φ_{12}$,2016,False,False
+801,Nabarun Bera; Suchetan Das; Bobby Ezhuthachan,Wald type analysis for spin-one fields in three dimensions,2016,False,False
+802,R. Casana; C. F. Farias; M. M. Ferreira Jr; G. Lazar,Self-dual solitons in a $CPT$-odd and Lorentz-violating gauged $O(3)$  sigma model,2016,False,False
+803,Alan D. Rendall,Theorems on existence and global dynamics for the Einstein equations,2002,False,False
+804,Sawa Manoff,Local criteria for the existence of an accelerated frame of reference,2002,False,False
+805,A. Camacho,"Gravitomagnetism in Metric Theories: Analysis of Earth Satellites  Results, and its Coupling with Spin",2002,False,False
+806,I. L. Zhogin,Trilinear generally covariant equations of AP,2002,False,False
+807,F. Ya. Khalili,"The ""optical lever"" intracavity readout scheme for gravitational-wave  antennae",2002,False,False
+808,R. Burghardt,New embedding of Schwarzschild geometry. II. Interior solution,2002,False,False
+809,Yungui Gong,Quintessence Model and Observational Constraints,2002,False,False
+810,C. Barbachoux; J. Gariel; G. Marcilhacy; N. O. Santos,Reduction of the effective mass of the Reissner-Nordstrom spacetime,2002,False,True
+811,P. C. W. Davies; Adrian C. Ottewill,Detection of negative energy: 4-dimensional examples,2002,False,False
+812,Massimo Pauri; Michele Vallisneri,Ephemeral point-events: is there a last remnant of physical objectivity?,2002,False,False
+813,Salvador Mengual; Joan Josep Ferrando; Juan Antonio Sáez,Hydrodynamic approach to the Synge gas,2022,False,False
+814,A. Costantini; E. Elizalde,A reconstruction method for anisotropic universes in unimodular  $F(R)$-gravity,2022,False,False
+815,Mao-Yuan Wan; Chen Wu,Absorption and scattering of massless scalar wave from Regular Black  Holes,2022,False,False
+816,Wajiha Javed; Sibgha Riaz; Reggie C. Pantig; Ali Övgün,Weak Gravitational Lensing in Dark Matter and Plasma Mediums for  Wormhole-like Static Aether Solution,2022,False,False
+817,Jaume de Haro; Llibert Aresté Saló,An analytic formula to calculate the reheating temperature via  gravitational particle production,2022,False,False
+818,Sukanta Panda; Arun Rana; Rahul Thakur,"Constant-Roll Inflation in modified $f(R,φ)$ gravity model using  Palatini Formalism",2022,False,False
+819,Nakul Aggarwal; Ali Pourmand; Fatimah Shojai; Harish Parthasarathy,Constraining Generalized Chaplygin Gas in Non-Minimally Coupled $f(Q)$  Cosmology using Quasars and $H(z)$ Data,2022,False,False
+820,Kristina Giesel; Muxin Han; Bao-Fei Li; Hongguang Liu; Parampreet Singh,Spherical symmetric gravitational collapse of a dust cloud: polymerized  dynamics in reduced phase space,2022,False,False
+821,Adam D. Helfer,Cut-continuity of twistor angular momentum,2022,False,False
+822,Mostafizur Rahman; Shailesh Kumar; Arpan Bhattacharyya,Gravitational wave from extreme mass-ratio inspirals as a probe of extra  dimensions,2022,False,False
+823,J. Ponce de Leon; P. S. Wesson,A Class of Anisotropic Five-Dimensional Solutions for the Early Universe,2008,False,False
+824,L. M. Tomilchik,"Hubble law, Accelerating Universe and Pioneer Anomaly as effects of the  space-time conformal geometry",2008,False,False
+825,Zeev Alexandrowicz,Stochastic model Of universe which constantly creates dark energy  (Omega=0.7) and dark matter (Omega=0.3) but instantly at 0.12Gyr created  nucleons and radiation,2008,False,False
+826,J. A. Gonzalez; F. S. Guzman; O. Sarbach,Instability of wormholes supported by a ghost scalar field. I. Linear  stability analysis,2008,False,False
+827,Giovanni Amelino-Camelia,Quantum Spacetime Phenomenology,2008,False,False
+828,Ifigeneia Klaoudatou,The nature of cosmological singularities in isotropic universes and  braneworlds,2008,False,False
+829,J. Ambjorn; J. Jurkiewicz; R. Loll,The Self-Organized de Sitter Universe,2008,False,False
+830,Øyvind Grøn; Sigurd Kirkevold Næss,An electromagnetic perpetuum mobile?,2008,False,False
+831,Jacek Jezierski,On the existence of Kundt's metrics with compact sections of null  hypersurfaces,2008,False,False
+832,E. Minguzzi,Chronological spacetimes without lightlike lines are stably causal,2008,False,False
+833,Masaru Siino,Topology of event horizon in axially symmetric spacetime: Classification  of Maxwell set with symmetry,2005,False,False
+834,Sergio Dain,Generalized Korn's inequality and conformal Killing vectors,2005,False,False
+835,Xiaoning Wu; Chiang-Mei Chen; James M. Nester,Quasi-local energy-momentum and energy flux at null infinity,2005,False,False
+836,B. Buonomo; E. Coccia; S. D'Antonio; G. Delle Monache; D. Di Gioacchino; V. Fafone; C. Ligi; A. Marini; G. Mazzitelli; G. Modestino; S. Panella; G. Pizzella; L. Quintieri; S. Roccella; F. Ronga; P. Tripodi; P. Valente,Particle acoustic detection in gravitational wave aluminum resonant  antennas,2005,False,False
+837,H. Baysal; I. Yilmaz,Spacelike Ricci Inheritance Vectors in a Model of String Cloud and  String Fluid Stress Tensor,2005,False,False
+838,Shunichiro Kinoshita; Hideaki Kudoh; Yuuiti Sendouda; Katsuhiko Sato,Quadrupole formula for Kaluza-Klein modes in the braneworld,2005,False,False
+839,George E. A. Matsas; Andre R. Rocha da Silva,New thought experiment to test the generalized second law of  thermodynamics,2005,False,False
+840,Marie-Noelle Celerier; Laurent Nottale,Generalized macroscopic Schrodinger equation in scale relativity,2005,False,False
+841,M. Leclerc,Mathisson-Papapetrou equations in metric and gauge theories of gravity  in a Lagrangian formulation,2005,False,False
+842,Alfredo Macias; Hernando Quevedo; Alberto Sanchez,Gowdy $T^3$ Cosmological Models in N=1 Supergravity,2005,False,False
+843,F. Shojai; A. Shojai,An f(R) model for dark matter: rotation curves and gravitational lensing,2014,False,False
+844,Luciano Vanzo,"Λ may not be vacuum energy, after all",2014,False,False
+845,Davood Momeni; Ratbay Myrzakulov,Conformal Invariant Teleparallel Cosmology,2014,False,False
+846,Neus Puchades; Diego Sáez,Relativistic positioning: errors due to uncertainties in the satellite  world lines,2014,False,False
+847,Carolina L. Benone; Ednilton S. de Oliveira; Sam R. Dolan; Luís C. B. Crispino,Absorption of a massive scalar field by a charged black hole,2014,False,True
+848,Matthew J. S. Beach; Eric Poisson; Bernhard G. Nickel,Self-force on a charge outside a five-dimensional black hole,2014,False,False
+849,J. B. Formiga; T. S. Almeida,Wormholes in Wyman's solution,2014,False,False
+850,M. Campigotto; L. Fatibene,Gauge Natural Formulation of Conformal Theory of Gravity,2014,False,False
+851,Neus Puchades; Diego Sáez,Relativistic Positioning Systems: Numerical Simulations,2014,False,False
+852,R. Tharanath; Nijo Varghese; V C Kuriakose,"Phase transition, Quasinormal modes and Hawking radiation of  Schwarzschild black hole in Quintessence field",2014,False,False
+853,Thorsten Ohl; Reinhold Rückl; Jörg Zeiner,Unitarity of Time-Like Noncommutative Gauge Theories: The Violation of  Ward Identities in Time-Ordered Perturbation Theory,2003,False,False
+854,Yosuke Imamura,Decay of type 0 NS5-branes to nothing,2003,False,False
+855,Giuseppe Bimonte; Giampiero Esposito; Giuseppe Marmo; Cosimo Stornaiolo,Classical brackets for dissipative systems,2003,False,True
+856,Alessandra Agostini,Hopf-algebra description of noncommutative-spacetime symmetries,2003,False,False
+857,Leszek Hadasz; Ulf Lindstrom; Martin Rocek; Rikard von Unge,Time dependent solitons of noncommutative Chern-Simons theory coupled to  scalar fields,2003,False,False
+858,Makoto Sakaguchi; Kentaroh Yoshida,M-theory on a Time-dependent Plane-wave,2003,False,False
+859,Jisuke Kubo; Masanori Nunami,"Maximal Locality and Predictive Power in Higher-Dimensional,  Compactified Field Theories",2003,False,False
+860,Subir Ghosh,Maxwell-Chern-Simons Theory is Free for Marginally Noncommutative  Spacetimes,2003,False,False
+861,Kenji Nagami,Closed String Emission from Unstable D-brane with Background Electric  Field,2003,False,False
+862,H. Babujian; M. Karowski,Exact form factors for the scaling Z{N}-Ising and the affine A{N-1}-Toda  quantum field theories,2003,False,False
+863,Qile Zhang; Wei Fang; Chenggang Shu,Dynamical Stability of the Power Law K-essence Dark Energy Model with a  New Interaction,2022,False,False
+864,Béatrice Bonga; Gustavo Dotti,Parallel waves in Einstein-non linear sigma models,2022,False,False
+865,Lang Liu; Sang Pyo Kim,Gravitational and electromagnetic radiations from binary black holes  with electric and magnetic charges,2022,False,False
+866,Liam Dunn; Patrick Clearwater; Andrew Melatos; Karl Wette,Graphics processing unit implementation of the F-statistic for  continuous gravitational wave searches,2022,False,False
+867,M. Sharif; Amal Majid,Isotropization and Complexity of Decoupled Solutions in Self-interacting  Brans-Dicke Gravity,2022,False,False
+868,Jia-Hui Huang,No black hole bomb for D-dimensional extremal Reissner-Nordstrom black  holes under charged massive scalar perturbation,2022,False,True
+869,M. Mousavi; K. Atazadeh,Cosmological future singularities in massive gravity and massive  bigravity,2022,False,False
+870,Aofei Sang; Jie Jiang,Strong Cosmic Censorship in Einstein-Maxwell-Scalar-Gauss-Bonnet Theory,2022,False,False
+871,James T. Wheeler,Abelian symmetry and the Palatini variation,2022,False,False
+872,Indrani Banerjee,Deciphering signatures of Bardeen black holes from the observed  quasi-periodic oscillations,2022,False,False
+873,M. Olivares; J. Saavedra; C. Leiva; J. R. Villanueva,Motion of charged particles on the Reissner-Nordström (Anti)-de Sitter  black holes,2011,False,True
+874,M. Sharif; Noureen Mukhtar,Hot Plasma Waves Surrounding the Schwarzschild Event Horizon in a  Veselago Medium,2011,False,False
+875,Walter Del Pozzo; John Veitch; Alberto Vecchio,Testing General Relativity using Bayesian model selection: Applications  to observations of gravitational waves from compact binary systems,2011,False,False
+876,G. G. L. Nashed,Gravitational radiation fields in teleparallel equivalent of general  relativity and their energies,2011,False,False
+877,Ian Harry; Stephen Fairhurst,A coherent triggered search for single spin compact binary coalescences  in gravitational wave data,2011,False,False
+878,Yu. G. Ignatyev; D. N. Gorokhov,Gravimagnetic shock waves in the anisotropic plasma,2011,False,False
+879,F. Darabi,Dark pressure in a non-compact and non-Ricci flat 5D Kaluza-Klein  cosmology,2011,False,False
+880,L. Fernández-Jambrina,"Comment on ""From geodesics of the multipole solutions to the perturbed  Kepler problem""",2011,False,False
+881,Y. J. Zhang; J. Wu; P. T. Leung,High-frequency behavior of w-mode pulsations of compact stars,2011,False,False
+882,V. Dzhunushaliev,Asymptotically flat gravitating spinor field solutions. Step 2 - the  compatibility of Dirac equations in a curve and a flat spaces,2011,False,False
+883,Miquel Trias; Alicia M. Sintes,LISA parameter estimation of supermassive black holes,2008,False,False
+884,Selcuk S. Bayin,Friedmann Thermodynamics and the Geometry of the Universe,2008,False,False
+885,Ryota Honda; Shougo Yamagishi; Nobuyuki Kanda; TAMA collaboration,Time-frequency clustering for burst gravitational waves search in  TAMA300 data,2008,False,False
+886,Tatsuhiko Koike; Hiroshi Kozaki; Hideki Ishihara,Strings in five-dimensional anti-de Sitter space with a symmetry,2008,False,False
+887,Valeria M. Rosa; Patricio S. Letelier,A Comment on Bonnor-Steadman Closed Timelike Curves,2008,False,False
+888,Yun Soo Myung; Yong-Wan Kim; Young-Jai Park,Thermodynamics of Einstein-Born-Infeld black holes in three dimensions,2008,False,False
+889,Vladimir Dzhunushaliev; Vladimir Folomeev; Shynaray Myrzakul; Ratbay Myrzakulov,Phantom thick brane in 5D bulk,2008,False,False
+890,Jonathan R. McDonald; Warner A. Miller,A Discrete Representation of Einstein's Geometric Theory of Gravitation:  The Fundamental Role of Dual Tessellations in Regge Calculus,2008,False,False
+891,Edward K. Porter; Neil J. Cornish,The Effect of Higher Harmonic Corrections on the Detection of massive  black hole binaries with LISA,2008,False,False
+892,Gerard 't Hooft,A locally finite model for gravity,2008,False,False
+893,Hong Yao; Wei-Feng Tsai; Steven A. Kivelson,Myriad phases of the Checkerboard Hubbard Model,2007,False,False
+894,A. Nucara; P. Maselli; M. Del Bufalo; M. Cestelli Guidi; J. Garcia; P. Orgiani; L. Maritato; P. Calvani,Effect of Mn substitution by Ga on the optical properties of a metallic  manganite,2007,False,False
+895,S. Capponi; G. Roux; P. Lecheminant; P. Azaria; E. Boulat; S. R. White,Molecular superfluid phase in systems of one-dimensional multicomponent  fermionic cold atoms,2007,False,False
+896,Javier D. Fuhr; Blas Alascio; Michel Avignon,Pressure induced Insulator-Metal transition in LaMnO$_3$,2007,False,False
+897,Tai-Kai Ng; Patrick A. Lee,Power-law Conductivity inside the Mott gap: application to  $κ-(BEDT-TTF)_2Cu_2(CN)_3$,2007,False,False
+898,V. R. Shaginyan; K. G. Popov; V. A. Stephanovich,Universal low-temperature behavior of the CePd_{1-x}Rh_x ferromagnet,2007,False,False
+899,Y. Z. Zhang; Masatoshi Imada,Pseudogap and Mott Transition Studied by Cellular Dynamical Mean Field  Theory,2007,False,False
+900,C. S. Nelson; H. Mo; B. Bohnenbuck; J. Strempfer; N. Kikugawa; S. I. Ikeda; Y. Yoshida,Spin-charge-lattice coupling near the metal-insulator transition in  Ca3Ru2O7,2007,False,False
+901,T. Adachi; K. Kanada; T. Saito; A. Oosawa; T. Goto,$^1$H-NMR Study of the Random Bond Effect in the Quantum Spin System  (CH$_3$)$_2$CHNH$_3$Cu(Cl$_x$Br$_{1-x}$)$_3$,2007,False,False
+902,Jayeeta Chowdhury; S. N. Karmakar; Bibhas Bhattacharyya,Ground state phase diagram and magnetoconductance of a one-dimensional  Hubbard superlattice at half-filling,2007,False,False
+903,E. A. Nowadnick; S. Johnston; B. Moritz; R. T. Scalettar; T. P. Devereaux,Competition between antiferromagnetic and charge density wave order in  the half filled Hubbard-Holstein model,2012,False,False
+904,J. M. P. Carmelo; Shi-Jian Gu,Absence of finite-temperature ballistic charge transport in the 1D  half-filled Hubbard model,2012,False,False
+905,H. Kuroe; N. Takami; N. Niwa; T. Sekine; M. Matsumoto; F. Yamada; H. Tanaka; K. Takemura,Longitudinal magnetic excitation in KCuCl3 studied by Raman scattering  under hydrostatic pressures,2012,False,False
+906,Mikhail S. Litsarev; Igor Di Marco; Patrik Thunstrom; Olle Eriksson,Correlated electronic structure and chemical bonding of Ce pnictides and  gamma-Ce,2012,False,False
+907,Masashi Takigawa; Mladen Horvatić; Takeshi Waki; Steffen Krämer; Claude Berthier; Florence Lévy-Bertrand; Ilya Sheikin; Hiroshi Kageyama; Yuytaka Ueda; Frederic Mila,Incomplete devil's staircase in the magnetization curve of SrCu2(BO3)2,2012,False,False
+908,S. A. Moskalenko; M. A. Liberman; E. V. Dumanov; E. S. Moskalenko,Spontaneous symmetry breaking and coherence in two-dimensional  electron-hole and exciton systems,2012,False,False
+909,Peng Zhang; Peter Reis; Ka-Ming Tam; Mark Jarrell; Juana Moreno; Fakher Assaad; Andy McMahan,Periodic Anderson model with electron-phonon correlated conduction band,2012,False,False
+910,Brian Swingle,Interplay between short and long-range entanglement in symmetry  protected phases,2012,False,False
+911,J. M. P. Carmelo; M. A. N. Araujo; S. R. White; M. J. Sampaio,Hubbard-model description of the high-energy spin-spectral-weight  distribution in La(2)CuO(4),2012,False,False
+912,Yunkyu Bang,Absence of Renormalization of the Specific Heat Coefficient of the  Interacting Fermion Systems,2012,False,True
+913,Roberto Aquilano; Mario Castagnino; Ernesto Eiroa,Addemdum to: ''The Mathematical Structure of Quantum Superspace as a  Consequence of Time Asymmetry'',2000,False,False
+914,Wataru Souma,Gauge and Cutoff Function Dependence of the Ultraviolet Fixed Point in  Quantum Gravity,2000,False,False
+915,Alfredo Macias; Claus Laemmerzahl; Alberto Garcia,"A class of colliding waves in metric-affine gravity, nonmetricity and  torsion shock waves",2000,False,False
+916,Steven L. Liebling,Black Hole Critical Phenomena Without Black Holes,2000,False,True
+917,Guillermo A. González; Patricio S. Letelier,Rotating Relativistic Thin Disks,2000,False,False
+918,Roberto Aquilano; Mario Castagnino; Ernesto Eiroa,Entropy gap and time asymmetry II,2000,False,False
+919,Mario Castagnino; Roberto Laura,Functional Approach to Quantum Decoherence and the Classical Final  Limit: the Mott and Cosmological problems,2000,False,False
+920,Nuno Barros e Sa,Hamiltonian analysis of General relativity with the Immirzi parameter,2000,False,False
+921,Mario Castagnino,The classical regime of a quantum universe obtained through a functional  method,2000,False,False
+922,Kirill A. Bronnikov,Regular Magnetic Black Holes and Monopoles from Nonlinear  Electrodynamics,2000,False,False
+923,Henry Kißler,On the gauge dependence of Quantum Electrodynamics,2018,False,True
+924,Zachary Polonsky; Alex Flournoy,Holographic Entanglement Entropy and the (3+1)-dimensional Topological  Black Hole,2018,False,True
+925,Avner Karasik,Vortex-strings in N=2 quiver X U(1) theories,2018,False,False
+926,Soonkeon Nam; Jong-Dae Park,Warped $AdS_3$ black hole in minimal massive gravity with first order  formalism,2018,False,False
+927,M. A. Marques,Novel lumplike structures,2018,False,False
+928,Daniel Butter; Joseph Novak; Mehmet Ozkan; Yi Pang; Gabriele Tartaglino-Mazzucchelli,"Curvature squared invariants in six-dimensional ${\cal N} = (1,0)$  supergravity",2018,False,False
+929,Simone Giacomelli,Infrared enhancement of supersymmetry in four dimensions,2018,False,False
+930,Shi-Qian Hu; Xiao-Mei Kuang,Holographic heat engine in Horndeski model with the $k$-essence sector,2018,False,False
+931,Hiroyuki Abe; Yermek Aldabergenov; Shuntaro Aoki; Sergei V. Ketov,Massive vector multiplet with Dirac-Born-Infeld and new Fayet-Iliopoulos  terms in supergravity,2018,False,False
+932,P. S. Howe; U. Lindström,Some remarks on (super)-conformal Killing-Yano tensors,2018,False,False
+933,David Kofroň,"Cosmic strings in axisymmetric black hole spacetimes; the C--metric  ""engines""",2017,False,False
+934,Hongwei Tan; Jinbo Yang; Jingyi Zhang; Tangmei He,The global monopole spacetime and its topological charge,2017,False,False
+935,Stefano Lucat; Tomislav Prokopec,Observing Geometrical Torsion,2017,False,False
+936,Miguel Bezares; Carlos Palenzuela; Carles Bona,On the final fate of compact boson star mergers,2017,False,False
+937,Sanchita Das; Sutapa Ghosh; Somenath Chakrabarty,Thomas-Fermi Model in Rindler Space,2017,False,False
+938,Hernando Quevedo,Can spacetime curvature be used in future navigation systems?,2017,False,False
+939,F. Z. Majidi,Another Kerr interior solution,2017,False,False
+940,Vee-Liem Saw; Freeman Chee Siong Thun,Peeling property and asymptotic symmetries with a cosmological constant,2017,False,False
+941,Rodrigo Aros,The entropy of Taub-Bolt-AdS from an improved action principle,2017,False,False
+942,Kayll Lake,Revisiting the Darmois and Lichnerowicz junction conditions,2017,False,False
+943,Giuseppe Dibitetto; Achilleas Passias,$\textrm{AdS}_{2}\times S^7$ solutions from D0 $-$ F1 $-$ D8  intersections,2018,False,False
+944,Zhi-Yuan Zheng; Gai-Ge Deng,Background field method in the large $N_f$ expansion of scalar QED,2018,False,False
+945,Victor Lekeu,Aspects of electric-magnetic dualities in maximal supergravity,2018,False,False
+946,Mojtaba Najafizadeh,A local action for fermionic unconstrained higher spin gauge fields in  (A)dS space,2018,False,False
+947,O. C. Junqueira; A. D. Pereira; G. Sadovski; R. F. Sobreiro; A. A. Tomaz,More about the renormalization properties of topological Yang-Mills  theories,2018,False,False
+948,Koichi Nagasaki,Complexity growth of rotating black holes with a probe string,2018,False,True
+949,L. Bonora; M. Cvitan; P. Dominis Prester; S. Giaccari; M. Paulisic; T. Stemberga,Axial gravity: a non-perturbative approach to split anomalies,2018,False,False
+950,Zhenhua Zhou; Jian-Pin Wu,Particle motion and chaos,2018,False,True
+951,Z. Haba,Statistical physics of the inflaton decaying in an inhomogeneous random  environment,2018,False,False
+952,Sayantani Lahiri,Dirac Born-Infeld inflation under constant roll conditions,2018,False,False
+953,Carlos Barcelo; Stefano Liberati; Sebastiano Sonego; Matt Visser,Hawking-like radiation does not require a trapped region,2006,False,False
+954,J. B. Formiga; C. Romero,On the spectral shift and the time delay of light in a Rindler  accelerated frame,2006,False,False
+955,Mustafa Salti,Energy of a Stringy Charged Black Hole in the Teleparallel Gravity,2006,False,False
+956,Clovis Jacinto de Matos,Gravitoelectromagnetism and Dark Energy in Superconductors,2006,False,False
+957,S. Mignemi,Black hole solutions of dimensionally reduced Einstein-Gauss-Bonnet  gravity,2006,False,False
+958,M. Heller; L. Pysiak; W. Sasin,Conceptual Unification of Gravity and Quanta,2006,False,False
+959,L. Freidel; J. Kowalski--Glikman; A. Starodubtsev,Particles as Wilson lines of gravitational field,2006,False,False
+960,Petarpa Boonserm; Matt Visser; Silke Weinfurtner,Solution generating theorems for the TOV equation,2006,False,False
+961,Robert Brout,The Causet Mechanism for the Creation of Energy,2006,False,False
+962,Fabio Scardigli,Hawking temperature for various kinds of black holes from Heisenberg  uncertainty principle,2006,False,True
+963,Ian Harry; Stephen Fairhurst,A coherent triggered search for single spin compact binary coalescences  in gravitational wave data,2011,False,False
+964,Y. J. Zhang; J. Wu; P. T. Leung,High-frequency behavior of w-mode pulsations of compact stars,2011,False,False
+965,V. Dzhunushaliev,Asymptotically flat gravitating spinor field solutions. Step 2 - the  compatibility of Dirac equations in a curve and a flat spaces,2011,False,True
+966,G. G. L. Nashed,Gravitational radiation fields in teleparallel equivalent of general  relativity and their energies,2011,False,False
+967,Yu. G. Ignatyev; D. N. Gorokhov,Gravimagnetic shock waves in the anisotropic plasma,2011,False,False
+968,Walter Del Pozzo; John Veitch; Alberto Vecchio,Testing General Relativity using Bayesian model selection: Applications  to observations of gravitational waves from compact binary systems,2011,False,False
+969,L. Fernández-Jambrina,"Comment on ""From geodesics of the multipole solutions to the perturbed  Kepler problem""",2011,False,False
+970,M. Olivares; J. Saavedra; C. Leiva; J. R. Villanueva,Motion of charged particles on the Reissner-Nordström (Anti)-de Sitter  black holes,2011,False,True
+971,M. Sharif; Noureen Mukhtar,Hot Plasma Waves Surrounding the Schwarzschild Event Horizon in a  Veselago Medium,2011,False,False
+972,F. Darabi,Dark pressure in a non-compact and non-Ricci flat 5D Kaluza-Klein  cosmology,2011,False,False
+973,N. Kitanine; J. M. Maillet; N. A. Slavnov; V. Terras,Large distance asymptotic behavior of the emptiness formation  probability of the XXZ spin-1/2 Heisenberg chain,2002,False,False
+974,Ashok Das; J. Maharana; A. Melikyan,"Monodromy, Duality and Integrability of Two Dimensional String Effective  Action",2002,False,False
+975,Natxo Alonso-Alberca; Tomas Ortin,Gauged/Massive Supergravities in Diverse Dimensions,2002,False,False
+976,Christos Kokorelis,Exact Standard Model Structures from Intersecting Branes,2002,False,False
+977,David Tong,The Moduli Space of Noncommutative Vortices,2002,False,False
+978,Valeri V. Dvoeglazov,Theory of Antisymmetric Tensor Fields,2002,False,True
+979,A. J. M. Medved,Quantum-Corrected Entropy for 1+1-Dimensional Gravity Revisited,2002,False,False
+980,N. Sousa; A. N. Schellekens,Orientation matters for NIMreps,2002,False,False
+981,H. Kikuchi,"The Fermion Determinant, its Modulus and Phase",2002,False,False
+982,S. M. Kuzenko; I. N. McArthur; S. Theisen,Low energy dynamics from deformed conformal symmetry in quantum 4D N = 2  SCFTs,2002,False,False
+983,Kuo-Wei Huang,Stress-Tensor Commutator in CFT near the Lightcone,2019,False,False
+984,Guillaume Beaujard; Swapnamay Mondal; Boris Pioline,Quiver indices and Abelianization from Jeffrey-Kirwan residues,2019,False,False
+985,James Drummond; Jack Foster; Ömer Gürdoğan; Chrysostomos Kalousios,"Tropical Grassmannians, cluster algebras and scattering amplitudes",2019,False,False
+986,J. M. Drummond; D. Nandan; H. Paul; K. S. Rigatos,String corrections to AdS amplitudes and the double-trace spectrum of  N=4 SYM,2019,False,False
+987,Jiang Long,Correlation function of modular Hamiltonians,2019,False,False
+988,Dibakar Roychowdhury,Nonrelativistic pulsating strings,2019,False,False
+989,Jin Chen; Babak Haghighat; Shuwei Liu; Marcus Sperling,"4d N=1 from 6d D-type N=(1,0)",2019,False,False
+990,Xing Huang; Chen-Te Ma,The Probe of Curvature in the Lorentzian AdS$_2$/CFT$_1$ Correspondence,2019,False,True
+991,Manuela Kulaxizi; Gim Seng Ng; Andrei Parnachev,"Subleading Eikonal, AdS/CFT and Double Stress Tensors",2019,False,False
+992,Matteo Beccaria; Hongliang Jiang; Arkady A. Tseytlin,Non-abelian Toda theory on AdS$_2$ and AdS$_2$/CFT$_2^{1/2}$ duality,2019,False,False
+993,V. P. Gusynin; V. A. Miransky,Thermal conductivity and competing orders in d-wave superconductors,2003,False,True
+994,D. V. Khveshchenko,"Comment on ""Algebraic Fermi liquid from phase fluctuations: topological  fermions, vortex Berryons, and QED theory of cuprate superconductors""",2003,False,False
+995,J. Deisenhofer; B. I. Kochelaev; E. Shilova; A. M. Balbashov; A. Loidl; H. -A. Krug von Nidda,The Orbital Order Parameter in La0.95Sr0.05MnO3 probed by Electron Spin  Resonance,2003,False,False
+996,S. de Brion; G. Storch; G. Chouteau; A. Janossy; W. Prellier; E. Rauwel Buzin,Phase separation effects in charge-ordered Pr0.5Ca0.5MnO3 thin film,2003,False,False
+997,Z. B. Huang; W. Hanke; E. Arrigoni; D. J. Scalapino,Electron-phonon vertex in the two-dimensional one-band Hubbard model,2003,False,False
+998,A. O. Mitrushenkov; Guido Fano; Roberto Linguerri; Paolo Palmieri,On the possibility to use non-orthogonal orbitals for Density Matrix  Renormalization Group calculations in Quantum Chemistry,2003,False,False
+999,Pinaki Sengupta; Anders W. Sandvik; Rajiv R. P. Singh,Specific heat of quasi-2D antiferromagnetic Heisenberg models with  varying inter-planar couplings,2003,False,False
+1000,A. E. Trumper; C. J. Gazza; L. O. Manuel,Quasiparticle vanishing driven by geometrical frustration,2003,False,False
+1001,I. A. Zaliznyak; S. -H. Lee; S. V. Petrov,Continuum in the spin excitation spectrum of a Haldane chain (erratum),2003,False,False
+1002,A. E. Kovalev; S. Hill; K. Kawano; M. Tamura; T. Naito; H. Kobayashi,Mapping the Fermi velocity in the quasi-2D organic conductor  k-(BEDT-TTF)2I3,2003,False,False
+1003,Kazumasa Miyake; Hiroyasu Matsuura,Theory for Anomalous NMR Response in Pb_{1-x}Tl_{x}Te on Charge Kondo  Effect,2018,False,False
+1004,J. -R. Soh; C. Donnerer; K. M. Hughes; E. Schierle; E. Weschke; D. Prabhakaran; A. T. Boothroyd,Magnetic and electronic structure of the layered rare-earth pnictide  EuCd$_2$Sb$_2$,2018,False,False
+1005,Zili Feng; Wei Yi; Kejia Zhu; Jie Ma; Jianlin Luo; Shiliang Li; Zi Yang Meng; Youguo Shi,From Claringbullite to a new spin liquid candidate Cu$_3$Zn(OH)$_6$FCl,2018,False,False
+1006,J. Fernández; P. Roura-Bas; A. Camjayi; A. A. Aligia,Two-stage three-channel Kondo physics for an FePc molecule on the  Au(111) surface,2018,False,False
+1007,Hiroaki Onishi,Dynamical quadrupole structure factor of frustrated ferromagnetic chain,2018,False,False
+1008,Hong-Chen Jiang; Thomas P. Devereaux,Superconductivity in the Hubbard model and its interplay with charge  stripes and next-nearest hopping t',2018,False,False
+1009,Liang Wu; Arielle Little; Erik E. Aldape; Dylan Rees; Eric Thewalt; Paula Lampen-Kelley; Arnab Banerjee; Craig A. Bridges; Jiaqiang Yan; Derrick Boone; Shreyas Patankar; David Goldhaber-Golden; David Mandrus; Stephen E. Nagler; Ehud Altman; Joseph Orenstein,Field evolution of magnons in $α$-RuCl$_3$ by high-resolution  polarized terahertz spectroscopy,2018,False,False
+1010,Li Ern Chern; Yong Baek Kim,Magnetic Order with Fractionalized Excitations: Applications to  $\mathrm{Yb}_2 \mathrm{Ti}_2 \mathrm{O}_7$,2018,False,False
+1011,Nikolina Novosel; William Lafargue-Dit-Hauret; Željko Rapljenović; Martina Dragičević; Helmuth Berger; Dominik Cinčić; Xavier Rocquefelte; Mirta Herak,Site-Specific Spin Reorientation in Antiferromagnetic State of Quantum  System SeCuO$_3$,2018,False,False
+1012,John N. Moore; Hikaru Iwata; Junichiro Hayakawa; Takaaki Mano; Takeshi Noda; Naokazu Shibata; Go Yusa,Spontaneous Transition to a Correlated Phase of Skyrmions Observed in  Real Space,2018,False,False
+1013,Min-xin Huang,Modular Anomaly Equation for Schur Index of $\mathcal{N}=4$  Super-Yang-Mills,2022,False,False
+1014,Mario De Marco; Andrea Sangiovanni; Roberto Valandro,5d Higgs Branches from M-theory on quasi-homogeneous cDV threefold  singularities,2022,False,False
+1015,Chen-Te Ma; Yiwen Pan; Hui Zhang,Explore the Origin of Spontaneous Symmetry Breaking from Adaptive  Perturbation Method,2022,False,False
+1016,Justin Kaidi; Gabi Zafrir; Yunqin Zheng,Non-Invertible Symmetries of $\mathcal{N}=4$ SYM and Twisted  Compactification,2022,False,False
+1017,Alex Buchel,The quest for a conifold conformal order,2022,False,False
+1018,Stefano Andriolo; Gary Shiu; Pablo Soler; Thomas Van Riet,Axion wormholes with massive dilaton,2022,False,False
+1019,Nathan B. Agmon; Bruno Balthazar; Minjae Cho; Victor A. Rodriguez; Xi Yin,D-instanton Effects in Type IIB String Theory,2022,False,False
+1020,Nicolò Petri,Bubbles of nothing and AdS instabilities,2022,False,False
+1021,Takanori Anegawa; Norihiro Iizuka; Daniel Kabat,Extractable entanglement from a Euclidean hourglass,2022,False,False
+1022,Charles Wang; Xi Yin,On the Equivalence between SRS and PCO Formulations of Superstring  Perturbation Theory,2022,False,False
+1023,Christoph Schütte; Junichi Iwasaki; Achim Rosch; Naoto Nagaosa,"Inertia, diffusion and dynamics of a driven skyrmion",2015,False,False
+1024,Valery A. Zhukov; V. G. Maslov,"Tunnel field effect transistor on a quantum well formed by three layers  of graphene derivatives (COH)n-(CF)n-(CH)n, with the drain from the middle  layer - (CF)n",2015,False,False
+1025,B. Freelon; Yu Hao Liu; Jeng-Lung Chen; L. Craco; M. S. Laad; S. Leoni; Jiaqi Chen; Li Tao; Hangdong Wang; R. Flauca; Z. Yamani; Minghu Fang; Chinglin Chang; J. -H. Guo; Z. Hussain,Mott-Kondo Insulator Behavior in the Iron Oxychalcogenides,2015,False,False
+1026,Yi Li,Exact results for itinerant ferromagnetism in a $t_{2g}$ orbital system  on cubic and square lattices,2015,False,False
+1027,Arvind Maurya; R. Kulkarni; A. Thamizhavel; D. Paudyal; S. K. Dhar,"Kondo lattice and antiferromagnetic behavior in quaternary  CeTAl$_4$Si$_2$ (T~=~Rh, Ir) single crystals",2015,False,False
+1028,K. Lefmann; H. Jacobsen; J. Garde; P. Hedegard; A. Wischnewski; S. N. Ancona; H. S. Jacobsen; C. R. H. Bahl; L. Theil Kuhn,Dynamic rotor mode in antiferromagnetic nanoparticles,2015,False,False
+1029,V. Yu. Irkhin,Non-quasiparticle states in a half-metallic ferromagnet with  antiferromagnetic $s-d(f)$ interaction,2015,False,False
+1030,Jan Frederik Rentrop; Severin Georg Jakobs; Volker Meden,Two-particle irreducible functional renormalization group schemes---a  comparative study,2015,False,True
+1031,D. T. Adroja; C. de la Fuente; A. Fraile; A. D. Hillier; A. Daoud-Aladine; W. Kockelmann; J. W. Taylor; A. P. Murani; M. M. Koza; E. Burzur; F. Luis; J. I. Arnaudas; A. del Moral,Muon spin rotation and neutron scattering study of the  non-centrosymmetric tetragonal compound CeAuAl3,2015,False,False
+1032,Keola Wierschem; Pinaki Sengupta,Characterizing the Haldane phase in quasi-one-dimensional spin-1  Heisenberg antiferromagnets,2015,False,False
+1033,M. Khodas; A. M. Tsvelik,Influence of Thermal Fluctuations of Spin Density Wave Order Parameter  on the Quasiparticle Spectral Function,2010,False,False
+1034,Fa Wang,Realization of the Exactly Solvable Kitaev Honeycomb Lattice Model in a  Spin Rotation Invariant System,2010,False,False
+1035,J. G. Sereni; M. Gomez Berisso; G. Schmerber; A. Braghta; J. P. Kappler,Suppression of the Shastry-Sutherland phase in Ce$_{2}$Pd$_{2}$Sn at a  field induced critical point,2010,False,False
+1036,Tao Li,Metal-insulator transition in quarter-filled Hubbard model on triangular  lattice and its implication for the physics of $Na_{0.5}CoO_{2}$,2010,False,False
+1037,Philippe Mendels; Fabrice Bert,Quantum Kagome antiferromagnet ZnCu3(OH)6Cl2,2010,False,False
+1038,Eric Ressouche; Virginie Simonet; Benjamin Canals; Marin Gospodinov; Vassil Skumryev,Magnetic frustration in an iron based Cairo pentagonal lattice,2010,False,False
+1039,F. Rodolakis; P. Hansmann; J. -P. Rueff; A. Toschi; M. W. Haverkort; G. Sangiovanni; A. Tanaka; T. Saha-Dasgupta; O. K. Andersen; K. Held; M. Sikora; I. Alliot; J. -P. Itié; F. Baudelet; P. Wzietek; P. Metcalf; M. Marsi,Inequivalent routes across the Mott transition in V2O3 explored by X-ray  absorption,2010,False,False
+1040,Satoshi Nishimoto; Masaaki Nakamura; Aroon O'Brien; Peter Fulde,Metal-insulator transition of the Kagome lattice fermions at 1/3 filling,2010,False,False
+1041,M. A. de Vries; A. C. McLaughlin; J-W. G. Bos,Valence bond glass on an fcc lattice in the double perovskite Ba2YMoO6,2010,False,False
+1042,Rajiv R. P. Singh,Neutron spectra of Herbertsmithite Materials: Observation of a Valence  Bond Liquid phase?,2010,False,False
+1043,İ Yavuz; U. Camcı,"Ricci Collineations of the Bianchi Type II, VIII, and IX Space-times",2000,False,False
+1044,Koji Ichidayama,One Proposal about the Nature during Our Time and Space,2000,False,False
+1045,Tulsi Dass; Y. N. Joglekar,Symmetries and conservation laws in histories-based theories,2000,False,False
+1046,Alan D. Rendall,Local and global existence theorems for the Einstein equations,2000,False,True
+1047,Don N. Page,Can Quantum Cosmology Give Observational Consequences of Many-Worlds  Quantum Theory?,2000,False,False
+1048,Alessandra Buonanno; Thibault Damour,Transition from inspiral to plunge in binary black hole coalescences,2000,False,False
+1049,Hiromi Saida; Jiro Soda,BTZ Black Hole Entropy in Higher Curvature Gravity,2000,False,False
+1050,Piotr T. Chruściel; Erwann Delay; Gregory J. Galloway; Ralph Howard,Regularity of Horizons and The Area Theorem,2000,False,False
+1051,Israel Quiros,Is the cosmological singularity really unavoidable in general  relativity?,2000,False,False
+1052,Masafumi Seriu,Spectral Representation and the Averaging Problem in Cosmology,2000,False,False
+1053,C. F. Da Silva Costa; S. Tiwari; S. Klimenko; F. Salemi,"Constructive summation of the (2,2) quasi normal mode from a population  of black holes",2017,False,False
+1054,Elham Sharifian; Behrouz Mirza; Zahra Mirzaiyan,Black holes with toroidal horizons in (d +1)-dimensional space-time,2017,False,False
+1055,M. V. Takook,Quantum de Sitter-black hole in ambient space formalism,2017,False,False
+1056,J. L. Lopez; M. Sabido; C. Yee-Romero,Phase space deformations in phantom cosmology,2017,False,False
+1057,Laura Bernard; Luc Blanchet; Guillaume Faye; Tanguy Marchand,Center-of-Mass Equations of Motion and Conserved Integrals of Compact  Binary Systems at the Fourth Post-Newtonian Order,2017,False,False
+1058,Thomas Zannias,On causality violation on a Kerr-de Sitter spacetime,2017,False,False
+1059,Peter Mészáros,Inflation driven by scalar field and solid matter,2017,False,False
+1060,A. Kuiroukidis,A class of simple bouncing and late-time accelerating cosmologies in  f(R) gravity,2017,False,False
+1061,Friedrich W. Hehl; Claus Kiefer,Comparison of the DeWitt metric in general relativity with the  fourth-rank constitutive tensors in electrodynamics and in elasticity theory,2017,False,False
+1062,Dennis Philipp; Eva Hackmann; Claus Laemmerzahl,Redshift and frequency comparison in Schwarzschild spacetime,2017,False,False
+1063,Alicia M. Sintes; Patricia M. Benoit; Alan A. Coley,Infinite Kinematic Self-Similarity and Perfect Fluid Spacetimes,2001,False,False
+1064,Wlodzimierz Piechocki,Topology of spacetime and quantization of particle dynamics,2001,False,False
+1065,Sergio De Filippo,Gravity-induced entropy in the quantum motion of a macroscopic body,2001,False,False
+1066,N. Riazi,Spherical Structures in the Inflationary Cosmology,2001,False,False
+1067,Ivan S. Booth,"Metric-based Hamiltonians, null boundaries, and isolated horizons",2001,False,False
+1068,R. B. Mann,Particles on a Circle in Canonical Lineal Gravity,2001,False,False
+1069,Sigbjorn Hervik,Discrete Symmetries in Translation Invariant Cosmological Models,2001,False,False
+1070,T. Papakostas,Anisotropic fluids in the case of stationary and axisymmetric spaces of  General Relativity,2001,False,False
+1071,M. A. De Andrade; I. V. Vancea,Observables of D=4 Euclidean Supergravity and Dirac Eigenvalues,2001,False,False
+1072,Marcelo E. Araujo; Sandra R. M. M. Roveda; William R. Stoeger,Perturbed Spherically Symmetric Dust Solution of the Field Equations in  Observational Coordinates with Cosmological Data Functions,2001,False,False
+1073,Roman Plyatsko; Oleksandr Stefanyshyn,On common solutions of Mathisson equations under different conditions,2008,False,False
+1074,Eduardo I. Guendelman; Nobuyuki Sakai,The universe out of a breathing bubble,2008,False,False
+1075,R. J. Slagter,A 5-Dimensional Spherical Symmetric Solution in Einstein-Yang-Mills  Theory With Gauss-Bonnet Term,2008,False,False
+1076,J. David Brown,Strongly Hyperbolic Extensions of the ADM Hamiltonian,2008,False,False
+1077,Christian Lübbe; Paul Tod,Conformal Properties of an Evaporating Black Hole Model,2008,False,False
+1078,Jan Harms; Christoph Mahrdt; Markus Otto; Malte Priess,Subtraction-noise projection in gravitational-wave detector networks,2008,False,False
+1079,J. Martin; A. Tiemblo,The role of translational invariance in non linear gauge theories of  gravity,2008,False,True
+1080,Pierre Teyssandier; Christophe Le Poncin-Lafitte,General post-Minkowskian expansion of time transfer functions,2008,False,False
+1081,Ioannis Kouletsis,Covariance and Time Regained in Canonical General Relativity,2008,False,False
+1082,Eugen Simanek,Gravitational Field of a Spinning Cosmic String,2008,False,False
+1083,M. M. Savosta; V. I. Kamenev; V. A. Borodin; P. Novak; M. Marysko; J. Hejtmanek; K. Dorr; M. Sahana; A. Shames,Ferromagnetic insulating state in manganites:55Mn study,2002,False,False
+1084,I. Gonzalez; J. Castro; D. Baldomir,Phase diagram as a function of temperature and magnetic field for  magnetic semiconductors,2002,False,False
+1085,H. Hiraka; P. Boni; Y. Endoh; M. Fujita; K. Yamada; G. Shirane,New Magnetic Excitations in the Spin-Density-Wave of Chromium,2002,False,False
+1086,R. S. Edwards; A. Narduzzo; J. Singleton; A. Ardavan; J. A. Schlueter,Comparison of the Fermi-surface topologies of kappa-(BEDT-TTF)_2  Cu(NCS)_2 and its deuterated analogue,2002,False,False
+1087,Takashi Yanagisawa; Soh Koike; Kunihiko Yamaji,Ground state of the three-band Hubbard model,2002,False,False
+1088,M. Neef; S. Tornow; V. Zevin; G. Zwicknagl,Kondo Effect in a Metal with Correlated Conduction Electrons:  Diagrammatic Approach,2002,False,False
+1089,J. L. Cohn; J. J. Neumeier,Heat Conduction and Magnetic Phase Behavior in Electron-Doped Ca_{1-x}  La_x MnO_3(0 <= x <= 0.2),2002,False,False
+1090,J. S. Lee; Y. S. Lee; T. W. Noh; S. -J. Oh; Jaejun Yu; S. Nakatsuji; H. Fukazawa; Y. Maeno,Electron and orbital correlations in Ca_{2-x}Sr_{x}RuO_{4} probed by  optical spectroscopy,2002,False,False
+1091,H. Okamura; T. Michizawa; T. Nanba; T. Ebihara,Pseudogap Formation and Heavy Carrier Dynamics in Intermediate Valence  YbAl3,2002,False,False
+1092,I. Gonzalez; J. Castro; D. Baldomir,On the absence of conduction electrons in the antiferromagnetic part of  the phase-separated states in magnetic semiconductors,2002,False,False
+1093,J. Fernando G. Barbero; Benito A. Juárez-Aubry; Juan Margalef-Bentabol; Eduardo J. S. Villaseñor,Boundary Hilbert spaces and trace operators,2017,False,True
+1094,Bochen Lv; Peng Wang; Haitang Yang,WKB Approximation for a Deformed Schrodinger-like Equation and its  Applications to Quasinormal Modes of Black Holes and Quantum Cosmology,2017,False,True
+1095,Rabin Banerjee; Pradip Mukherjee,Taming galileons in curved spacetime,2017,False,False
+1096,Tahereh Azizi; Miysam Gorjizadeh,Energy conditions in f(T) gravity with higher-derivative torsion terms,2017,False,False
+1097,Ehsan Sadri,An analogy between four parametrizations of the dark energy equation of  state onto Physical DE Models,2017,False,False
+1098,Jie-Xiong Mo; Feng Liang; Gu-Qiang Li,Heat engine in the three-dimensional spacetime,2017,False,False
+1099,Sante Carloni; José P. Mimoso,Phase space of modified Gauss-Bonnet gravity,2017,False,False
+1100,Jonathan Blackman; Scott E. Field; Mark A. Scheel; Chad R. Galley; Daniel A. Hemberger; Patricia Schmidt; Rory Smith,A Surrogate Model of Gravitational Waveforms from Numerical Relativity  Simulations of Precessing Binary Black Hole Mergers,2017,False,False
+1101,Taketo Ariki,Self-consistent hyperfluid,2017,False,False
+1102,Shounak Ghosh; Saibal Ray; Farook Rahaman; B. K. Guha,Gravastars with higher dimensional spacetimes,2017,False,False
+1103,Yaniv Tenenbaum Katan; Daniel Podolsky,Generation and Manipulation of Localized Modes in Floquet Topological  Insulators,2013,False,False
+1104,J. H. Pixley; Rong Yu; Qimiao Si,Quantum Phases of the Shastry-Sutherland Kondo Lattice: Implications for  the Global Phase Diagram of Heavy Fermion Metals,2013,False,False
+1105,E. V. Dumanov,The plasma oscillations in a two-dimensional electron-hole liquid under  influence Rashba spin-orbit coupling,2013,False,False
+1106,Yashar Komijani; Ryosuke Yoshii; Ian Affleck,Interaction effects in Aharonov-Bohm-Kondo Rings,2013,False,False
+1107,Zhen Bi; Alex Rasmussen; Kevin Slagle; Cenke Xu,Classification and Description of Bosonic Symmetry Protected Topological  Phases with semiclassical Nonlinear Sigma models,2013,False,True
+1108,Eberth Correa; Alvaro Ferraz,Fermi surface renormalization and quantum confinement in the two-coupled  chains model,2013,False,False
+1109,Shinichiro Asai; Ryuji Okazaki; Ichiro Terasaki; Yukio Yasui; Wataru Kobayashi; Akiko Nakao; Kensuke Kobayashi; Reiji Kumai; Hironori Nakao; Youichi Murakami; Naoki Igawa; Akinori Hoshikawa; Toru Ishigaki; Outi Parkkima; Maarit Karppinen; Hisao Yamauchi,Spin state of Co$^{3+}$ in LaCo$_{1-x}$Rh$_{x}$O$_{3}$ investigated by  structural phenomena,2013,False,False
+1110,Hyang Keun Yoo; Seung Ill Hyun; Luca Moreschini; Young Jun Chang; Da Woon Jeong; Chang Hee Sohn; Yong Su Kim; Hyeong-Do Kim; Aaron Bostwick; Eli Rotenberg; Ji Hoon Shim; Tae Won Noh,"Dimensional crossover of the electronic structure in LaNiO3 ultrathin  films: Orbital reconstruction, Fermi surface nesting, and the origin of the  metal-insulator transition",2013,False,False
+1111,A. Langari; F. Pollmann; M. Siahatgar,Ground-state fidelity of the spin-1 Heisenberg chain with single ion  anisotropy: quantum renormalization group and exact diagonalization  approaches,2013,False,False
+1112,Kun Jiang; Sen Zhou; Ziqiang Wang,Textured electronic states of the triangular lattice Hubbard model and  Na$_x$CoO$_2$,2013,False,False
+1113,S. Bertaina; B. Barbara; R. Giraud; B. Z. Malkin; M. V. Vanuynin; A. I. Pominov; A. L. Stolov; A. M. Tkachuk,Cross-relaxation and phonon bottleneck effects on magnetization dynamics  in LiYF4:Ho3+,2009,False,False
+1114,Sébastien Petit; Marie-Bernadette Lepetit,Real-space fluctuations of effective exchange integrals in high-Tc  cuprates,2009,False,False
+1115,W. Münder; A. Weichselbaum; A. Holzner; J. von Delft; C. L. Henley,Correlation density matrices for 1- dimensional quantum chains based on  the density matrix renormalization group,2009,False,False
+1116,Kingshuk Majumdar; Trinanjan Datta,Zero temperature phases of the frustrated J1-J2 antiferromagnetic  spin-1/2 Heisenberg model on a simple cubic lattice,2009,False,False
+1117,I. S. Krivenko; A. N. Rubtsov; M. I. Katsnelson; A. I. Lichtenstein,Analytical approximation for single-impurity Anderson model,2009,False,False
+1118,Chia-Chen Chang; Shiwei Zhang,Spin and charge order in doped Hubbard model: long-wavelength collective  modes,2009,False,False
+1119,Tyler Dodds; Bohm-Jung Yang; Yong Baek Kim,Theory of Magnetic Field-Induced Bose-Einstein Condensation of Triplons  in Ba3Cr2O8,2009,False,False
+1120,Andrew Das Arulsamy; Uros Cvelbar; Miran Mozetic; Kostya Ken Ostrikov,Non-square-well potential profile and non-blinking effect in graded  CdZnSe/ZnSe nanocrystals: An ionization-energy theoretic study,2009,False,False
+1121,A. M. Berridge; S. A. Grigera; B. D. Simons; A. G. Green,Magnetic analogue of the LOFF phase in Sr3Ru2O7,2009,False,False
+1122,George E. Simion; John J. Quinn,Excitations of the $ν=5/2$ Fractional Quantum Hall State and the  Generalized Composite Fermion Picture,2009,False,False
+1123,Patrik Thunström; Olle Gunnarsson; Sergio Ciuchi; Georg Rohringer,Analytical investigation of singularities in two-particle irreducible  vertex functions of the Hubbard atom,2018,False,False
+1124,Lin-Peng Yang; Qi Li; Zi-Xiang Hu,The behavior of the fractional quantum Hall states in the LLL and 1LL  with in-plane magnetic field and Landau level mixing: a numerical  investigation,2018,False,False
+1125,A. E. Taylor; R. Morrow; M. D. Lumsden; S. Calder; M. H. Upton; A. I. Kolesnikov; M. B. Stone; R. S. Fishman; A. Paramekanti; P. M. Woodward; A. D. Christianson,Origin of magnetic excitation gap in double perovskite Sr$_2$FeOsO$_6$,2018,False,False
+1126,Vinod Ashokan; N. D. Drummond; K. N. Pathak,One-dimensional electron fluid at high density,2018,False,False
+1127,Xiao Yan Xu; K. T. Law; Patrick A. Lee,"Kekulé valence bond order in an extended Hubbard model on the  honeycomb lattice, with possible applications to twisted bilayer graphene",2018,False,False
+1128,Irakli Titvinidze; Max E. Sorantin; Antonius Dorda; Wolfgang von der Linden; Enrico Arrigoni,Charge redistribution in correlated heterostuctures within  nonequilibrium real-space dynamical mean-field theory,2018,False,False
+1129,Ido Niesen; Philippe Corboz,A ground state study of the spin-1 bilinear-biquadratic Heisenberg model  on the triangular lattice using tensor networks,2018,False,False
+1130,A. S. Botana; H. Zheng; S. H. Lapidus; J. F. Mitchell; M. R. Norman,Averievite: a copper oxide kagome antiferromagnet,2018,False,False
+1131,Khagendra Adhikari; K. S. D. Beach,Deforming the Fredkin spin chain away from its frustration-free point,2018,False,False
+1132,Gaurav Kumar Gupta; Kapildeb Dolui; Abhinav Kumar; D. D. Sarma; Tanmoy Das,Higgs-Axion interplay and anomalous magnetic phase diagram in TlCuCl$_3$,2018,False,False
+1133,J. K. H. Fischer; G. D'Avino; M. Masino; F. Mezzadri; P. Lunkenheimer; Z. G. Soos; A. Girlando,Intriguing relaxor ferroelectricity in a polar CT crystal at the  neutral-ionic interface,2020,False,False
+1134,Jiangfan Wang; Yi-feng Yang,Nonlocal Kondo effect and quantum critical phase in heavy fermion metals,2020,False,True
+1135,Anton Markov; Alexey Rubtsov,Local marker for interacting topological insulators,2020,False,False
+1136,V. R. Shaginyan; A. Z. Msezane; J. W. Clark; G. S. Japaridze; Y. S. Leevik,Universal $T/B$ scaling behavior of heavy fermion compounds,2020,False,False
+1137,E. I. Golovenchits; B. Kh. Khannanov; V. A. Sanina,Effect of the Optical Pumping and Magnetic Field on the States of Phase  Separation Domains in Eu_{0.8}Cr_{0.2}Mn_2O_5,2020,False,False
+1138,Sang Wook Kim; Geo Jose; Bruno Uchoa,Hydrodynamic transport and violation of the viscosity-to-entropy ratio  bound in nodal-line semimetals,2020,False,True
+1139,Yuehua Su; Shengyan Wang; Chao Zhang,Coincidence inelastic neutron scattering for detection of two-spin  magnetic correlations,2020,False,False
+1140,Swati Chaudhary; Alon Ron; David Hsieh; Gil Refael,Controlling ligand-mediated exchange interactions in periodically driven  magnetic materials,2020,False,False
+1141,Pranay Patil; Fabien Alet; Sylvain Capponi; Kedar Damle,Quantum half-orphans in kagome antiferromagnets,2020,False,False
+1142,Can Shao; Eduardo V. Castro; Shijie Hu; Rubem Mondaini,Interplay of local order and topology in the extended Haldane-Hubbard  model,2020,False,False
+1143,J. Fujioka; S. Miyasaka; Y. Tokura,Orbital Disordering and metal-insulator transition with hole-doping in  perovskite-type vanadium oxides,2005,False,False
+1144,M. Quintero; A. G. Leyva; P. Levy,Simultaneous electric and magnetic field induced nonvolatile memory,2005,False,False
+1145,F. Palmero; J. Dorignac; J. C. Eilbeck; R. A. Romer,Aharonov-Bohm effect for an exciton in a finite width nano-ring,2005,False,False
+1146,Kazuaki Iwasa; Lijie Hao; Keitaro Kuwahara; Masahumi Kohgi; Shanta Ranjan Saha; Hitoshi Sugawara; Yuji Aoki; Hideyuki Sato; Takashi Tayama; Toshiro Sakakibara,Evolution of 4f-Electron States in the Metal-Insulator Transition of  PrRu$_4$P$_{12}$,2005,False,False
+1147,Takashi Oka; Ryotaro Arita; Hideo Aoki,Nonlinear Transport in One-Dimensional Mott Insulator in Strong Electric  Fields,2005,False,False
+1148,C. Knecht; N. Blümer; P. G. J. van Dongen,Orbital-selective Mott transitions in the anisotropic two-band Hubbard  model at finite temperatures,2005,False,False
+1149,Dmitry I. Iudin; Alexander P. Protogenov,Toroid Current States in Doped Mott Insulators,2005,False,False
+1150,Eva Sagi; Oren Ofer; Amit Keren; Jason S. Gardner,A quest for frustration driven distortion in Y2Mo2O7,2005,False,False
+1151,Kazuaki Iwasa; Lijie Hao; Tomoo Hasegawa; Toshiaki Takagi; Kenji Horiuchi; Yoshiaki Mori; Youichi Murakami; Keitaro Kuwahara; Masahumi Kohgi; Hitoshi Sugawara; Shanta Ranjan Saha; Yuji Aoki; Hideyuki Sato,Role of p-f Hybridization in the Metal-Non-Metal Transition of PrRu4P12,2005,False,False
+1152,S. Di Matteo; G. jackeli; N. B. Perkins,Orbital order in vanadium spinels,2005,False,False
+1153,Paul S. Aspinwall,"Compactification, Geometry and Duality: N=2",2000,False,False
+1154,J. Fuchs; C. Schweigert,Bundles of chiral blocks and boundary conditions in CFT,2000,False,False
+1155,Rudolf Haag,Questions in quantum physics: a personal view,2000,False,False
+1156,Tsunehide Kuroki,Noncommutativities of D-branes and $θ$-changing Degrees of Freedom  in D-brane Matrix Models,2000,False,False
+1157,Donald Spector,N=0 Supersymmetry and the Non-Relativistic Monopole,2000,False,False
+1158,Rainer Dick; Dzo Mikulovic,Gravity and the Newtonian limit in the Randall-Sundrum model,2000,False,False
+1159,V. Fateev; A. Zamolodchikov; Al. Zamolodchikov,Boundary Liouville Field Theory I. Boundary State and Boundary Two-point  Function,2000,False,False
+1160,A. V. Belitsky; S. Vandoren; P. van Nieuwenhuizen,"Instantons, Euclidean supersymmetry and Wick rotations",2000,False,False
+1161,Franz-Marc Boas,Gauge theories in local causal perturbation theory,2000,False,False
+1162,M. Cvetic; H. Lu; C. N. Pope,Domain Walls and Massive Gauged Supergravity Potentials,2000,False,False
+1163,Antoine Bourget; Julius F. Grimminger; Amihay Hanany; Rudolph Kalveks; Marcus Sperling; Zhenghao Zhong,Folding Orthosymplectic Quivers,2021,False,False
+1164,Leo Bidussi; Troels Harmark; Jelle Hartong; Niels A. Obers; Gerben Oling,Torsional string Newton-Cartan geometry for non-relativistic strings,2021,False,False
+1165,Raghu Mahajan; Douglas Stanford; Cynthia Yan,Sphere and disk partition functions in Liouville and in matrix integrals,2021,False,False
+1166,Nabil Iqbal; Kieran Macfarlane,Higher-form symmetry breaking and holographic flavour,2021,False,True
+1167,Miguel F. Paulos; Zechuan Zheng,Bounding 3d CFT correlators,2021,False,False
+1168,Nathan Benjamin; Christoph A. Keller; Ida G. Zadeh,Lifting 1/4-BPS States in $AdS_3\times S^3 \times T^4$,2021,False,False
+1169,Hao-Hao Peng; Jun-Jie Zhang; Xin-Li Sheng; Qun Wang,Ideal spin hydrodynamics from Wigner function approach,2021,False,False
+1170,Antonio Amariti; Alessandra Gnecchi,$τ_{RR}$ minimization in presence of hypermultiplets,2021,False,False
+1171,Mariana Carrillo González; Arshia Momeni; Justinas Rumbutis,Massive Double Copy in Three Spacetime Dimensions,2021,False,False
+1172,Sachin Jain; Renjan Rajan John,Relation between parity-even and parity-odd CFT correlation functions in  three dimensions,2021,False,False
+1173,Angelo Tartaglia,Relativistic space-time positioning: principles and strategies,2012,False,False
+1174,Sabine Hossenfelder,Gravity can be neither classical nor quantized,2012,False,False
+1175,Luca Bombelli; Johan Noldus; Julio Tafoya,Lorentzian Manifolds and Causal Sets as Partially Ordered Measure Spaces,2012,False,False
+1176,M. Sharif; Abdul Jawad,Cosmological Evolution of Interacting New Holographic Dark Energy in  Non-flat Universe,2012,False,False
+1177,Saskia Grunau; Valeria Kagramanova; Jutta Kunz,Geodesic Motion in the (Charged) Doubly Spinning Black Ring Spacetime,2012,False,False
+1178,Olaf Dreyer,Not on but of,2012,False,False
+1179,I. Brevik; V. V. Obukhov; A. V. Timoshkin,Quasi-Rip and Pseudo-Rip Universes Induced by the Fluid Inhomogeneous  Equation of State,2012,False,False
+1180,Peter K. F. Kuhfittig,Wormholes supported by a combination of normal and quintessential matter  in Einstein and Einstein-Maxwell gravity,2012,False,False
+1181,Ahmet Baykal,Energy definition for quadratic curvature gravities,2012,False,False
+1182,Surbhi Khetrapal; Sumati Surya,Boundary Term Contribution to the Volume of a Small Causal Diamond,2012,False,False
+1183,Anil Zenginoglu; Lawrence E. Kidder,Hyperboloidal evolution of test fields in three spatial dimensions,2010,False,False
+1184,Harald Lueck,The upgrade of GEO 600,2010,False,False
+1185,Khireddine Nouicer,Hawking radiation and thermodynamics of dynamical black holes in phantom  dominated universe,2010,False,False
+1186,A. A. Grib; Yu. V. Pavlov,On the collisions between particles in the vicinity of rotating black  holes,2010,False,False
+1187,V. Baccetti; E. R. Livine; J. P. Ryan,The particle interpretation of N = 1 supersymmetric spin foams,2010,False,False
+1188,Jonathan Ziprick; Gabor Kunstatter,Quantum Corrected Spherical Collapse: A Phenomenological Framework,2010,False,False
+1189,Piotr T. Chruściel; Gregory J. Galloway,Uniqueness of static black-holes without analyticity,2010,False,True
+1190,Mariafelicia De Laurentis,Newtonian and relativistic theory of orbits and emission of  gravitational waves,2010,False,False
+1191,M. Malekjani; A. Khodam-Mohammadi,Agegraphic Dark Energy Model in Non-Flat Universe: Statefinder  Diagnostic and $w-w^{\prime}$ Analysis,2010,False,False
+1192,Sean T. McWilliams; Bernard J. Kelly; John G. Baker,Observing mergers of non-spinning black-hole binaries,2010,False,False
+1193,Hongbin Zhang; Kristjan Haule; David Vanderbilt,Metal-insulator transition and topological properties of pyrochlore  iridates,2015,False,False
+1194,J. D. Gouveia; R. G. Dias,Spiral ferrimagnetic phases in the two-dimensional Hubbard model,2015,False,False
+1195,H. Kadowaki; H. Takatsu; T. Taniguchi; B. Fåk; J. Ollivier,Composite spin and quadrupole wave in the ordered phase of  Tb$_{2+x}$Ti$_{2-x}$O$_{7+y}$,2015,False,False
+1196,J. D. Gouveia; R. G. Dias,Magnetic phase diagram of the Hubbard model in the Lieb lattice,2015,False,False
+1197,S. V. Streltsov; G. Cao; D. I. Khomskii,"Suppression of magnetism in Ba5AlIr2O11: interplay of Hund's coupling,  molecular orbitals and spin-orbit interaction",2015,False,False
+1198,Hyowon Park; Andrew J. Millis; Chris A. Marianetti,Density functional versus spin-density functional and the choice of  correlated subspace in multi-variable effective action theories of electronic  structure,2015,False,False
+1199,S. Catalano; M. Gibert; V. Bisogni; F. He; R. Sutarto; M. Viret; P. Zubko; R. Scherwitzl; G. A. Sawatzky; T. Schmitt; J. -M. Triscone,Tailoring the electronic transitions of NdNiO_3 films through (111)_pc  oriented interfaces,2015,False,False
+1200,R. G. Dias; J. D. Gouveia,Origami rules for the construction of localized eigenstates of the  Hubbard model in decorated lattices,2015,False,False
+1201,Jan Kunes,Excitonic condensation in systems of strongly correlated electrons,2015,False,True
+1202,Hyo Sung Kim; Soo-Ran Kim; Kyoo Kim; Byung Il Min; Yong-Heum Cho; Sang-Wook Cheong; Han Woong Yeom,Honeycomb Charge Ordering in IrTe$_2$,2015,False,False
+1203,G. Kotliar; E. Lange; M. J. Rozenberg,Landau Theory of the Finite Temperature Mott Transition,2000,False,True
+1204,Steven R. White; Rajiv R. P. Singh,"Comment on ""Kagome Lattice Antiferromagnet Stripped to Its Basics""",2000,False,False
+1205,Takashi Hotta; Andre Luiz Malvezzi; Elbio Dagotto,Charge-orbital ordering and phase-separation in the two-orbital model  for manganites: Roles of Jahn-Teller phononic and Coulombic interactions,2000,False,False
+1206,M. Mueller; H. -J. Mikeska,On the dynamics of coupled S=1/2 antiferromagnetic zig-zag chains,2000,False,False
+1207,A. V. Goltsev; G. Bruls,Theory of the first-order isostructural valence phase transitions in  mixed valence compounds YbIn_{x}Ag_{1-x}Cu_{4},2000,False,False
+1208,K. Takahata; Y. Iguchi; D. Tanaka; T. Itoh; I. Terasaki,"Low thermal conductivity of the layered oxide (Na,Ca)Co_2O_4: Another  example of a phonon glass and an electron crystal",2000,False,False
+1209,Gergely Zarand; Gergely T. Zimanyi; Frank Wilhelm,Is the Multichannel Kondo Model Appropriate to Describe the Single  Electron Transistor?,2000,False,False
+1210,Ashvin Vishwanath; David Carpentier,Two dimensional anisotropic non Fermi-liquid phase of coupled Luttinger  liquids,2000,False,False
+1211,Jizhong Lou; Jianhui Dai; Shaojin Qin; Zhaobin Su; Lu Yu,Logarithmic corrections from ferromagnetic impurity ending bonds of open  antiferromagnetic host chains,2000,False,False
+1212,D. Meyer; W. Nolting,Kondo screening and exhaustion in the periodic Anderson model,2000,False,False
+1213,Ofer Aharony,"Baryons, monopoles and dualities in Chern-Simons-matter theories",2015,False,False
+1214,Marcello Ciafaloni; Dimitri Colferai; Francesco Coradeschi; Gabriele Veneziano,Unified limiting form of graviton radiation at extreme energies,2015,False,False
+1215,Juraj Tekel,Phase strucutre of fuzzy field theories and multitrace matrix models,2015,False,False
+1216,Tomoki Nosaka; Kazuma Shimizu; Seiji Terashima,Large N behavior of mass deformed ABJM theory,2015,False,False
+1217,F. F. Gautason; M. Schillo; T. Van Riet; M. Williams,Remarks on scale separation in flux vacua,2015,False,False
+1218,Branislav Jurco; Fech Scen Khoo; Peter Schupp; Jan Vysoky,Generalized geometry and non-symmetric gravity,2015,False,False
+1219,Kazutoshi Ohta; Yuya Sasai,Coulomb Branch Localization in Quiver Quantum Mechanics,2015,False,False
+1220,Kumar Abhinav; Prasanta K. Panigrahi,Quantum and Thermal Fluctuations and Pair-breaking in Planar QED,2015,False,False
+1221,A. V. Belitsky,Nonperturbative enhancement of superloop at strong coupling,2015,False,False
+1222,M. Nakamura,Alternative Approach to Noncommutative Quantum Mechanics on a Curved  Space,2015,False,True
+1223,Wen Jin; Oleg A. Starykh,Phase diagram of weakly coupled Heisenberg spin chains subject to a  uniform Dzyaloshinskii-Moriya interaction,2017,False,False
+1224,Yan-Cheng Wang; Chen Fang; Meng Cheng; Yang Qi; Zi Yang Meng,Topological Spin Liquid with Symmetry-Protected Edge States,2017,False,False
+1225,P. I. Karpov; S. I. Mukhin,Polarizability of electrically induced magnetic vortex plasma,2017,False,False
+1226,Souvik Paul; Diana Iusan; P. Thunstrom; Y. O. Kvashnin; Johan Hellsvik; Manuel Pereiro; A. Delin; Biplab Sanyal; O. Eriksson,"Dynamical correlations in the electronic structure of BiFeO$_{3}$, as  revealed by dynamical mean field theory",2017,False,False
+1227,Lokman Tsui; Yen-Ta Huang; Hong-Chen Jiang; Dung-Hai Lee,"The phase transitions between $Z_n\times Z_n$ bosonic topological phases  in 1+1 D, and a constraint on the central charge for the critical points  between bosonic symmetry protected topological phases",2017,False,True
+1228,Laura Messio; Samuel Bieri; Claire Lhuillier; Bernard Bernu,Chiral spin liquid on kagome antiferromagnet induced by  Dzyaloshinskii-Moriya interaction,2017,False,False
+1229,Fuyan Lu; Bowen Shi; Yuan-Ming Lu,Classification and surface anomaly of glide symmetry protected  topological phases in three dimensions,2017,False,False
+1230,Václav Janiš; Vladislav Pokorný; Anna Kauch,Mean-field approximation for thermodynamic and spectral functions of  correlated electrons: Strong-coupling and arbitrary band filling,2017,False,False
+1231,J. Munevar; M. Cabrera-Baez; M. Alzamora; J. Larrea; E. M. Bittar; E. Baggio-Saitovitch; F. J. Litterst; R. A. Ribeiro; M. A. Avila; E. Morenzoni,Magnetic order of intermetallic FeGa$_{3-y}$Ge$_y$ studied by $μ$SR  and $^{57}$Fe Mössbauer spectroscopy,2017,False,False
+1232,Marcin M. Wysokinski; Michele Fabrizio,Mott physics beyond Brinkman-Rice scenario,2017,False,False
+1233,Dörte Hansen,Next to leading order gravitational wave emission and dynamical  evolution of compact binary systems with spin,2007,False,False
+1234,Dah-Wei Chiou,"Effective Dynamics, Big Bounces and Scaling Symmetry in Bianchi Type I  Loop Quantum Cosmology",2007,False,False
+1235,Shih-Yuin Lin; B. L. Hu,"Entanglement, recoherence and information flow in an accelerated  detector - quantum field system: Implications for black hole information  issue",2007,False,False
+1236,Alejandro Corichi; Jeronimo Cortez; Guillermo A. Mena Marugan; Jose M. Velhinho,Quantum Gowdy $T^3$ Model: Schrodinger Representation with Unitary  Dynamics,2007,False,False
+1237,Erhard Scholz,Einstein universes stabilized,2007,False,False
+1238,Rahul Biswas; Patrick R. Brady; Jolien D. E. Creighton; Stephen Fairhurst,"The Loudest Event Statistic: General Formulation, Properties and  Applications",2007,False,False
+1239,O. M. Lecian; G. Montani,Scalar-tensor analysis of an exponential Lagrangian for the  Gravitational Field,2007,False,False
+1240,AURIGA Collaboration; LIGO Scientific Collaboration; L. Baggio et al,A Joint Search for Gravitational Wave Bursts with AURIGA and LIGO,2007,False,False
+1241,Francisco S. N. Lobo,Nature of time and causality in Physics,2007,False,True
+1242,Morteza Mohseni,Lagrangian description of world-line deviations,2007,False,False
+1243,C. Dahnken; R. Eder,Theory of ARPES intensities from the CuO$_2$ plane,2001,False,False
+1244,A. D. Christianson; A. Lacerda; M. F. Hundley; P. G. Pagliuso; J. L. Sarrao,Magnetotransport of CeRhIn5,2001,False,False
+1245,I. A. Zaliznyak,Continuum spin excitations in S=1 one-dimensional antiferromagnet,2001,False,False
+1246,M. Tsuchiizu; A. Furusaki,Phase Diagram of One-Dimensional Extended Hubbard Model at Half Filling,2001,False,False
+1247,H. Q. Lin; J. L. Shen; H. Y. Shik,The Net Spin Model,2001,False,False
+1248,V. Meden; W. Metzner; U. Schollwoeck; K. Schoenhammer,"A single impurity in a Luttinger liquid: How it ""cuts"" the chain",2001,False,False
+1249,Jizhong Lou; Changfeng Chen; Shaojin Qin,Low-energy properties and magnetization plateaus in a 2-leg mixed spin  ladder,2001,False,False
+1250,A. Honecker; O. A. Petrenko; M. E. Zhitomirsky,Field-Induced Order and Magnetization Plateaux in Frustrated  Antiferromagnets,2001,False,False
+1251,M. F. Hundley; J. L. Sarrao; J. D. Thompson; R. Movshovich; M. Jaime; C. Petrovic; Z. Fisk,Unusual kondo behavior in the indium-rich heavy fermion antiferromagnet  Ce3Pt4In13,2001,False,False
+1252,R. Franco; M. S. Figueira; M. E. Foglio,X-boson cumulant approach to the periodic Anderson model,2001,False,False
+1253,Soumya Chakrabarti,Aspects of Gravitational Collapse and the formation of Spacetime  Singularities,2017,False,False
+1254,Fayçal Hammad,"Density perturbations in $f(R,φ)$-gravity with an application to the  (varying power)-law model",2017,False,False
+1255,NF Naidu; M Govender; S Thirukkanesh; SD Maharaj,Radiating fluid sphere immersed in an anisotropic atmosphere,2017,False,False
+1256,L. Aké Hau; J. L. Flores; J. Herrera,Causality and c-completion of multiwarped spacetimes,2017,False,False
+1257,Ian Hinder; Lawrence E. Kidder; Harald P. Pfeiffer,An eccentric binary black hole inspiral-merger-ringdown gravitational  waveform model from numerical relativity and post-Newtonian theory,2017,False,True
+1258,Stefano Lucat; Tomislav Prokopec,Is conformal symmetry really anomalous?,2017,False,False
+1259,M. Sharif; Arfa Waseem,"On the Stability of Einstein Universe in f(R,T,R_{μν}T^{μν})  Gravity",2017,False,False
+1260,Bruno Arderucio-Costa; William Unruh,Model for Quantum Effects in Stellar Collapse,2017,False,False
+1261,Donato Bini; Thibault Damour,"Gravitational spin-orbit coupling in binary systems, post-Minkowskian  approximation and effective one-body theory",2017,False,False
+1262,Kimet Jusufi; Farook Rahaman; Ayan Banerjee,Semiclassical gravitational effects on the gravitational lensing in the  spacetime of topological defects,2017,False,False
+1263,Shinsuke Kawai; Yuji Sugawara,D-branes in T-fold conformal field theory,2007,False,False
+1264,Shaoyu Yin; Ru-Keng,The intrinsic degree of freedom for quasiparticle in thermodynamics with  medium effects,2007,False,False
+1265,Shehu S. AbdusSalam; Joseph P. Conlon; Fernando Quevedo; Kerim Suruliz,Scanning the Landscape of Flux Compactifications: Vacuum Structure and  Soft Supersymmetry Breaking,2007,False,False
+1266,Ekaterina Pozdeeva,Quadratic supersymmetric transformations of the Dirac Green functions,2007,False,False
+1267,Harald Grosse; Raimar Wulkenhaar,8D-spectral triple on 4D-Moyal space and the vacuum of noncommutative  gauge theory,2007,False,False
+1268,P. S. Bisht; O. P. S. Negi,Revisiting Quaternionic Dual Electrodynamics,2007,False,False
+1269,Edmund J. Copeland; Antonio Padilla; Paul M. Saffin,No resonant tunneling in standard scalar quantum field theory,2007,False,False
+1270,A. I. Karanikas; C. N. Ktorides,Establishing the Uniqueness of the Connection between SdS_5 and  Conformally Invariant Relativistic Systems: A Group/Field Theoretical  Approach,2007,False,False
+1271,Mariano Cadoni,Induced gravity and entanglement entropy of 2D black holes,2007,False,True
+1272,Marco Billo; Paolo Di Vecchia; Marialuisa Frau; Alberto Lerda; Raffaele Marotta; Igor Pesando,Instanton effects in N=1 brane models and the Kahler metric of twisted  matter,2007,False,False
+1273,Yoshiki Imai; Norio Kawakami,Spectral functions in itinerant electron systems with geometrical  frustration,2002,False,False
+1274,M. Potthoff,Metal-insulator transitions at surfaces,2002,False,False
+1275,H. Tanaka; T. Ono; H. A. Katori; H. Mitamura; F. Ishikawa; T. Goto,Magnetic Phase Transition and Magnetization Plateau in Cs$_2$CuBr$_4$,2002,False,False
+1276,Gergely Zarand; Eugene Demler,Quantum phase transitions in the Bose-Fermi Kondo model,2002,False,False
+1277,T. Barnes,"Boundaries, Cusps and Caustics in the Multimagnon Continua of 1D Quantum  Spin Systems",2002,False,False
+1278,Han-Jin Noh; E. -J. Cho; K. H. Kim; H. -D. Kim; S. -J. Oh,"Photoemission Line shape Study on  La$_{0.7}$Sr$_{0.3}$Mn$_{1-δ}$Al$_δ$O$_{3}$ ($δ$ = 0, 0.03,  0.06)",2002,False,False
+1279,Lijun Zhu; Qimiao Si,Critical local moment fluctuations in the Bose-Fermi Kondo model,2002,False,False
+1280,Nic Shannon; Andrey V. Chubukov,"A novel spin wave expansion, finite temperature corrections and order  from disorder effects in the double exchange model",2002,False,False
+1281,R. Y. Gu; C. S. Ting,"Essential Role of the Cooperative Lattice Distortion in the Charge,  Orbital and Spin Ordering in doped Manganites",2002,False,False
+1282,M. Nicklas; V. A. Sidorov; H. A. Borges; P. G. Pagliuso; C. Petrovic; Z. Fisk; J. L. Sarrao; J. D. Thompson,Magnetism and superconductivity in Ce_2RhIn_8,2002,False,False
+1283,Adam Iaizzi; Harley D Scammell; Oleg P Sushkov; Anders W Sandvik,Bose-Einstein condensation of deconfined spinons in two dimensions,2019,False,False
+1284,Konrad Gillmeister; Denis Golež; Cheng-Tien Chiang; Nikolaj Bittner; Yaroslav Pavlyukh; Jamal Berakdar; Philipp Werner; Wolf Widdra,Ultrafast coupled charge and spin dynamics in strongly correlated NiO,2019,False,False
+1285,H. Murayama; Y. Sato; T. Taniguchi; R. Kurihara; X. Z. Xing; W. Huang; S. Kasahara; Y. Kasahara; I. Kimchi; M. Yoshida; Y. Iwasa; Y. Mizukami; T. Shibauchi; M. Konczykowski; Y. Matsuda,Effect of quenched disorder on a quantum spin liquid state of  triangular-lattice antiferromagnet 1T-TaS$_2$,2019,False,False
+1286,Hong-Chen Jiang; Shuai Chen; Zheng-Yu Weng,Critical role of the sign structure in the doped Mott insulator:  Superconductivity vs. Fermi liquid,2019,False,False
+1287,Shun Okumura; Satoru Hayami; Yasuyuki Kato; Yukitoshi Motome,Tracing Monopoles and Anti-monopoles in a Magnetic Hedgehog Lattice,2019,False,False
+1288,Johan Carlström,Strong-coupling diagrammatic Monte Carlo technique for correlated  fermions and frustrated spins,2019,False,False
+1289,Ilkem Ozge Ozel; Carina A. Belvin; Edoardo Baldini; Itamar Kimchi; Seunghwan Do; Kwang-Yong Choi; Nuh Gedik,Magnetic field-dependent low-energy magnon dynamics in $α$-RuCl3,2019,False,False
+1290,Ziba Zangeneh; Stanislav Avdoshenko; Jeroen van den Brink; Liviu Hozoi,Single-site magnetic anisotropy governed by inter-layer cation charge  imbalance in triangular-lattice AYbX$_2$,2019,False,False
+1291,Yuekun Niu; Jian Sun; Yu Ni; Yun Song,A dynamical mean-field study of orbital-selective Mott phase enhanced by  next-nearest neighbor hopping,2019,False,False
+1292,Yuekun Niu; Jian Sun; Yu Ni; Jingyi Liu; Yun Song; Shiping Feng,Doublon-holon excitations split by Hund's rule coupling within the  orbital-selective Mott phase,2019,False,False
+1293,Guoying Chee,Stability of de Sitter solutions sourced by dark spinors,2010,False,False
+1294,A. B. Arbuzov; B. M. Barbashov; R. G. Nazmitdinov; V. N. Pervushin; A. Borowiec; K. N. Pichugin; A. F. Zakharov,Conformal Hamiltonian Dynamics of General Relativity,2010,False,False
+1295,R. K. Tiwari; Farook Rahaman; Saibal Ray,Five Dimensional Cosmological Models in General Relativity,2010,False,False
+1296,Giovanni Amelino-Camelia; Niccolo' Loret; Gianluca Mandanici; Flavio Mercati,Gravity in quantum spacetime,2010,False,False
+1297,Xin Li; Zhe Chang,Possible quantum gravity effects on the gravitational deflection of  light,2010,False,False
+1298,T. Singh; R. Chaubey,Bianchi Type-V and VI$_0$ Universes with Dilaton and Magnetic Fields,2010,False,False
+1299,M. D. Maia,Gravitational Waves from Coalescing Binary Sources,2010,False,False
+1300,Florian Conrady; Jeff Hnybida,"Unitary irreducible representations of SL(2,C) in discrete and  continuous SU(1,1) bases",2010,False,True
+1301,J. Julve; A. Tiemblo,Dynamical variables in Gauge-Translational Gravity,2010,False,False
+1302,M. Cattani,Einstein Gravitation Theory: Experimental Tests,2010,False,False
+1303,F. Rodolakis; P. Hansmann; J. -P. Rueff; A. Toschi; M. W. Haverkort; G. Sangiovanni; A. Tanaka; T. Saha-Dasgupta; O. K. Andersen; K. Held; M. Sikora; I. Alliot; J. -P. Itié; F. Baudelet; P. Wzietek; P. Metcalf; M. Marsi,Inequivalent routes across the Mott transition in V2O3 explored by X-ray  absorption,2010,False,False
+1304,Fa Wang,Realization of the Exactly Solvable Kitaev Honeycomb Lattice Model in a  Spin Rotation Invariant System,2010,False,False
+1305,M. A. de Vries; A. C. McLaughlin; J-W. G. Bos,Valence bond glass on an fcc lattice in the double perovskite Ba2YMoO6,2010,False,False
+1306,J. G. Sereni; M. Gomez Berisso; G. Schmerber; A. Braghta; J. P. Kappler,Suppression of the Shastry-Sutherland phase in Ce$_{2}$Pd$_{2}$Sn at a  field induced critical point,2010,False,False
+1307,Rajiv R. P. Singh,Neutron spectra of Herbertsmithite Materials: Observation of a Valence  Bond Liquid phase?,2010,False,False
+1308,M. Khodas; A. M. Tsvelik,Influence of Thermal Fluctuations of Spin Density Wave Order Parameter  on the Quasiparticle Spectral Function,2010,False,False
+1309,Philippe Mendels; Fabrice Bert,Quantum Kagome antiferromagnet ZnCu3(OH)6Cl2,2010,False,False
+1310,Tao Li,Metal-insulator transition in quarter-filled Hubbard model on triangular  lattice and its implication for the physics of $Na_{0.5}CoO_{2}$,2010,False,False
+1311,Satoshi Nishimoto; Masaaki Nakamura; Aroon O'Brien; Peter Fulde,Metal-insulator transition of the Kagome lattice fermions at 1/3 filling,2010,False,False
+1312,Eric Ressouche; Virginie Simonet; Benjamin Canals; Marin Gospodinov; Vassil Skumryev,Magnetic frustration in an iron based Cairo pentagonal lattice,2010,False,False
+1313,S. El Shawish; O. Cepas; S. Miyashita,Electron spin resonance in S=1/2 antiferromagnets at high temperature,2010,False,False
+1314,O. Volkova; I. Morozov; V. Shutov; E. Lapsheva; P. Sindzingre; O. Cepas; M. Yehia; V. Kataev; R. Klingeler; B. Büchner; A. Vasiliev,The incarnation of the Nersesyan-Tsvelik model in (NO)[Cu(NO3)3],2010,False,False
+1315,J. Custers; P. Gegenwart; C. Geibel; F. Steglich; P. Coleman; S. Paschen,Evidence for a Non-Fermi-Liquid Phase in Ge-Substituted YbRh2Si2,2010,False,False
+1316,Jim Long Her; Yasuhiro H. Matsuda; Motohiro Nakano; Yasuhiro Niwa; Yasuhiro Inada,Magnetic-field-induced spin-crossover transition in  [Mn$^{\textrm{III}}$(taa)] studied by X-ray absorption spectroscopy,2010,False,False
+1317,Emanuel Gull; David R. Reichman; Andrew J. Millis,Bold Line Diagrammatic Monte Carlo Method: General formulation and  application to expansion around the Non-Crossing Approximation,2010,False,False
+1318,P. A. Bhobe; A. Chainani; M. Taguchi; T. Takeuchi; R. Eguchi; M. Matsunami; K. Ishizaka; Y. Takata; M. Oura; Y. Senba; H. Ohashi; Y. Nishino; M. Yabashi; K. Tamasaku; T. Ishikawa; K. Takenaka; H. Takagi; S. Shin,Evidence for a correlated insulator to antiferromagnetic metal  transition in CrN,2010,False,False
+1319,Nicholas P. Butch; M. Brian Maple,The suppression of hidden order and onset of ferromagnetism in URu2Si2  via Re substitution,2010,False,False
+1320,Maxim Kharitonov,Interaction-enhanced magnetically ordered insulating state at the edge  of a two-dimensional topological insulator,2010,False,False
+1321,J. M. P. Carmelo,d-wave superconductivity in the virtual-electron pair quantum liquid,2010,False,False
+1322,S. Chu; T. M. McQueen; R. Chisnell; D. E. Freedman; P. Müller; Y. S. Lee; D. G. Nocera,A Cu2+ (S = 1/2) Kagomé Antiferromagnet: MgxCu4-x(OH)6Cl2,2010,False,False
+1323,V. N. Glazkov; A. I. Smirnov; R. M. Eremina; G. Dhalenne; A. Revcolevschi,Magnetic Resonance of Spin Clusters and Triplet Excitations in a  Spin-Peierls Magnet with Impurities,2001,False,False
+1324,P. Brune; G. I. Japaridze; A. P. Kampf; M. Sekania,Phase diagram and optical conductivity of the ionic Hubbard model,2001,False,False
+1325,R. Citro; E. Orignac,Effects of anisotropic spin-exchange interactions in spin ladders,2001,False,False
+1326,Synge Todo; Munehisa Matsumoto; Chitoshi Yasuda; Hajime Takayama,Plaquette-singlet solid state and topological hidden order in spin-1  antiferromagnetic Heisenberg ladder,2001,False,False
+1327,Jozef Spalek; Adam Rycerz,Electron localization in one dimension obtained from combined exact  diagonalization - ab initio approach,2001,False,False
+1328,Alexander O. Gogolin; Andrei Komnik,Field emission from Luttinger liquids and single-wall carbon nanotubes,2001,False,False
+1329,Mark Auslender; Eugene Kogan,Ferromagnetic transition in a double-exchange system with alloy disorder,2001,False,False
+1330,A. M. Shvaika,An analytical strong coupling approach in dynamical mean-field theory,2001,False,False
+1331,S. V. Kravchenko; A. A. Shashkin; V. T. Dolgopolov,"Comment on ""Low-Density Spin Susceptibility and Effective Mass of Mobile  Electrons in Si Inversion Layers""",2001,False,False
+1332,O. Cepas; K. Kakurai; L. P. Regnault; T. Ziman; J. P. Boucher; N. Aso; M. Nishi; H. Kageyama; Y. Ueda,Dzyaloshinski-Moriya Interaction in the 2D Spin Gap System SrCu2(BO3)2,2001,False,False
+1333,Subrata Bal; Hiroyuki Takata,Interaction between two Fuzzy Spheres,2001,False,False
+1334,Paul H. Frampton,Finite-N Conformality and Gauge Coupling Unification,2001,False,False
+1335,D. G. C. McKeon; T. N. Sherry,Spinors and Supersymmetry,2001,False,False
+1336,Kazuhiro Hikami,Hyperbolicity of Partition Function and Quantum Gravity,2001,False,False
+1337,Arvind Rajaraman; Moshe Rozali,Boundary States for D-branes in $AdS_3$,2001,False,False
+1338,Boyu Hou; Yongqiang Wang; Zhanying Yang; Ruihong Yue,The Geometric Construction of WZW Effective Action in Non-commutative  Manifold,2001,False,False
+1339,Norihiro Iizuka; Daniel Kabat; Gilad Lifschytz; David A. Lowe,Probing black holes in non-perturbative gauge theory,2001,False,True
+1340,Klaus Kirsten,Heat kernel asymptotics: more special case calculations,2001,False,False
+1341,P. Merlatti,The enhancon mechanism for fractional branes,2001,False,False
+1342,Chong-Sun Chu; Valentin V. Khoze; Gabriele Travaglini,Notes on Noncommutative Instantons,2001,False,False
+1343,Fridrik Freyr Gautason; Brecht Truijen; Thomas Van Riet,The many faces of brane-flux annihilation,2015,False,False
+1344,Hasmik Poghosyan; Gor Sarkissian,On classical and semiclassical properties of the Liouville theory with  defects,2015,False,True
+1345,Simon Moolman,Non-commutative Gravity and the Einstein-Van der Waals Equation of State,2015,False,False
+1346,Pramod Shukla,On modular completion of generalized flux orbits,2015,False,False
+1347,Carlos A. Escobar; Marcos A. G. Garcia,The full CPT-even photon sector of the Standard Model Extension at  finite temperature,2015,False,False
+1348,M. Yu. Malyshev; S. A. Paston; E. V. Prokhvatilov; R. A. Zubov; V. A. Franke,Pauli-Villars Regularization and Light Front Hamiltonian in  (2+1)-dimensional Yang-Mills Theory,2015,False,False
+1349,Prarit Agarwal; Kenneth Intriligator; Jaewon Song,Infinitely many N=1 dualities from $m+1-m=1$,2015,False,False
+1350,Anton F. Faedo; David Mateos; Javier Tarrio,Three-dimensional super Yang-Mills with unquenched flavor,2015,False,False
+1351,H. Hassanabadi; M. Hosseinpour,DKP Equation in a Rotating Frame with Magnetic Cosmic String Background,2015,False,False
+1352,Hirotaka Hayashi; Gianluca Zoccarato,Topological vertex for Higgsed 5d $T_N$ theories,2015,False,False
+1353,V. Yu. Irkhin; A. V. Zarubin,Metal-insulator transition in the Hubbard model: a simple description  including the Kondo effect,2001,False,False
+1354,Urs Ledermann,Dimensional crossover in half-filled and lightly doped N-leg Hubbard  ladders,2001,False,False
+1355,Yukitoshi Motome; Nobuo Furukawa,Critical Phenomena of Ferromagnetic Transition in Double-Exchange  Systems,2001,False,False
+1356,D. Carpentier; C. Peca; L. Balents,Momentum-resolved tunneling between Luttinger liquids,2001,False,False
+1357,Mun Dae Kim; Chul Koo Kim; Kyun Nahm; Chang-Mo Ryu,Ferromagnetic Fixed Point of the Kondo Model in a Luttinger Liquid,2001,False,False
+1358,Jun-ichiro Kishine; Patrick A. Lee; Xiao-Gang Wen,Staggered local density-of-states around the vortex in underdoped  cuprates,2001,False,False
+1359,Gennady Y. Chitov; Andrew J. Millis,The First Temperature Corrections to the Fermi Liquid Fixed Point in Two  Dimensions,2001,False,True
+1360,M. B. Stone; Y. Chen; J. Rittner; H. Yardimci; D. H. Reich; C. Broholm; D. V. Ferraris; T. Lectka,Frustrated 3-Dimensional Quantum Spin Liquid in CuHpCl,2001,False,False
+1361,Nobuo Furukawa,Antiferromagnetism of the Hubbard Model on a Layered Honeycomb Lattice -  Is MgB$_2$ a Nearly-Antiferromagnetic Metal? -,2001,False,False
+1362,P. Simon; I. Affleck,Persistent currents through a quantum dot,2001,False,False
+1363,E. G. Galkina; V. I. Butrim; Yu. A. Fridman; B. A. Ivanov; F. Nori,Inertial longitudinal magnetization reversal for non-Heisenberg  ferromagnets,2013,False,False
+1364,M. I. Ryzhkin; I. A. Ryzhkin; S. T. Bramwell,Dynamic susceptibility and dynamic correlations in spin ice,2013,False,False
+1365,Gyungchoon Go; Kyeong Tae Kang; Jung Hoon Han,Soliton Defects in One-dimensional Topological Three-band Hamiltonian,2013,False,False
+1366,Naoto Tsuji; Philipp Werner,Nonequilibrium dynamical mean-field theory based on weak-coupling  perturbation expansions: Application to dynamical symmetry breaking in the  Hubbard model,2013,False,False
+1367,A. J. Princep; D. Prabhakaran; A. T. Boothroyd; D. T. Adroja,Crystal field states in a Quantum Spin Ice]{Crystal field states of  Pr$^{3+}$ in the candidate quantum spin ice Pr$_{2}$Sn$_{2}$O$_{7}$,2013,False,False
+1368,Kazuma Nakamura; Shiro Sakai; Ryotaro Arita; Kazuhiko Kuroki,Ab initio GW calculation for organic compounds (TMTSF)2PF6,2013,False,False
+1369,D. T. Adroja; A. D. Hillier; Y. Muro; J. Kajino; T. Takabatake; P. Peratheepan; A. M. Strydom; P. P. Deen; F. Demmel; J. R. Stewart; J. W. Taylor; R. I. Smith; S. Ramos; M. A. Adams,Competing 4f-electron dynamics in Ce(Ru1-xFex)2Al10 (x=0 to 1): magnetic  ordering emerging from the Kondo semiconducting state,2013,False,False
+1370,Giuseppe Della Valle; Stefano Longhi,Field-induced ferromagnetism in one-dimensional tight-binding lattices,2013,False,False
+1371,S. Longhi; G. Della Valle,Low-energy doublons in the ac-driven two-species Hubbard model,2013,False,False
+1372,Andreas Rüegg; Chandrima Mitra; Alexander A. Demkov; Gregory A. Fiete,Lattice distortion effects on topological phases in  (LaNiO$_3$)$_2$/(LaAlO$_3$)$_N$ heterostructures grown along the [111]  direction,2013,False,False
+1373,I. L. Buchbinder; E. A. Ivanov; B. S. Merzlikin; K. V. Stepanyantz,"One-loop divergences in the 6D, N=(1,0) abelian gauge theory",2016,False,False
+1374,David Andriot; Johan Blåbäck; Thomas Van Riet,Minkowski flux vacua of type II supergravities,2016,False,False
+1375,Michele Del Zotto; Guglielmo Lockhart,On Exceptional Instanton Strings,2016,False,False
+1376,Victor L. Chernyak,Mass spectra in ${\cal N}=1$ SQCD with additional colorless fields.  Strong coupling regimes. II,2016,False,False
+1377,Jean-Pierre Derendinger,Currents in supersymmetric field theories,2016,False,False
+1378,Bum-Hoon Lee; Daeho Ro; Hyun Seok Yang,Matrix models from localization of five-dimensional supersymmetric  noncommutative U(1) gauge theory,2016,False,False
+1379,Charlotte Sleight; Massimo Taronna,"Higher-Spin Algebras, Holography and Flat Space",2016,False,True
+1380,Ashoke Sen,Wilsonian Effective Action of Superstring Theory,2016,False,False
+1381,Bin Chen; Jie-qiang Wu; Jia-ju Zhang,Holographic Description of 2D Conformal Block in Semi-classical Limit,2016,False,False
+1382,Massimo Porrati; Cedric C. Y. Yu,"Notes on Relevant, Irrelevant, Marginal and Extremal Double Trace  Perturbations",2016,False,True
+1383,Shin'ichi Nojiri; Sergei D. Odintsov; Sachiko Ogushi,A Dynamical Brane in the Gravitational Dual of ${\cal N}=2$ $Sp(N)$  Superconformal Field Theory,2000,False,False
+1384,J. L. Miramontes,Integrable Quantum Field Theories with Unstable Particles,2000,False,True
+1385,Emil T. Akhmedov; Philip DeBoer; Gordon W. Semenoff,Running couplings and triviality of field theories on non-commutative  spaces,2000,False,False
+1386,Takuya Masuda,Normalized Weyl-type $\star$-product on Kähler manifolds,2000,False,False
+1387,M. P. Fry,Mass zeros in the one-loop effective actions of QED in 1+1 and 3+1  dimensions,2000,False,False
+1388,Shijong Ryang,Gauge Symmetry Breaking and Generalized Monopole in Non-BPS D-Brane  Action,2000,False,False
+1389,Nick Dorey; Timothy J. Hollowood; Valentin V. Khoze,A Brief History of the Stringy Instanton,2000,False,False
+1390,B. Eden; C. Schubert; E. Sokatchev,Four - Point Functions of Chiral Primary Operators in N=4 SYM,2000,False,False
+1391,Furuuchi Kazuyuki,Topological Charge of U(1) Instantons,2000,False,False
+1392,Steven S. Gubser,Supersymmetry and F-theory realization of the deformed conifold with  three-form flux,2000,False,False
+1393,Marco Chiodaroli; Michael Gutperle; Darya Krym,Half-BPS Solutions locally asymptotic to AdS_3 x S^3 and interface  conformal field theories,2009,False,False
+1394,Julian Freed-Brown; Vedika Khemani; Vatche Sahakian,D3 branes in a Melvin universe: a new realm for gravitational holography,2009,False,False
+1395,Joaquim Gomis; Kiyoshi Kamimura; Jerzy Lukierski,Deformed Maxwell Algebras and their Realizations,2009,False,False
+1396,Spyros D. Avramis; Jean-Pierre Derendinger; Nikolaos Prezas,Conformal chiral boson models on twisted doubled tori and non-geometric  string vacua,2009,False,False
+1397,Bin Chen; Shi Pi; Jin-Zhang Tang,Power spectra of scalar and tensor modes in modified Horava-Lifshitz  gravity,2009,False,False
+1398,A. Herrera-Aguilar; D. Malagón-Morejón; R. R. Mora-Luna; U. Nucamendi,"Aspects of thick brane worlds: 4D gravity localization, smoothness, and  mass gap",2009,False,False
+1399,Bekir Can Lutfuoglu; Hidenori Sonoda,Perturbative construction of the two-dimensional O(N) non-linear sigma  model with ERG,2009,False,False
+1400,Benoit Vicedo,Hamiltonian dynamics and the hidden symmetries of the AdS_5 x S^5  superstring,2009,False,False
+1401,Masato Taki,M2-branes Theories without 3+1 Dimensional Parents via Un-Higgsing,2009,False,False
+1402,Shannon McCurdy; Bruno Zumino,Covariant Star Product for Exterior Differential Forms on Symplectic  Manifolds,2009,False,False
+1403,Paata Kakashvili; George I. Japaridze,Effective Hamiltonian for a Half-filled Hubbard Chain with Alternating  On-site Interactions,2004,False,False
+1404,J. Rissler; E. Jeckelmann; F. Gebhard,Optical excitations of Peierls-Mott insulators with bond disorder,2004,False,False
+1405,S. Dusuel; Goetz S. Uhrig,The Quartic Oscillator: a Non-Perturbative Study by Continuous Unitary  Transformations,2004,False,False
+1406,Andreas Luscher; Reinhard M. Noack; Gregoire Misguich; Valeri N. Kotov; Frederic Mila,Soliton binding and low-lying singlets in frustrated odd-legged S=1/2  spin tubes,2004,False,False
+1407,G. Górski; J. Mizia; K. Kucab,Magnetic Ordering of Itinerant Systems in Modified CPA Approximation,2004,False,False
+1408,P. Paci; M. Capone; E. Cappelluti; S. Ciuchi; C. Grimaldi; L. Pietronero,Polaronic and nonadiabatic phase diagram from anomalous isotope effects,2004,False,False
+1409,A. Ino; T. Okane; S. -I. Fujimori; A. Fujimori; T. Mizokawa; Y. Yasui; T. Nishikawa; M. Sato,Evolution of the electronic structure from electron-doped to hole-doped  states in the two-dimensional Mott-Hubbard system La1.17-xPbxVS3.17,2004,False,False
+1410,V. Pardo; P. Blaha; M. Iglesias; K. Schwarz; D. Baldomir; J. E. Arias,Magnetic structure and orbital ordering in BaCoO3 from first-principles  calculations,2004,False,False
+1411,D. K. Sunko,Fermion kinetics in the Falicov-Kimball limit of the three-band Emery  model,2004,False,False
+1412,S. H. Curnoe; H. Harima; K. Takegahara; K. Ueda,Theory of Metal-Insulator Transition in PrRu4P12 and PrFe4P12,2004,False,False
+1413,Zhijin Li,Large $N$ analytical functional bootstrap I: 1D CFTs and total  positivity,2023,False,False
+1414,Pietro Benetti Genolini; Alejandro Cabo-Bizet; Sameer Murthy,Supersymmetric phases of AdS$_4$/CFT$_3$,2023,False,False
+1415,Nelson R. F. Braga; Luiz F. Ferreira; Octavio C. Junqueira,Configuration entropy of a rotating quark-gluon plasma from holography,2023,False,True
+1416,Minhajul Islam,Carrollian Yang-Mills Theory,2023,False,False
+1417,Joydeep Chakravarty; Diksha Jain; Akhil Sivakumar,Holography of information in massive gravity using Dirac brackets,2023,False,True
+1418,Eduardo García-Valdecasas,Non-Invertible Symmetries in Supergravity,2023,False,False
+1419,Harold Erbin,String Field Theory -- A Modern Introduction,2023,False,True
+1420,Jan Troost,Topological Two-Dimensional Gravity on Surfaces with Boundary,2023,False,False
+1421,M. P. Garcia del Moral; P. Leon; A. Restuccia,Supersymmetric algebra of the massive supermembrane,2023,False,False
+1422,Nikita Nekrasov,Analytic continuation and supersymmetry,2023,False,True
+1423,Katrin Becker; Nathan Brady; Anindya Sengupta,On Fluxes in the $1^9$ Landau-Ginzburg Model,2023,False,False
+1424,Vasileios A. Letsios,New conformal-like symmetry of strictly massless fermions in  four-dimensional de Sitter space,2023,False,False
+1425,Yusuke Kimura,Black hole graviton and quantum gravity,2023,False,True
+1426,Mang Hei Gordon Lee,From Amplitudes to Analytic Wavefunctions,2023,False,False
+1427,Eivind Jørstad; Sabrina Pasterski; Atul Sharma,Equating Extrapolate Dictionaries for Massless Scattering,2023,False,False
+1428,Bruno Bucciotti; Franco Strocchi,A note on Gauss operators and quantizations of Yang-Mills theories,2023,False,False
+1429,Osvaldo Chandia; João Gomide,B-RNS-GSS Type II superstring in Ramond-Ramond backgrounds,2023,False,False
+1430,Chen-Pin Yeh,Shock Waves in Holographic EPR pair,2023,False,True
+1431,Yannick Mvondo-She,"Urn models, Markov chains and random walks in cosmological topologically  massive gravity at the critical point",2023,False,False
+1432,Eugenio Bianchi; Daniele Regoli; Carlo Rovelli,Face amplitude of spinfoam quantum gravity,2010,False,False
+1433,R. Sturani; S. Fischetti; L. Cadonati; G. M. Guidi; J. Healy; D. Shoemaker; A. Viceré,Complete phenomenological gravitational waveforms from spinning  coalescing binaries,2010,False,False
+1434,Stefan Horatschek; David Petroff,Uniformly Rotating Homogeneous Rings in post-Newtonian Gravity,2010,False,False
+1435,Leonardo Amarilla; Ernesto F. Eiroa; Gaston Giribet,Null geodesics and shadow of a rotating black hole in extended  Chern-Simons modified gravity,2010,False,False
+1436,Chandra Kant Mishra; K. G. Arun; Bala R. Iyer; B. S. Sathyaprakash,Parametrized tests of post-Newtonian theory using Advanced LIGO and  Einstein Telescope,2010,False,False
+1437,Lau Loi So,Algebraic Rainich conditions for the tensor V,2010,False,False
+1438,D. G. Pak,"Confinement, Vacuum Structure: from QCD to Quantum Gravity",2010,False,False
+1439,Anil Kumar Yadav,Bianchi Type I Anisotropic Universe without Big Smash Driven by Law of  Variation of Hubble's Parameter,2010,False,False
+1440,Thomas Bäckdahl; Juan A. Valiente Kroon,On the construction of a geometric invariant measuring the deviation  from Kerr data,2010,False,False
+1441,Bartolomé Coll; Joan Josep Ferrando; Juan Antonio Morales-Lladosa,Positioning in a flat two-dimensional space-time: the delay master  equation,2010,False,False
+1442,Y. Nishikawa; D. J. G. Crow; A. C. Hewson,Phase diagram and critical points of a double quantum dot,2012,False,False
+1443,Hua Wu,Metal-insulator transition in Sr2-xLaxCoO4 driven by spin-state  transition,2012,False,False
+1444,N. J. Perks; R. D. Johnson; C. Martin; L. C. Chapon; P. G. Radaelli,Magneto-orbital helices and multiferroicity,2012,False,False
+1445,Philipp Werner; Naoto Tsuji; Martin Eckstein,Nonthermal symmetry broken states in the strongly interacting Hubbard  model,2012,False,False
+1446,Predrag Nikolic; Zlatko Tesanovic,Pairing instabilities in topological insulator quantum wells,2012,False,False
+1447,L. S. Wu; Y. Janssen; M. C. Bennett; M. C. Aronson,Localized moments and the stability of antiferromagnetic order in Yb3Pt4,2012,False,False
+1448,Fawaz Hrahsheh; José A. Hoyos; Thomas Vojta,Rounding of a first-order quantum phase transition to a strong-coupling  critical point,2012,False,True
+1449,Balázs Hetényi,Current Response in Extended Systems as a Geometric Phase: Application  to Variational Wavefunctions,2012,False,False
+1450,S. Iguchi; S. Sasaki; N. Yoneyama; H. Taniguchi; T. Nishizaki; T. Sasaki,Relaxor ferroelectricity induced by electron correlations in a molecular  dimer Mott insulator,2012,False,False
+1451,Guoren Zhang; Evgeny Gorelov; Erik Koch; Eva Pavarini,"Importance of exchange-anisotropy and superexchange for the spin-state  transitions in LnCoO3 (Ln=La,Y,RE) cobaltates",2012,False,False
