@@ -3,7 +3,7 @@
 #### -- Project Status: [ Active ]
 
 ## Project Intro/Objective
-This project contains some code meant to analyse my Zotero library containg journal articles I have been amassing for many years. The objective is to build some scraping and recommendation system on the arXiv in order to find and classify new papers and help find relevant research tuned to my interests. This project can be viewed as an improvement over the basic scraper and keyword highlighter I previously developped: [arxiv_scanner_flask](https://github.com/NicolasChagnet/arxiv_scanner_flask)
+This project contains some code meant to analyse my Zotero library containg journal articles I have been amassing for many years. The objective is to build some scraping and recommendation system on the arXiv in order to find and classify new papers and help find relevant research tuned to my interests. This project can be viewed as an improvement over the basic scraper and keyword highlighter I previously developped: [arxiv_scanner_flask](https://github.com/NicolasChagnet/arxiv_scanner_flask).
 
 <!--
 ### Collaborators
@@ -35,6 +35,8 @@ This project involved various critical aspects of data science and is meant as a
 
 
 ## Getting Started
+
+The notebook dealing with the data merging and arXiv random sampling can be found in [this notebook](notebooks/0_dataset_filtering.ipynb). The proof of concept for the recommender system and the classifier can be found in [this notebook](notebooks/1_exploratory_data_analysis.ipynb).
 
 TODO
 
