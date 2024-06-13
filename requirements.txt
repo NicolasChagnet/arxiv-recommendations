@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+feedparser==6.0.10
+imbalanced_learn==0.12.3
+matplotlib==3.8.3
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.2
+pyprojroot==0.3.0
+Requests==2.32.3
+scikit_learn==1.4.1.post1
+seaborn==0.13.2

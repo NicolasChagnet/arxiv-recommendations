@@ -17,6 +17,7 @@ This project contains some code meant to analyse my Zotero library containg jour
 * Data Visualization
 * Predictive Modeling
 * Content-based recommendation system
+* Natural Language Processing
 * Web scraping
 
 ### Technologies
@@ -29,16 +30,25 @@ This project involved various critical aspects of data science and is meant as a
 - **Analysis**: Analyze the dataset of arXiv articles (included in my library or not) in order to identify trends in topics, authors.
 - **Encoding**: A novel technical aspect I used this project to train myself on is encoding text-based features.
 - **Recommender system**: Using the sparsely encoded title, author list and category list of the articles, I built and compared various cosine similarity matrices which then served as recommendation matrices. This is a simple yet very effective system.
-- **Classifier**: I built a classifier model (using a basic Random Forest Classifier) in order to predict whether an article *should* be included in my library (hence whether it should be recommended) without having to recalculate the entire similarity matrix. To train the model, since the in-library subset is small and the datsaset is imbalanced, I used oversampling methods in order to rebalance the dataset.
-- **Packaging** (TODO): This project can also pull new daily arXiv articles and use the trained model to extract which articles should be read in priority.
-- **Re-training** (TODO): The underlying model can keep learning as new data is added daily and the use confirms addition to the library.
+- **Classifier**: I built an unsupervised clustering system for topics using the summary column and non-negative matrix factorization. Each author is then attributed a list of most frequent topics which will be used as encoding for authors. Therefore, similarity between authors will now mean similarity of interests instead of textual similarity.
+- **Packaging**: This project can be ran as a standalone script with any arXiv identifier. The program will first pull the article from arXiv and then run the similarity pipeline before returning recommendations.
 
 
 ## Getting Started
 
-The notebook dealing with the data merging and arXiv random sampling can be found in [this notebook](notebooks/0_dataset_filtering.ipynb). The proof of concept for the recommender system and the classifier can be found in [this notebook](notebooks/1_exploratory_data_analysis.ipynb).
+The notebook dealing with the data merging and arXiv random sampling can be found in [this notebook](notebooks/0_dataset_filtering.ipynb). The proof of concept for the recommender system and the classifier can be found in [this notebook](notebooks/1_exploratory_data_analysis.ipynb). The improvement with target encoding for authors can be found in [this notebook](notebooks/2_build_target_encoding_dataset.ipynb).
 
-TODO
+To see how to use this code, just run `python3 main.py --help` or any of the command below:
+```bash
+# Get recommendations for an article
+python3 main.py 2303.17685
+
+# Change the number of recommendations
+python3 main.py 2303.17685 -n 30
+
+# Use the target encoding instead of basic encoding for authors (slower)
+python3 main.py 2303.17685 --encode_topics
+```
 
 
 <!-- ## Featured Notebooks/Analysis/Deliverables

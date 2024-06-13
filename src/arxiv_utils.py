@@ -10,6 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 from src import config
 import time
+from datetime import date, timedelta
 
 
 def query_arxiv(query):
@@ -106,25 +107,34 @@ def get_random_articles_arxiv(cat, year, n_articles=10):
     return rnd.sample(entries, n_articles)
 
 
-# def get_random_articles_arxiv_monthyear(month, year, n_articles=10):
-#     """Given a month and year, queries the arXiv API and returns 10 random articles in a random category.
+def get_latest_articles_arxiv(start=None, end=None, n_articles=1000):
+    """Given a start and end date, queries the arXiv API and returns the latest articles.
 
-#     Args:
-#         month (int): Month selection.
-#         year (int): Year selection.
-#         n_articles (int, optional): Number of articles to return from the query. Defaults to 10.
+    Args:
+        start (str, optional): Start date in the format YYYYMMDD. Defaults to yesterday.
+        end (str, optional): End date in the format YYYYMMDD. Defaults to today.
+        n_articles (int, optional): Maximum number of articles to return from the query. Defaults to 1000.
 
-#     Returns:
-#         list(dict) | None: List of random articles obtained through the query.
-#     """
-#     month_str = "{:02d}".format(month)
-#     query = (
-#         f"http://export.arxiv.org/api/query?search_query=submittedDate:[{year}{month_str}01+TO+{year}{month_str}31]"
-#     )
-#     entries = query_arxiv(query)
-#     if entries is None:
-#         return None
-#     return rnd.sample(entries, n_articles)
+    Returns:
+        pandas.DataFrame: DataFrame of articles obtained through the query.
+    """
+    if start is None:
+        start = (date.today() - timedelta(days=2)).strftime("%Y%m%d")
+    if end is None:
+        end = date.today().strftime("%Y%m%d")
+    search_parts = [f"(cat:{cat}+AND+submittedDate:[{start}+TO+{end}])" for cat in config.arxiv_cats]
+    # query_parts = ["cat:hep-th"]
+    search_part = "+OR+".join(search_parts)
+    query_parts = {
+        "max_results": str(n_articles),
+        "sortBy": "submittedDate",
+        "sortOrder": "ascending",
+        "search_query": search_part,
+    }
+    query = "http://export.arxiv.org/api/query?" + "&".join([f"{key}={val}" for key, val in query_parts.items()])
+    entries = query_arxiv(query)
+
+    return build_arxiv_df([build_arxiv_dict(entry) for entry in entries])
 
 
 def get_random_articles(n_articles=10):

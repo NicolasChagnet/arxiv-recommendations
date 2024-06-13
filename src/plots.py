@@ -28,3 +28,25 @@ def plot_top_n(vocab_1, vocab_2, cols, ntop=10, ax=None):
         .rename(columns={0: cols[0], 1: cols[1]})
     )
     top_title_df.plot(kind="bar", ax=ax)
+
+
+# Found on the documentation:
+# https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html#sphx-glr-auto-examples-applications-plot-topics-extraction-with-nmf-lda-py
+def plot_top_words(model, feature_names, title, n_top_words=20, nrows_cols=(4, 5)):
+    fig, axes = plt.subplots(nrows_cols[0], nrows_cols[1], figsize=(30, 15), sharex=True)
+    axes = axes.flatten()
+    for topic_idx, topic in enumerate(model.components_):
+        top_features_ind = topic.argsort()[-n_top_words:]
+        top_features = feature_names[top_features_ind]
+        weights = topic[top_features_ind]
+
+        ax = axes[topic_idx]
+        ax.barh(top_features, weights, height=0.7)
+        ax.set_title(f"Topic {topic_idx +1}", fontdict={"fontsize": 30})
+        ax.tick_params(axis="both", which="major", labelsize=20)
+        for i in "top right left".split():
+            ax.spines[i].set_visible(False)
+        fig.suptitle(title, fontsize=40)
+
+    plt.subplots_adjust(top=0.90, bottom=0.05, wspace=0.90, hspace=0.3)
+    plt.show()
