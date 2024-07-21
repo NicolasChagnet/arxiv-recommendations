@@ -1,0 +1,11 @@
+pyprojroot
+scikit_learn
+beautifulsoup4
+matplotlib
+imbalanced_learn
+numpy
+seaborn
+pandas
+argparse
+pathlib
+nltk
